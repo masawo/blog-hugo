@@ -1,0 +1,28 @@
+---
+layout: post
+title: コメントSPAM
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+このところ、英字のコメントSPAMがわりと頻繁に来ています。
+
+そのほとんどが「Nice site. Thank you!」みたいなのばっかり。
+
+対策として、MTの SpamLookup プラグインの設定をちょっと変えてみることに。
+
+<!--more-->
+SpamLookup Keyword Filter プラグインの迷惑キーワード設定に、以下を設定しました。
+<pre>
+thank 5
+</pre>
+コメント内容に thank というキーワードが入っていると、Junkポイント5点がつくみたいな感じです。
+
+これでちょっと様子を見てみようかな。
+
+余談ですが、長年メインで使ってきたメールアドレスもSPAM汚染が甚だしいので、徐々に別のアドレスに移籍中です。
+
+＃自分自身も近日に引っ越しをするので、そのついでだったり。

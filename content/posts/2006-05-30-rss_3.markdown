@@ -1,0 +1,27 @@
+---
+layout: post
+title: 日本サッカー協会のサイトがリニューアル、RSSも配信
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+数日前？に日本サッカー協会のサイトがリニューアルされたようですね。
+RSSも配信されるようになりました。
+
+<a title="JFA" href="http://www.jfa.or.jp/">JFA</a>
+
+(トップ右上にオレンジのRSSアイコンがあります)
+
+こちらでは旧 jfa.or.jp をクロールしてRSSを作って配信してましたが、その役目も終わったようです。
+これまで配信していた以下にアクセスされると、本家のRSSに飛ぶようにリダイレクト設定をしておきました。
+
+wo.skr.jp/rss/jfa.xml
+
+wo.dip.jp/rss/jfa.xml
+
+.htaccess の設定
+<blockquote>redirect permanent /rss/jfa.xml http://www.jfa.or.jp/rssfeed/index.xml</blockquote>
+なのでRSSリーダーにうちのRSSを登録している方にも影響しないと思いますが、なるべく本家RSSに登録し直すようおねがいします。

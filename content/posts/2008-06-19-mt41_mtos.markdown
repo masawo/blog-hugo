@@ -1,0 +1,31 @@
+---
+layout: post
+title: MT4.1 から MTOS への移行
+tags:
+- 開発系
+status: publish
+type: post
+published: true
+meta: {}
+---
+MT4.2 が出そうな昨今に <a href="http://gihyo.jp/magazine/WSE/archive/2008/vol18">WebSite expert #18</a> を読んだら、MTOSにしたくなってきたので入れ替えてみました。
+
+入れたバージョンは <a href="http://www.movabletype.org/opensource/downloads/nightlies/">Nightly Builds</a> にある MTOS-4.2-en-release-39-r2511-20080604 。
+
+- <a href="http://www.movabletype.jp/documentation/start_backup.html">ブログの完全バックアップと、データベースのバックアップ | Movable Type 4 ドキュメント</a>
+を参考に、ブログの完全バックアップを取る
+- 念のため mt/ 以下のバックアップと、mysqldumpも取得
+- mt/ 以下を抹消して、MTOSをインストール
+- <a href="http://www.movabletype.jp/documentation/start_restore.html">バックアップしたブログの復元 | Movable Type 4 ドキュメント</a>
+の手順で、バックアップしたブログを復元
+
+結構スムーズにできた、かな。
+
+ついでに使用データベースを、MySQL から SQLite に変えてみました。
+
+<!--more-->
+一緒にやったこと
+- 「ブログのテンプレートを初期化」を実行して初期化
+- Google Adsense や Analytics の内容を書いたテンプレートモジュールを作って、「ブログ記事」や「バナーフッター」に組み込む
+- 移行前、ルートディレクトリ直下に散らばっていた画像などのパス修正
+こうしてテンプレートモジュールをいじってみて、ああMTって良く作り込まれてるな、って改めて思ったり。

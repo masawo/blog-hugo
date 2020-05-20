@@ -1,0 +1,12 @@
+---
+layout: post
+title: 横浜×セルティック
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">日産のメイン真ん中は初めて</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1154599526.26-0.jpg" /></div>

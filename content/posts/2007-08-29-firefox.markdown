@@ -1,0 +1,16 @@
+---
+layout: post
+title: ウインドウサイズが勝手に変更されるのを防ぐ(Firefox)
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://www.j-league.or.jp/live/" title="Ｊリーグ公式サイト：試合速報">Ｊリーグ公式サイト：試合速報(※リサイズ注意)</a>がリニューアルされてポップアップウインドウ形式になったのですが、このURLをFirefoxのタブで開くとウインドウサイズを変更されてしまいます。若干不快。
+
+対処方法を調べてみると、簡単なオプション設定で解決できる模様。
+<a href="http://www.popxpop.com/archives/2007/03/firefox_6.html" title="Firefoxでウィンドウサイズを変更されないようにするちょっとした設定 | P O P * P O P">Firefoxでウィンドウサイズを変更されないようにするちょっとした設定 | P O P * P O P</a>
+
+これで無問題ですな。

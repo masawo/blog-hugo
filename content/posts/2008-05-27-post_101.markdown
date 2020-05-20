@@ -1,0 +1,50 @@
+---
+layout: post
+title: moblog on MovableType 4.1
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+MT4.1にしたら、なぜか <a href="http://moblog.uva.ne.jp">moblog.uva.ne.jp</a> による携帯メールでの投稿が不調に。
+(投稿内容が空になってしまう)
+<div class="caption">写真</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1211878261.54-0.jpg" /></div>
+
+<!--more-->
+ググってみて、以下を参考に1箇所のプログラム修正をしてみました。
+
+<a href="http://www.sunahama.com/uchi/archives/2008/04/post_156.html" title="Uchi's Home（内田 徹ホームページ）: モブログからの投稿時間がズレる原因判明（MT4.1でXMPRPC を通じてエントリを作成すると 9時間前の時刻になってしまう）">Uchi's Home（内田 徹ホームページ）: モブログからの投稿時間がズレる原因判明（MT4.1でXMPRPC を通じてエントリを作成すると 9時間前の時刻になってしまう）</a>
+
+これで時刻のずれは直ったものの、本文が空になるのは変わらず。
+
+では別のサービスを試してみよう、ということで
+
+<a href="http://www.moblogkun.com/">モブログくん</a>
+
+に登録して試してみたところ、無事に本文も投稿できました。
+
+（このエントリーはそのときテスト投稿したものを再利用して書いてます）
+
+長いこと moblog.uva.ne.jp にお世話になっていたので、ちょっと無念な気持ち。
+
+(06/19追記)
+
+※昨日MTの再インストールをしている最中にコメントをいただいて、コメントの移行に失敗したのでこちらに転記させていただきます。
+
+言及元の<a href="http://www.sunahama.com/uchi/">uchiさん</a>からコメントをいただきました。
+
+<blockquote>
+moblog.uva.ne.jpの設定画面でpublishの項目をpublishではなく、Draftにすると本文も投稿できますよ。
+但し、動作的には公開ではないので再構築が必要です。
+何にしても完全ではないですが参考まで。
+</blockquote>
+
+はい、そうなんですよね。
+
+その都度再構築するのもナニかなと思って、別サービスに移ってしまいました。
+そういえば「モブログくん」にしてから気づいたのですが、複数画像の添付ができないようです。
+
+moblog.uva.ne.jp ではできたような記憶が。

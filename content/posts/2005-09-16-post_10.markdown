@@ -1,0 +1,14 @@
+---
+layout: post
+title: 秋葉原
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">今日開店のヨドバシカメラに行ってみた。なかなか盛況。8Fのレストラン街もいろいろあるな。
+PSPのういいれを購入。
+</div>
+<div class="photo"></div>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: カレンダー
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">届いてた。
+クラブニンテンドーのゴールド会員特典らしい。
+wii買えってことかしら</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1165635900.91-0.jpg" />
+<img src="http://wo.skr.jp/images/uploads/blog-photo-1165635900.91-1.jpg" /></div>

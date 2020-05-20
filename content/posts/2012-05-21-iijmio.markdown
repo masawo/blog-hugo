@@ -1,0 +1,41 @@
+---
+layout: post
+title: IIJmioの契約検討
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  has_been_twittered: 'yes'
+---
+WiMAXよりもXiのほうが便利かなと思い、モバイルルータ L-09C を購入したのが4月頭のこと。
+
+（ドコモオンラインショップで3,150円で購入。今思えば、もっと条件の良いお店を探せば良かった）
+
+で 4月から外出時に使って、確かにWiMAXよりエリアが広くなって速度も出て便利にはなったんですが、月額料金の明細を見ると、やっぱりちょっと高いかなと思い始めました。
+
+<!--more-->
+<a href="http://wo.skr.jp/images/uploads/2012/05/screenshot.jpg"><img src="http://wo.skr.jp/images/uploads/2012/05/screenshot.jpg" alt="" title="screenshot" width="718" height="695" class="alignnone size-full wp-image-441" /></a>
+
+これは今月の1〜今日までの明細で、総通信料は300MB程度。先月もこのぐらいでした。
+
+振り返ると自分が外で使うのは月に数回ぐらいで、10回もない。大容量を使うわけでもないし、それで月5500円近くかかるのは、高いかなと。
+
+そこで、月945円で安く通信できる <a href="https://www.iijmio.jp/guide/outline/hdd/">IIJmio:高速モバイル/D</a> の「ミニマムスタート128プラン」を契約し、それをルータに挿して使えば安く済むなと考えました。
+
+Xiの回線は無通信で寝かせれば
+
+基本料1000円 + <a href="http://www.nttdocomo.co.jp/service/data/mzone/">docomo Wi-Fi</a>を使うための500+300円 = 1800円
+
+でたぶん運用できるので、IIJmioの945円と合わせても2800円ぐらいになり、2700円程度抑えられそう。
+
+某友人が最近使いはじめたのもあるし。
+
+ということで IIJmio を契約しようと思います。
+
+
+※docomo Wi-Fi は、地下鉄やカフェなどで使えて快適に利用できるので契約しています。以前からiPhoneのお供。
+
+＃もっとよく調査してから行動していれば、L-09Cを契約して無駄に2年縛りされることもなかったな、とも思ったり。

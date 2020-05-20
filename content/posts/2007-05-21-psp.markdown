@@ -1,0 +1,17 @@
+---
+layout: post
+title: PSP故障?
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">土曜日に行ったサッカー観戦中に大雨に見舞われて、カバンにあったPSPが濡れてしまい。
+
+翌日乾いてから起動してみたら、とりあえずゲームできることを確認できたものの、スリープさせてもpowerランプがずっと点灯しっ放しになるようになってしまいました。
+
+支障ないといえばないけど、ちょっと気分が悪い…
+修理に出すのが無難かな?</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1179678649.28-0.jpg" /></div>

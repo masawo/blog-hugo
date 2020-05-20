@@ -1,0 +1,13 @@
+---
+layout: post
+title: 東京ストリート陸上を見てきた
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">第二部が始まる頃に到着したら、既にかなりの人出でした。なんとか立ち見。
+近くでトップ選手の走りを見ると、やっぱりスゴかった！一瞬の出来事ですね。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1180243283.52-0.jpg" /></div>

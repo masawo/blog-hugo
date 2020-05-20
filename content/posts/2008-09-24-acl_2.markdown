@@ -1,0 +1,15 @@
+---
+layout: post
+title: ACL@埼玉
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20080924_48da107ba9eda.JPG" width="640" height="480" alt="CA340076.JPG" />
+<p>今日の席はバック上層の一番前。手すりがあるから前のめり必須かな。<br />
+</p>
+</div>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: BBスピードテストの怪
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://speed.rbbtoday.com/">RBB TODAY のスピードテスト</a>で測定してみたら、こんな謎な結果が。
+<blockquote>SPEED 2.5 (speed.rbbtoday.com)<br>
+計測日時 : 2005年7月27日水曜日 03時46分43秒<br>
+下り（ISP→PC）: 19.67Mbps<br>
+上り（PC→ISP）: 50.69Mbps</blockquote>
+なにこれ…

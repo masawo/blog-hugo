@@ -1,0 +1,15 @@
+---
+layout: post
+title: トラックバック対策
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+休んでいる間にこってりと外国系の Trackback が来ていたので、削除すると共に以下のプラグインを入れさせてもらうことに。
+
+<a title="naoyaのはてなダイアリー - Movable Type で言及リンクのない TrackBack ping を弾くプラグイン" href="http://d.hatena.ne.jp/naoya/20050703/1120389935">naoyaのはてなダイアリー - Movable Type で言及リンクのない TrackBack ping を弾くプラグイン</a>
+
+これで、言及リンクが含まれない Trackback は今後排除されるのだろう。ありがたき。

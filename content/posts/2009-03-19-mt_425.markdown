@@ -1,0 +1,19 @@
+---
+layout: post
+title: MT 4.25
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+ここのMTを前に更新してから10ヶ月ぐらい経つので、最新版(open source 4.25)にしました。
+
+ていうか、<a href="http://www.movabletype.jp/blog/movable_type_425.html">今日4.25になった</a>ばかしですな。。
+
+初めは<a href="http://www.movabletype.jp/documentation/upgrade/">Movable Type アップグレードガイド | Movable Type 4 ドキュメント</a>に従ってやろうとしたけど、旧ファイルのコピーとか面倒だなとか思ってしまったので<a href="http://www.movabletype.org/documentation/upgrade/">本家（英語）のほうのアップグレードガイド</a>も見てみることに。
+
+するとなんか「新しいファイルで既存のインスコディレクトリを上書きして良い」みたいなことが書いてあるので、こちらの通りにやってみたらあっさり完了でした。楽々。
+
+（もちろん、念のため旧ファイルのバックアップをしてからやるのが推奨ですな）

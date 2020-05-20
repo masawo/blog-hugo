@@ -1,0 +1,12 @@
+---
+layout: post
+title: iTunes 7
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">アルバムのスライド機能？がなかなかいい感じ。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1158168261.83-0.jpg" /></div>

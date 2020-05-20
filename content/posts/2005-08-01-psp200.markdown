@@ -1,0 +1,13 @@
+---
+layout: post
+title: PSP2.00
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">1.51のままでいるのも中途半端なので、アップデート
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1122835997.14-0.jpg" /></div>

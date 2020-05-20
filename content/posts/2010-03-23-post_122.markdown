@@ -1,0 +1,30 @@
+---
+layout: post
+title: ガラケー再購入計画
+tags:
+- チラシの裏
+- 購買意欲
+status: publish
+type: post
+published: true
+meta:
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+  twitter_failure_code: '400'
+  has_been_twittered: failed
+  _edit_last: '1'
+---
+<a href="http://wo.skr.jp/wp/2009/03/mnp_1.html">ケータイをiPhone1本にしたのが去年の2月末</a>だったので、気がつけばiPhone持って1年が経過してました。
+
+すっかりなじんで不便な点もさほどないけれど、今度個人的に開発するものがケータイにも対応させるものなため、やっぱり普通のケータイも必要になりそうな状況に。
+
+なので新たに新規契約するため、少しリサーチをしました。
+
+今買うとしたら、学生のとき以来のdocomoかな。
+
+そして去年まで持ってたauのケータイは防水のやつだったので、引き続き防水がいい。
+
+以上を踏まえつつ評判を検索や某巨大掲示板で探ってみた結果、<a href="http://www.fmworld.net/product/phone/f-03b/">F-03B</a>にしよう、という結論になりました。
+
+いくつか量販店などを見たんですが、どこでも5,6万はしますね。昔はこんな高くなかった。。
+
+今買うのは月極め的な意味で中途半端なので、来月になってから買う予定です。

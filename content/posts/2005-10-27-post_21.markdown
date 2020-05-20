@@ -1,0 +1,16 @@
+---
+layout: post
+title: マッハ診断
+tags:
+- 日々
+status: draft
+type: post
+published: false
+meta: {}
+---
+myblog japan からなんかメールが来て、サイトに行ってみたらなんかの診断だった。
+
+<a title="DRECOMへおいでよ" href="http://blog.drecom.jp/tech_and_drecom/"> 挑戦状：『マッハ診断でモテ度対決』ウチのエースに勝てるか</a>
+
+<a href="http://rikunabi-next.yahoo.co.jp/tech/docs/ct_s04450.jsp?in_job=0502&in_age=28&SelectA=01-0103&gyousyu_mst_cd=01&gyousyu_cd=0103&in_nensyu=300&f=cmp_drecom">やってみた</a>けど…
+ギガクラスて。

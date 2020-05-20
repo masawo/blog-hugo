@@ -1,0 +1,46 @@
+---
+layout: post
+title: CPANで自分のホームディレクトリ内にモジュールをインストール
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+さくらインターネットなレンタルサーバ環境(ていうかここ)に、表題のような環境を作ったメモです。
+
+~/perl/lib 以下にインストールすることとして以下説明。
+
+まずは perl -MCPAN -e shell して、設定を以下のように。(ここでは都合上改行してますが、実際は1行で)
+<pre>
+o conf makepl_arg "LIB=~/perl/lib PREFIX=~/perl/lib INSTALLMAN1DIR=~/perl/man/man1
+INSTALLMAN3DIR=~/perl/man/man3"
+</pre>
+設定したっぽいechoが返ってくるので、 o conf commit で設定ファイルへ書き込み。
+
+これで以後は install *** したとき、そこにモジュールが展開されるようになる。
+
+こうして入れたモジュールを実際に使うときは、PERL5LIB という環境変数にパスを追加すればOK。
+
+.cshrc なりに以下を追加。
+<pre>
+setenv PERL5LIB /home/masawo/perl/lib
+</pre>
+＃使うコードごとに use lib "$ENV{HOME}/myperl/lib"; とかしてもOKだけど、こっちの方が楽。
+
+参考：
+
+<a href="http://www.cpan.org/misc/cpan-faq.html#How_install_private">The CPAN Frequently Asked Questions</a>
+UNIX (非root) でのインストールノート
+
+<!--more-->
+
+(2006/07/07追記)
+
+以下でもう少し詳しい説明がされていますので、こちらもぜひご参考あれ。
+
+<a href="http://iandeth.dyndns.org/mt/ian/archives/000623.html" title="一般ユーザ環境におけるCPANモジュールの使い方 - iandeth.">一般ユーザ環境におけるCPANモジュールの使い方 - iandeth.</a>

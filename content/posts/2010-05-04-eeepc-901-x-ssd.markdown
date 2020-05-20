@@ -1,0 +1,33 @@
+---
+layout: post
+title: EeePC 901-X SSD交換
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+  _wp_old_slug: eeepc_901-x_ssd
+---
+たまにしか使ってない EeePC を久々に起動したら、WindozeUpdateしただけで4GBしかないドライブが悲鳴をあげる始末だったので、32GBのSSDを買って交換しました。
+
+<a href="http://www.supertalent.com/products/ssd_detail.php?type=SATA%20mini%202%20PCIe">FPM32GLSE (32GB) </a>を1万円ちょっと。
+
+<a href="http://kakaku.com/item/K0000041267/">あんまり売ってるところない</a>ですが、価格.comで安いところから取り寄せました。
+
+リカバリCDを入れて再セットアップ、WindozeUpdate。前より再セットアップが速かった気がするし、結構快適になったです。
+
+光回線のルータを取り替える作業があって、さっそくEeePCが活躍しました(MacBookAirは有線LAN端子持ってないので)。
+
+今後はあんまり出番ないかもですが。。
+
+とりあえずオススメできるアップグレードだと思います。
+
+参考
+
+- <a href="http://wiki.livedoor.jp/asus_eeepc/d/901%2dX%cd%d1%ba%dc%a4%bb%c2%d8%a4%a8%cd%d1SSD%b0%ec%cd%f7">901-X用載せ替え用SSD一覧 - EeePC 900シリーズ Wiki - livedoor Wiki（ウィキ）</a>
+- <a href="http://x-gadget.org/blog/1427.html">x-gadget ? SHD-ES9MをEee PC 901-Xに取り付け</a>

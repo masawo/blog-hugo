@@ -1,0 +1,13 @@
+---
+layout: post
+title: 大宮
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">天皇杯
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1130994582.34-0.jpg" /></div>

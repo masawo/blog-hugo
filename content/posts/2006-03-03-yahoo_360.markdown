@@ -1,0 +1,11 @@
+---
+layout: post
+title: Yahoo! 360°に入れてもらった
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<p><a target="_blank" href="http://360.yahoo.co.jp/">Yahoo! 360&deg;</a>が始まったそうです。<br />運良くさっそく招待していただけたので、お試し。<br />まだまだ発展途上って感じではありますな。<br />デザインが選べて変えられるのとか、ひとこと設定というのができるのが特色かも。<br /></p>

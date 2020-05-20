@@ -1,0 +1,34 @@
+---
+layout: post
+title: いろいろ080812
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+## 土日
+
+ネットサーフィン＆北京五輪やJリーグのTV観戦で過ぎていきました。
+
+浦和×柏の神ゴール劇場っぷりに驚愕。。
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm4242447" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm4242447">【ニコニコ動画】Jリーグ Division1 第20節 浦和レッズvs柏レイソル ダイジェスト編集版</a></iframe>
+
+## EeePC 901
+
+買ってから16GBSDHCメモリや液晶保護シートも買っていじってましたが、キーボードがいかんせん小さいため、外でガンガン入力する用途にはちと難だよねという感じ。バッテリーの持ちは素晴らしいのだけど。
+
+ということで、開発に使おうと思って買ったけどお遊びPCになりそうです。
+
+## ThinkPad X61s
+某ノートPC板を適当に眺めているうちに、9万円で売っているのを発見。
+
+<a href="http://kakaku.com/item/00200315901/">価格.com - Lenovo（旧IBM） ThinkPad X61s 76687BJ 価格比較</a>
+
+キーボードのクオリティは期待できるし<a href="http://www-06.ibm.com/jp/pc/spec/76687BJ.shtml">スペック</a>も問題ないので、勢いでポチってしまいました。。
+
+## iPhone 3G
+だんだん欲しくなってきてますが、まだ手を出しておらず。
+
+長らく使っているauでダブル定額をやめた上で買えば、まあ悪くない、のかな？

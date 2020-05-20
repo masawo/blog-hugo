@@ -1,0 +1,13 @@
+---
+layout: post
+title: W杯組み合わせ抽選
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">結局寝付けなくて生中継に見入ってる
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1134157297.04-0.jpg" /></div>

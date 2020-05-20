@@ -1,0 +1,26 @@
+---
+layout: post
+title: RSSフィード再開
+tags:
+- RSS Feed
+status: publish
+type: post
+published: true
+meta: {}
+---
+サーバがクラッシュして以来、ここでフィードしていたRSS生成スクリプトが消滅してフィードが止まっていたのを、やっと復活。
+
+日本サッカー協会
+<a href="http://wo.dip.jp/rss/jfa.xml">http://wo.dip.jp/rss/jfa.xml</a>
+
+J's GOAL ニュース一覧
+<a href="http://wo.dip.jp/rss/jsgoal.xml">http://wo.dip.jp/rss/jsgoal.xml</a>
+
+参考：
+Blog Developer's Cookbook : genfeed - 汎用 RSS ジェネレータ
+<a href="http://blog.bulknews.net/cookbook/blosxom/rss/genfeed.html">http://blog.bulknews.net/cookbook/blosxom/rss/genfeed.html</a>
+
+<!--more-->
+2006/03/03追記：
+jsgoal.xml が取得できていなかったのを修正しました。
+ついでに <a href="http://wo.skr.jp/rss/jsgoal-omiya.xml">jsgoal-omiya.xml</a> とか作ってみたり。<s>各チームのをあとで手が空いたら作ります。</s>やっぱりやらないかも…

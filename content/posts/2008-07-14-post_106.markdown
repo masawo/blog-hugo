@@ -1,0 +1,46 @@
+---
+layout: post
+title: 自宅サーバのリプレース
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+この週末は、<a href="http://wo.skr.jp/mt/2008/07/eee-pc.html">きのう届いた Eee PC 901</a> をいじるのはほどほどにしておいて、自宅サーバのリプレースを進めました。
+
+やったことは、<a href="http://wo.skr.jp/mt/2008/06/ubuntu-804-server-amd64.html">先日OSだけ導入しておいた新マシン</a>への、データおよび設定の移し替えです。
+
+<!--more-->
+まずは、ファイルサーバやホームディレクトリ等の必要なデータを rsync でコピー。
+
+しかしこれを走らせてしばらくすると、どこからともなくピーポー音が。。
+
+コピー元である旧マシンに負荷がかかり、クローゼットに入れてあるせいもあって爆熱になって悲鳴を上げていたのでした。
+
+旧マシンをいったん電源落として、クローゼットから自室に移動して、rsync続行。
+
+なぜか途中で一度ハングアップして再起動をかけたものの、コピーはなんとか完了。
+
+やっぱり旧マシンはそれなりにへたってきてたんだな、ということをここで体感。。
+
+あとは各種設定の移行です。
+
+<ul>
+<li>ユーザーアカウントは、passwdやshadowあたりを必要部分だけコピー</li>
+<li>ApacheやSambaの設定はコピーして微調整</li>
+<li>ダイナミックDNSの設定は、これまで使っていた <a href="http://www.hi-ho.ne.jp/yoshihiro_e/dice/linux.html">diced</a> がx86_64な環境のせいか使えなかったので、更新スクリプトを拾ってきてcrontabに仕込む: <a href="http://ai-line.com/linux/ddns.html#6">ieserver</a> / <a href="http://www.everydns.net/dynamic.php">everydns.net </a></li>
+<li>IRCで使っている <a href="http://www.clovery.jp/tiarra/">tiarra</a> はバージョンが新しくなってるので更新しようとしたけれど、なぜか --quiet をつけて動かすことができない罠だったので、とりあえず旧マシンのバージョンのままで。</li>
+</ul>
+だいたい以上の作業で、リプレースは細かい動作確認を除いてひとまず完了しました。
+
+これで日曜日は終わっちゃいましたよ。。
+
+新マシンは旧より静かなので(旧もそれなりに静かだったんだけど)、クローゼットから出して自室に置く方向で。
+
+<strong>新旧マシンのスペック</strong>
+<pre>
+旧：Intel Celeron 400MHz / HDD 100〜200GBx4 / memory 256MB
+新：AMD Turion64 1600MHz / HDD 1TBx2(RAID) / memory 1GB+512MB
+</pre>

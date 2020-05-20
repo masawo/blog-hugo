@@ -1,0 +1,23 @@
+---
+layout: post
+title: BMI
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+体重計を持ってなかったので、Amazonで安めのものを購入しました。
+3,500円。
+
+今日届いたのでさっそく計ってみたら、
+
+体重66.0kg, 体脂肪率 15.6%
+
+と出ました。（身長は182cm）
+
+ちょっと想像よりも増えてきてるようです。
+まだまだ全然痩せの部類ですが、少し警戒かしら。
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000BHLSNU/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://images-jp.amazon.com/images/P/B000BHLSNU.09.MZZZZZZZ.jpg" alt="TANITA 体脂肪計付ヘルスメーター ホワイト BF-046-WH" style="border: none;" /></a></div><div class="amazlet-info" style="float:left;margin-left:15px;line-height:120%"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000BHLSNU/masawo-22/ref=nosim/" name="amazletlink" target="_blank">TANITA 体脂肪計付ヘルスメーター ホワイト BF-046-WH</a><div class="amazlet-powered-date" style="font-size:7pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://www.amazlet.com/browse/ASIN/B000BHLSNU/masawo-22" title="TANITA 体脂肪計付ヘルスメーター ホワイト BF-046-WH" target="_blank">amazlet</a> on 06.11.01</div></div><div class="amazlet-detail">タニタ <br /></div><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000BHLSNU/masawo-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+＃なんか amazlet のワンクリック Bookmarklet が効かなくなっているような？気のせいかな。

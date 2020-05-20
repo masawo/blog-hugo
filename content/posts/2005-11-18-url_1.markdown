@@ -1,0 +1,34 @@
+---
+layout: post
+title: 短縮URLサービスのメモ
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+「短縮URL」でGooglingして、めぼしいものを探してみた。
+
+<a href="http://tinyurl.com/">TinyURL.com - where tiny is better!</a>
+
+発祥の地？
+
+<a href="http://qrl.jp/">長いURLを短く圧縮 | QRコード生成 | QRL.jp</a>
+
+QRコードも作れてしまう。
+
+<a href="http://5jp.net/">無料URL短縮・転送サービス 5jp.net</a>
+
+一週間有効。
+
+<a href="http://jpan.jp/">URLを短縮化するサイト</a>
+
+シンプル。
+
+TinyURLにはbookmarkletが置いてあるので、それを使えばさくっと短縮化可能。
+それ以外のところでも bookmarklet をさくっと作ってしまえば幸せになれそう。
+
+qrl.jp で使える bookmarklet なら↓こんな感じ。(IEやFirefoxのリンクツールバーにドラッグ＆ドロップで使えます)
+
+<a href="javascript:void(location.href='http://qrl.jp/index.php?p=top&flg=qrl_regist&o_url='+encodeURIComponent(location.href))">qrl.jpでURL圧縮</a>

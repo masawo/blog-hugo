@@ -1,0 +1,14 @@
+---
+layout: post
+title: 仁D映画
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">見てきた。
+突っ込みどころ満載…
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1128248791.15-0.jpg" /></div>

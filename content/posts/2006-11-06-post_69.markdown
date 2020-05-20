@@ -1,0 +1,38 @@
+---
+layout: post
+title: 注文。
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+        この度はApple Storeをご利用いただき、ありがとうございました。ご注文について契約
+        が成立したことを確認申し上げます。納品日は交通事情、離島部および一部地域、その他
+        天候によって変更される場合があることをご了承ください。
+        Item #製品番号     製品名                           数量  単価（円）金額（円）
+        __________________ ______________________________   ____  ________  __________
+        000010XXXX         MBPRO 15/2.16 CTO                   1  237,905     237,905
+        2006/11/08 - 2006/11/10  までに出荷
+        2006/11/10 - 2006/11/16  までにお届けの予定
+        この製品は以下のシステム構成となります：
+        Processor                     065-6617  2.16GHz Intel Core 2 Duo
+        Memory                        065-6616  1GB 667 DDR2 SDRAM-1x1GB
+        Hard Drive                    065-6623  120GB Serial ATA Drive@5400rpm
+        Optical Drive                 065-6625  SuperDrive 6X
+        Display                       065-6631  15" Widescreen Display
+        Modem                         065-6645  None
+        Apple Software Solutions      065-6200  None
+        Keyboard/Mac OS Language      JA065-6627BkLit US Keyboard/Mac OS-JA
+        Country Kit/AEX               J065-6628 Country Kit-JPN
+
+<!--more-->
+(11/08追記)
+夜に出荷完了メールが着弾しました。wktk
+
+        本日、下記商品を出荷いたしました。この度はApple Storeをご利用いただき、ありがと
+        うございました。またのご利用をお待ちしております。
+        (中略)
+        出荷日： 2006/11/08
+        お届け予定日： 2006/11/14 までに

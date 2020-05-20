@@ -1,0 +1,19 @@
+---
+layout: post
+title: デュアルディスプレイ
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+家でノート(MacBookPro)の画面を見てると首が下にいって姿勢が悪い感じなので、持ちあわせのモニタを使って今更ながらデュアルディスプレイに。
+
+<a href="http://www.flickr.com/photos/masawo/3375674916/" title="IMG_0009.JPG by masawo77, on Flickr"><img src="http://farm4.static.flickr.com/3418/3375674916_cb4d0aa620.jpg" width="375" height="500" alt="IMG_0009.JPG" /></a>
+
+17インチモニタなので表示量はあんまり変わらず。でも姿勢的には良好。
+
+大きいサイズで縦横回転とかできるモニタにすると、なお便利かもですね。また検討してみよう。
+
+台座の箱はPSP-1000の箱2つだったり。。

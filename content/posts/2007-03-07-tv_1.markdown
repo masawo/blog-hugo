@@ -1,0 +1,13 @@
+---
+layout: post
+title: TV届いた
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">32型でも結構、大きいですなあ〜。
+滝川たんもキレイ。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1173279399.41-0.jpg" /></div>

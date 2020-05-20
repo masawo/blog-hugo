@@ -1,0 +1,22 @@
+---
+layout: post
+title: コトノハのオオヒダさんがweb2.0について語る
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+先の忘年会議で「<a href="http://kotonoha.cc/">コトノハ</a>」が今年のベストサイトの中で挙げられて、中の人であるオオヒダさんが来ているのかと思ったら来ていなかったようなのですが、昨日に別の場でweb2.0について語られていたようです。
+SOLVALOU.NET: WebSigで喋ってきたよ
+<blockquote cite="http://solvalou.net/mt/archives/2005/12/websig.php">
+<p>mixiの「【WebSig24/7】Web制作者の会」というコミュニティが実施する会議で、Web 2.0について喋ってきました。</p>
+</blockquote>
+プレゼン資料を見ると、コトノハやsotialtunesを作った経緯や裏側が書いてあって、ふむふむと思うところ多々でした。PHP+MySQLで作られているところとか、web2.0についての考えとか。
+自分もなんか作りたいんだけど、なかなかいい考えが浮かばないです。
+1年前に作った <a href="http://wo.skr.jp/ffxi/">vanascript</a> もかなりニッチなサービスだし…
+何か普遍的で楽しいものが作れたらいいな、と思いつつ勉強しようと思った。

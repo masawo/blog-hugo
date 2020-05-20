@@ -1,0 +1,12 @@
+---
+layout: post
+title: 3次予選開始
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">初戦は苦しむというのが近年続いてたけど、今日はすんなり勝ち点取れそうですな。よかった。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1202298705.63-0.jpg" /></div>

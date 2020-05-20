@@ -1,0 +1,31 @@
+---
+layout: post
+title: IT戦士の本
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://www.itmedia.co.jp/">ITMedia</a>でおなじみの、IT戦士こと岡田記者の本「ネットで人生、変わりましたか？」の発売を知り、さっそく先週に購入。少しずつ読んで今日読了しました。
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4797337370/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ec1.images-amazon.com/images/I/11kaZufjZuL.jpg" alt="ネットで人生、変わりましたか?" style="border: none;" /></a>
+
+<a title="IT戦士　岡田有花リンク集" href="http://www8.plala.or.jp/garden/note/it.html">IT戦士　岡田有花リンク集</a>
+
+<!--more-->
+内容は、これまでのインタビュー記事のバックナンバーがメイン。それに加えて、毎年恒例となったクリスマス企画も掲載。
+
+これだけだと「Web上で全部見れるじゃん」って感じですが、各記事ごとに最後にコメントが追記され、インタビューした方のその後や感想が書かれていておもしろかったです。
+
+それ以外のこの本オリジナルの内容は、「まえがき」「あとがき」と、前後編に分かれた岡田記者本人へのインタビュー記事。
+
+自分の場合、ネットで人生は変わったと思うけど、自分自身がどれだけ変わったかというと、あまり変わっていない気がします。。
+
+まえがきにあった一節が印象に残りました。
+
+<blockquote>
+ネットは何かを加速してくれたり、思わぬ出会いをもたらしたりします。でも、生きるということは、ネット回線の向こう側にいる人間とのリアルで生臭い付き合いの中にしかないような気がしています。IT戦士はネットの力だけでは、決して幸せにはなれないはずです。
+</blockquote>
+あと、<a href="http://www.itmedia.co.jp/bizid/articles/0606/29/news105.html">影響を受けた本がゲーム帝国</a>というのにちょっと驚愕。自分も好きだったので。

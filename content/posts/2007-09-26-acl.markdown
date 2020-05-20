@@ -1,0 +1,13 @@
+---
+layout: post
+title: ACL
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">平日ながら見に来てしまった。@等々力
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1190802309.24-0.jpg" /></div>

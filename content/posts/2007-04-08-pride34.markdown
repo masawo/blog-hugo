@@ -1,0 +1,12 @@
+---
+layout: post
+title: PRIDE34
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">見に来てしまいますた。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1176014445.08-0.jpg" /></div>

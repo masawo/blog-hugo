@@ -1,0 +1,109 @@
+---
+layout: post
+title: 'カジュアルPerl #02に行ってきた'
+tags:
+- 開発系
+status: publish
+type: post
+published: true
+meta:
+  _oembed_2fc1d2d1ffa56569e0de0bc29ee030e4: '{{unknown}}'
+  _edit_last: '1'
+  _oembed_9d953b140027dd6b70be3b50c6fb8503: '{{unknown}}'
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+  _wp_old_slug: perl_02
+---
+Perl初心者勉強会・カジュアルPerl #02に参加してきました。
+
+http://yusukebe.com/archives/10/04/21/075545.html
+
+会場で箇条書きしたものを以下に書きます。
+
+<pre>
+*cpanm(cpanminus)
+- http://cpanmin.us
+- 設定不要、スクリプトDLするだけで基本的に動く
+*ライブコーディング(cpanでtwitter bot作ってみる)
+-search.cpan.org でモジュールさがす
+-perldoc モジュール名
+--キーワードで検索してやりたいことみつける
+-LWP::UserAgent
+-JSON decode_json
+-Data::Dumper で HASH(..)などの構造体の中を見る
+-Wide Character .. エラーが出る場合は decode_utf8() でかいけつ
+-$ua-credentials(uri, realm, username, password) でbasic認証
+- perldoc -f 関数名 で組み込み関数のマニュアル
+-過去の履歴をmemcachedに保管して、重複tweetを防ぐ
+--Cache::Memcached
+ライブコーディング中では牧さんのvimさばきにも目が行きましたが、デバッグ時にwarnを使っていたのが自分的には発見でした。。
+*べんりなvimプラグイン
+snipMate.vim スニペット挿入
+ref.vim ドキュメントを開く
+prove.vim testを走らせる
+*JSON
+decode_utf8() してから encode_utf8()する
+*Edit with Emacs
+- 外部エディタでChromeのテキストボックス入力
+- Hitagi(micro WAF) でサーバをかいた
+- クライアント側もPerlで
+*vim
+-.vimrc の設定をdropboxなどに入れて使いまわし
+-vimtutor
+-エディタの見た目を変える
+-ファイルタイプ別のシンタックスの設定
+--.tt, .t とか
+-vimにperlの辞書を登録
+-vim pluginの導入
+--cd.vim
+---ファイルを開くとカレントに移動
+--autocomplpop.vim
+---自動補完の表示
+--snippentEmu.vim
+--taglist.vim
+-好みのキーマッピングにカスタマイズ
+-- map <F4> :w !perl<CR> 保存して実行
+自分がらくするために使う
+自分にあったプラグインを探す
+評判の良いものを選ぶ
+少し便利ぐらいのものが良い
+*Emacs
+-anything.el
+--IFを統一
+-auto-complate.el
+--モジュールの補完、マニュアル開けたり
+-anything-project.el
+-flymake
+--自動シンタックスチェック
+-perl-tidy
+--コードをきれいに
+-分割設定ファイル
+--init-loader.el
+-auto-install.el
+--簡単elispインストール
+-カスタマイズは分かる人に聞くのがはやい
+-Emacsは変態だという話のあとに、いやいやvimのほうがという話も出たり
+*miyagawaさん
+既存のperl以外にperlをインストールする
+-perlbrew
+--wget http://xrl.us/perlbrew
+--perl ./perlbrew install
+--perlbrew install -v perl-5.13.0 でよしなにインストールしてくれたり
+--perlbrew installed
+--perlbrew switch perl-(version)
+--curl -L cpanmin.us でcpanminusをいれる
+--shebangを #!/usr/bin/env perl にしないとハマるらしい
+</pre>
+
+内容はShibuya.pmなどに比べるとそれほど敷居が高くなく、とても参考になり楽しめました。
+
+エディタは自分はvimでたいしてカスタマイズしていないので、この機会に参考にしていきたいです。
+
+懇親会では、Perlの話はもちろん、JavaScriptなどの他の言語の話なども聞けました。
+
+また、ちょうど知りたかった最近のPerlのWebアプリケーションフレームワーク事情についても聞くことができました。Catalystは1つのスタンダードになってるのでそれを使うのもありだけど、他にもより軽いものがあり、その1つに Dancer というものなどがあると教えてもらえました。
+
+他にも会場で聞いたHitagiとかの軽量なWAFがいくつかあるので、いろいろ試してみるのがいいんでしょうね。。
+
+近々本格的にPerlでWebアプリを作るので、今回のことを参考にしつついろいろ試行錯誤しようとおもいます。

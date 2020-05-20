@@ -1,0 +1,26 @@
+---
+layout: post
+title: RSSリーダーいろいろ
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+RSSリーダーをそれほど活用できてない自分。
+
+bloglines を前(日本語対応されるより前に)使ってたけど放置していて、 ThunderbirdのRSS機能でちょっとやってるぐらい。
+
+他に何かいいのあるのかなーと思いつつメモ。
+
+<a href="http://blog.myrss.jp/archives/2005/11/rss_200510.html">My RSS 管理人 ブログ: RSSリーダーランキング - 2005年10月版</a>
+
+myrss.jp における10月のRSSリーダーのシェア。bloglines がもっとも高く23%。
+
+<a href="http://www.wikiroom.com/windows/?RSS%A5%EA%A1%BC%A5%C0%A1%BC">RSSリーダー - windows</a>
+
+RSSリーダースレのまとめページ。

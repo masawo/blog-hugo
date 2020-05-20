@@ -1,0 +1,46 @@
+---
+layout: post
+title: iTunes(Mac)で音楽のアートワークを取得
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  has_been_twittered: 'yes'
+---
+昔買った音楽CDを整理するために、ひたすらiTunesでリッピングしました。
+
+ひと通り終わったあと、iTunesで「アートワークを取得」を選んだんですが、結構取得できない。
+
+なので、別のソフトを使って取得を試みました。
+
+最初試したのはこれ：
+
+<a href="http://pc.nikkeibp.co.jp/article/column/20100114/1022172/">iTunesのアートワークを自動的に探してくれる「Amazon Album Art」：Macを買ったら絶対入れておきたいオンラインソフト</a>
+
+Amazonで登録されている情報をもとにしてアートワークを探してくれるので、画像が基本的にキレイです。自分の場合、だいたいはこれで見つかりました。
+
+Widgetとしてインストールするので、iTunesのある画面と行ったり来たりしないといけないのが若干面倒かも。
+
+↑で取得できなかったものもあったので、以下も試しました：
+
+<a href="http://veadardiary.blog29.fc2.com/blog-entry-2277.html">iTunesで再生中の曲のアートワークをGoogleから検索『iGCover』 | Macの手書き説明書</a>
+
+こちらはGoogle検索で画像を取得するので、Amazonで出なかった画像も出してくれます。画像の候補を選んで設定していく感じ。これで全て見つかりました。
+
+ただ、このソフトだと再生中にしないと設定できないみたい？なので、複数アルバム選択とかが効かないのでそこが不便。
+
+キャプチャ撮ってみました。
+
+<a href="http://wo.skr.jp/images/uploads/2011/08/screenshot.jpg"><img src="http://wo.skr.jp/images/uploads/2011/08/screenshot-300x168.jpg" alt="" title="screenshot" width="300" height="168" class="alignnone size-medium wp-image-383" /></a>
+
+他にも Artwork Gofer というソフトもあります。これもそこそこ取れるんですが、上2つで事足りる気がします。
+
+<a href="http://wakabamac.blog95.fc2.com/blog-entry-958.html">わかばマークのMacの備忘録 : Artwork Gofer</a>
+
+
+<strong>各ソフトの配布元</strong>
+- <a href="http://www.widget-foundry.com/widgets/amazonart.htm">widgetFoundry</a>
+- <a href="http://sourceforge.net/projects/igcover/">iGCover | Download iGCover software for free at SourceForge.net</a>

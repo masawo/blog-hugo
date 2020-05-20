@@ -1,0 +1,19 @@
+---
+layout: post
+title: 横浜FM×バルセロナ
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+<div class="caption">
+バルセロナが来日していることを夕方に思い出して、日産スタジアムへ試合を見に行ってきました。
+
+バルサらしい華麗なパス回しが少ないながらも見れたのでよかったかなと。ロナウジーニョが後半ちょっと過ぎから出場してスタンドは盛り上がってました。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1122721684.02-0.jpg" /></div>

@@ -1,0 +1,23 @@
+---
+layout: post
+title: モニターアームをつけた
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+先日注文して届いていたモニターアーム↓を、今日ようやく取り付け。
+
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015LAO5Y/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41HgaIGgltL._SL160_.jpg" alt="上海問屋 シングルモニターアーム（2関節モデル） DN-ARM192" style="border: none;" /></a></div><div class="amazlet-info" style="float:left;margin-left:15px;line-height:120%"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015LAO5Y/masawo-22/ref=nosim/" name="amazletlink" target="_blank">上海問屋 シングルモニターアーム（2関節モデル） DN-ARM192</a><div class="amazlet-powered-date" style="font-size:7pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://www.amazlet.com/browse/ASIN/B0015LAO5Y/masawo-22/ref=nosim/" title="上海問屋 シングルモニターアーム（2関節モデル） DN-ARM192" target="_blank">amazlet</a> at 09.04.12</div></div><div class="amazlet-detail">上海問屋 <br />売り上げランキング: 3237<br /></div><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015LAO5Y/masawo-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+
+手持ちの17インチモニタをつけました。全部一人で作業しましたが、モニタにネジつける時が少々重かったぐらいであとはわりとスムーズでした。
+
+<a href="http://www.flickr.com/photos/masawo/3434623106/" title="IMG_0014.JPG by masawo77, on Flickr"><img src="http://farm4.static.flickr.com/3653/3434623106_a97538d3ee.jpg" width="375" height="500" alt="IMG_0014.JPG" /></a>
+
+モニタの下にスペースができたし、配線もすっきりできたので良かったなと。
+
+あとは、Macでデュアルディスプレイしつつ、たまに自作PC使うときにもそちらの画面が見られるようにしたいところです。
+
+実現するにはやっぱり、2入力以上入る最近のモニタに買い換えが無難かな。最近はモニタ安いし、このためにVGA切り替え器買うのもなんだし。

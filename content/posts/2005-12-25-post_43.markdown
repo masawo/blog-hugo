@@ -1,0 +1,13 @@
+---
+layout: post
+title: 最近買ったもの
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">なんか573の回し者みたいだな…
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1135508231.73-0.jpg" /></div>

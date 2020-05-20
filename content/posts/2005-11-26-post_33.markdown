@@ -1,0 +1,14 @@
+---
+layout: post
+title: 乗り越し
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">パスネットで柏に降りたらこんなことに。
+めんどくさいYO…
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132984483.07-0.jpg" /></div>

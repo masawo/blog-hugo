@@ -1,0 +1,19 @@
+---
+layout: post
+title: オルトアール総合雑談中心が７月で終了
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a title="ML1--7年間ありがとうございました" href="http://www.alt-r.com/di/ml-2-1771.html">ML1--7年間ありがとうございました</a>
+
+ドメインがハイジャックされてしまったために終了するそうです。
+
+開始当初から知る身としては、さびしいですな。
+
+<!--more-->
+8/1追記
+<a href="http://210.135.98.1/di/ml-2-1778.html" title="ML1--完">ML1--完</a>

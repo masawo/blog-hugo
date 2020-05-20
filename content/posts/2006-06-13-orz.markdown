@@ -1,0 +1,13 @@
+---
+layout: post
+title: orz
+tags:
+- チラシの裏
+status: draft
+type: post
+published: false
+meta: {}
+---
+残り数分でひっくり返されると、精神的にきますね。選手には本当にきつそう。
+でもこういうことがあるのがサッカー。
+他の試合を見ながら気分を切り替えよっと…

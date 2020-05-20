@@ -1,0 +1,19 @@
+---
+layout: post
+title: 今日のダーリンの件
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+livedoor Reader でやってみたら、読めるっぽかったです。ふむ。
+
+これに機にしばらくLDRを使ってみることにします。
+
+Google Reader のキーボードショートカットに慣れてしまっているけど、そこはまた慣れかなと。
+
+＃まあ、自分で某plaとかで Custom Feed 作るとかのソリューションもあるんですけどね。。
+
+そして本日 age++ されました。

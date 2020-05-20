@@ -1,0 +1,13 @@
+---
+layout: post
+title: 新潟
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">久しぶり?に遠出アウェイ＠ビッグスワン。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1191648021.46-0.jpg" />
+<img src="http://wo.skr.jp/images/uploads/blog-photo-1191648021.46-1.jpg" /></div>

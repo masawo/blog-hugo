@@ -1,0 +1,35 @@
+---
+layout: post
+title: カメラケース購入(BUILT NY)
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+  _wp_old_slug: built_ny
+---
+先週コンパクトデジカメの<a href="http://www.ricoh.co.jp/dc/r/r10/">RICOH R10</a>を買っていて、それを入れるケースをどうしようかと思ってたんですが、ydbsakbの3Fに行ったら <a href="http://www.builtny.com/">BUILT NY</a> のコーナーがあったのでケースを購入してきました。
+
+買ったのはこれ。(<a href="http://www.builtny.com/showPage.php?pageID=1629">Hoodie Camera Case</a>)
+
+パッケージ
+
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img src="http://wo.skr.jp/images/uploads/assets_c/2009/03/IMG_0007-thumb-300x400-105.jpg" alt="IMG_0007.JPG" width="300" height="400" class="mt-image-none" /></span>
+
+ぴったり入りました。（若干窮屈な気もするけど）
+
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/IMG_0008.JPG"><img src="http://wo.skr.jp/images/uploads/assets_c/2009/03/IMG_0008-thumb-300x400-107.jpg" alt="IMG_0008.JPG" width="300" height="400" class="mt-image-none" /></a></span>
+
+BUILT NYは<a href="http://www.builtny.com/showPage.php?pageID=1518">他のケースやバッグなど</a>も総じて格好いいですな。そろそろバッグも新しいの買わなくては。。
+
+取扱店リンク
+
+- <a href="http://www.assiston.co.jp/?page=new">AssistOn / アシストオン</a>
+- <a href="http://www.carryingcase.net/index.html">CARRYINGCASE.NET [www.carryingcase.net]</a>
+
+ちなみにこの写真はiPhoneで撮りました。Eye-Fiアプリでアップロードも楽勝。

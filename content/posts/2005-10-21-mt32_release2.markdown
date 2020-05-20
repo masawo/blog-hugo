@@ -1,0 +1,22 @@
+---
+layout: post
+title: MT3.2 Release-2 へアップデート
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+Movable Type 3.2 Release-2 が<a href="http://www.sixapart.jp/movabletype/news/2005/10/12-1850.html#more">出ていた</a>けれど、アップデートするのを忘れていた。
+<blockquote>
+<a title="MovableTypeで行こう！: Movable Type 3.2日本語版 Release-2" href="http://cheebow.sub.jp/docmt/archives/2005/10/movable_type_32_2.html">MovableTypeで行こう！: Movable Type 3.2日本語版 Release-2</a>
+ちなみに、MT3.2-jaからアップデートするなら
+/lib/mt/objectdriver/dbm.pm
+/lib/mt/template/contexthandlers.pm
+/lib/mt.pm
+/mt-static/docs/mtchanges.html
+/php/mt.php
+の5つのファイルを上書きしてあげれば良いです。
+</blockquote>
+とのことなので、その通りに実行。

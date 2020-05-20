@@ -1,0 +1,19 @@
+---
+layout: post
+title: 自宅PC起動障害
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">珍しくwindozeマシンでゲームでもしようと、いろいろインストールしたりしてたら、再起動したときにロゴで止まってしまいました。嗚呼。セーフモードを試しても同様。
+
+メインのMacでGoogle先生の教えを請い、回復を試み中…治るかしら。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1183806938.22-0.jpg" /></div>
+
+<!--more-->
+写真では回復コンソールで chkdsk を試みたんですが、しばらくした後「ボリュームに回復できない問題が1つ以上あります 」という表示。どうもHDDヤバスの模様。。
+
+おとなしくHDDを入れ替えて再インストール中です。南無。

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 忘年会議2005に参加
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+<div class="caption">
+忘年会議2005 Sponsored by Yahoo! JAPAN検索 - 詳細 -
+参加してきました。
+この会議シリーズには初参加。とてもためになり面白かったです。ありがとうございました。
+今回の場のように、面白いアイディアがたくさん出てくるのって素敵。自分にはなかなかそんなことできないから…
+その後の忘年会では昨日にも見かけた方がちらほら。「昨日もいましたよね」って何人かに言われました。
+昨日よりは交流もできたほうかな。でもまだまだ自分には、力が足らないみたい。
+所属の名刺をあまり持ち合わせてなかったので、個人用の名刺作ったほうがいいな…と思わされたのでした。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1134827050.95-0.jpg" /></div>
+
+<!--more-->
+関連リンク：
+<a href="http://www.ringolab.com/note/daiya/archives/004075.html" title="Passion For The Future: 満員御礼　忘年会議2006　報告第1弾">Passion For The Future: 満員御礼　忘年会議2006　報告第1弾</a>
+<a href="http://blogs.yahoo.co.jp/yjsearchblog/archive/2005/12/19" title="Yahoo!ブログ - Yahoo!検索 スタッフブログ">Yahoo!ブログ - Yahoo!検索 スタッフブログ</a>
+<a href="http://bb.watch.impress.co.jp/cda/event/12252.html" title="【忘年会議2005 Sponsored by Yahoo!検索】Yahoo! JAPANの検索データから浮かび上がるトレンドとヒットの法則">【忘年会議2005 Sponsored by Yahoo!検索】Yahoo! JAPANの検索データから浮かび上がるトレンドとヒットの法則</a>

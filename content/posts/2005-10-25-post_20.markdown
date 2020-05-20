@@ -1,0 +1,22 @@
+---
+layout: post
+title: コトノハ
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://kotonoha.cc/">コトノハ</a>という○×つけサイトに、始まって以来ときどき足繁く通っている。
+ただ○×をつけていくだけでも、見ていくだけでもとても面白い。作った方ＧＪ!
+見てみたら素敵な<a href="http://paperboy.co.jp/">ペパボ</a>の方でした。職場、すぐ近くだ…
+ちなみにうちの書いたヘボ○×の1つ。↓
+<a href="http://kotonoha.cc/no/7841">コトノハ - 頭文字D</a>
+<a href="http://kotonoha.cc/no/8870">コトノハ - talby</a>
+
+<!--more-->
+先週うちの<a href="http://wo.skr.jp/ffxi/">vanascript</a>をかなりテコ入れしたのだけれど、コトノハのCSSを大いに参考にさせていただいた（というか、まんま…）。
+このまま黙っているのも申し訳ないので、先ほどmixi経由でお詫びのメッセージを送信。
+すると即座に大変寛大なご返事が。そのまま使っても良いとのお許しをいただきました。ありがとうございます…m(_ _)m
+近々リニューアルを行うとのことなので、楽しみ。

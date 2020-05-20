@@ -1,0 +1,11 @@
+---
+layout: post
+title: 新年
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<p>今年もよろしくお願いします。<br /><br />今年は個人的に何か、成果を挙げたいな。<br /></p>

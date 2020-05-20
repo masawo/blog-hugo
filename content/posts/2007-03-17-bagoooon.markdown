@@ -1,0 +1,13 @@
+---
+layout: post
+title: 焼きそばBAGOOOON
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">ダイ〇ーで見かけて即確保。
+関東でも売るようになったのかな?</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1174136214.37-0.jpg" /></div>

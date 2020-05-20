@@ -1,0 +1,19 @@
+---
+layout: post
+title: HUB買い替え
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+自宅で使ってきた<a href="http://buffalo.jp/products/catalog/item/l/lsw10100-5p/index.html">5ポートのスイッチングHUB</a>。
+
+HDDレコーダー、PS3、液晶TVと、日に日に利用ポートがだんだん増えていき、
+そろそろ5ポートじゃ足りなくなりそうなので、買い替えることにしました。
+1000M対応の8ポートHUBに買い替え。
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000IB13XO/masawo-22/ref=nosim/" name="amazletlink" target="_blank">8ポート Giga(1000M) スイッチングHUB CG-SW08GTR</a>
+
+これで挿す機器が増えても安心、かな。

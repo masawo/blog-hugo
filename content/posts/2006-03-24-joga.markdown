@@ -1,0 +1,18 @@
+---
+layout: post
+title: Joga
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+Joga
+<blockquote>Joga にようこそ。Joga は、”美しいゲーム" としてのサッカーの促進を目的としたサッカー プレーヤーのためのコミュニティです。
+Joga は、世界中のサッカー ファンが集い、それぞれのサッカー体験を語り、写真やビデオを楽しむためのサイトです。
+Joga に参加して、このゲームの本来の姿は "美しいプレー” にあることを世界中に広めましょう。</blockquote>
+興味津々。誰か誘ってくれないかなあ。（ぼそ）

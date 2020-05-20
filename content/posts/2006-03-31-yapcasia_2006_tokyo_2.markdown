@@ -1,0 +1,146 @@
+---
+layout: post
+title: YAPC::Asia 2006 Tokyo に行きました
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+昨日、一昨日と行ってきましたのでレポートです。
+(別のところで箇条書きもしてますが…)
+多少理解できた主なものをピックアップです。
+
+※4/1追記
+↓のほうがよりよくまとまっています。
+
+<a href="http://jp.rubyist.net/PerlMa/wiki.cgi?page=20060401%2DYAPCAsiaReport" title="20060401-YAPCAsiaReport - Perlish Magazine">20060401-YAPCAsiaReport - Perlish Magazine</a>
+
+1日目(3/29)
+<strong><a href="http://perlcabal.org/~autrijus/tokyo/pugs.xul">Introduction to Pugs - Andrey Tang</a></strong>
+
+Perl6 の言語実装である Pugs についての解説と、実際の使い方など。
+少し難しめな内容。でもプレゼンは笑いを取る箇所がいくつもあって面白かったです。
+
+<strong>
+Module::Compile - Ingy dot Net</strong>
+
+モジュールをコンパイルするモジュール Module::Compile についてのお話。
+.pmc ファイルが作られて、それを云々？
+あまり理解できませんでした…
+
+<strong>mightyv - Leon Brocard</strong>
+
+<a href="http://www.mightyv.com/">mightyv.com</a> という、TV番組をシェアするサイトを Perl で作ったときの一部始終。
+BBCのコンテストに応募して優勝。CPAN モジュールを多数使用したそうです。
+- <a href="http://www.mightyv.com/about/">使用モジュール一覧</a>
+何度もDB構成を作り直したそうです。
+最後に開発して学んだこととして以下を挙げています。(以下、資料からコピー)
+- 事前のデータベース設計に少し時間をかけたほうがいい
+- データのインポートは難しいし、正しくやるにはとても時間がかかる
+- データは「いつでも」どこかおかしい。先入観をもたないこと
+- ユーザがほしいものにフォーカスする
+- プライオリティづけ
+
+<strong>Plagger - RSS/Atom remixing platform - Tatsuhiko Miyagawa</strong>
+
+<a href="http://plagger.org/">Plagger</a> というCPANモジュールの紹介。
+入出力をプラグインによって様々に設定し、好きなようにできるソフトウェア。
+GmailをRSSリーダー風に使ったり、mixiの新着日記を取得してGmailで読んだりと
+様々な使用例を挙げ、また今後の予定など。
+
+実際に試してみる際には以下が参考になります。(自分も既に利用してます)
+
+<a href="http://www.otsune.com/fswiki/plagger.html ">http://www.otsune.com/fswiki/plagger.html </a>
+
+<strong>mixi.jp: ChangeLog - Batara Kesuma</strong>
+
+(資料はまだ公開されてないようですが↓が詳しいです)
+- <a href="http://d.hatena.ne.jp/pekeq/20060329/p1">http://d.hatena.ne.jp/pekeq/20060329/p1</a>
+- <a href="http://itpro.nikkeibp.co.jp/article/NEWS/20060330/233820/">http://itpro.nikkeibp.co.jp/article/NEWS/20060330/233820/</a>
+<a href="http://mixi.jp/">mixi</a>の立ち上げから現在に至るまでについてをCTOが語りました。
+上記URLにある通り、増え続けるデータやトラフィックに対しどのように対処したのかが良くわかりました。
+
+mixi社では、「<a href="http://www.amazon.co.jp/exec/obidos/ASIN/0596001738/masawo-22/ref=nosim/" name="amazletlink" target="_blank">Perl Best Practices</a>」という本のコーディングスタイルをベースとしているそうです。
+
+<strong>Perl Best Practices - Damian Conway</strong>
+
+題名と同じ名前の本の著者による、効率良くメンテナンス性の高いコードを書くためのtipsについてのお話。
+- perltidy を使えば、みんな一緒にインデント等のレイアウトを統一できる
+- 正規表現は常に /xms を使う
+-- /x を使えばコメントがつけやすくなる
+こういったことが著者の本にはたくさん書いてあるとのことで、読んでみたくなりました。
+
+<!--more-->
+2日目(3/30)
+
+<strong>Perl 5.8 and Unicode: Myths, Facts and Changes - Dan Kogai</strong>
+
+Jcode モジュールの作者によるお話。
+Perl 5.8 では UTF-8 かどうかを判別する仕組みが入っていて(Encodeモジュール)、これを使うだけでもかなり日本語文字列を扱えるよ、とのことでした。
+
+<strong>Fighting with Blog spams - Tatsuhiko Miyagawa</strong>
+
+BlogへのコメントスパムやTrackbackスパム、SPAM Blog へこれまで対策してきたことについて。
+Movable Type 3.2 の場合は、標準付属の SpamLookup プラグインの設定を変えたり、他のSPAM対策プラグインを導入することによってある程度の対応ができたとのことです。
+
+また、自身が運営する bulkfeeds.net でDNSブラックリストのサービスを行っており、そこでのSPAM判定方法などについて話していました。
+(↓あたりの内容です)
+
+<a href="http://blog.bulknews.net/mt/archives/001813.html">http://blog.bulknews.net/mt/archives/001813.html</a>
+<a href="http://blog.bulknews.net/mt/archives/001834.html">http://blog.bulknews.net/mt/archives/001834.html</a>
+<a href="http://blog.bulknews.net/mt/archives/001841.html">http://blog.bulknews.net/mt/archives/001841.html</a>
+
+<strong>Getting Your Feet Wet With XS - Daisuke Maki</strong>
+
+XSというものがあって、これを使うとPerlとCを結合させて処理でき、 「スピードと外部ライブラリを求めるときには使えるよ。やってみればそんなに難しくはないよ」というお話でした。
+
+<strong>Inside Hatena::Bookmark's Backend - Naoya Ito</strong>
+
+（詳細は↓が詳しいです）
+
+<a href="http://d.hatena.ne.jp/pekeq/20060330/p1">http://d.hatena.ne.jp/pekeq/20060330/p1</a>
+
+<a href="http://b.hatena.ne.jp/">はてなブックマーク</a>を作ってからのバックエンドの様子について。
+MySQLはすべてMyISAM、slaveではオンメモリ(tmpfs)上で動かし、ディスクI/Oを無くし高速化しているとのこと。ただしメモリがいっぱいにならないよう注意が要るそう。
+
+負荷の原因はだいたいはI/Oやメモリ。
+他にはロボットによるアクセスへの対策や、mod_perl 1.x系から2.0に移行した際のやり方について話していました。
+Nagios や UltraMonkey というキーワードに少し興味を持ちました。
+
+<strong>Lightning Talks</strong>
+
+終盤に1人5分以内での発表があり、面白い話題ばかりで盛り上がりました。5分を過ぎると銅鑼が打ち鳴らされタイムオーバー…(一人だけでしたが)
+
+いくつか挙げると：
+
+<a href="http://labs.cybozu.co.jp/blog/kazuho/archives/perl/PERL5WEBDB.ppt">ブラウザ上でWebアプリのデバッグができる PERL5WEBDB </a>
+- 動作環境がちょっときびしめですが便利そうでした
+Let's play Sudoku
+- 数独というパズルが最近流行っていて、この問題を自動生成するモジュールが既にCPANにあるよ、というお話。解答ももちろんモジュールでできてしまうよ、というデモをやって大うけ。
+
+<strong>Keynote - Larry Wall</strong>
+
+最後は生みの親の Larry Wall 氏の講演。難しめのお話でしたが笑うところもありました。
+自然言語に近いのがPerlの良いところだ、というようなお話も。
+
+資料には「楽だ」という文字が何度か出てきました。
+
+<strong>感想</strong>
+
+Perl のすごい人たちはやっぱりすごいな、と再確認した2日間でした。ユーモアに溢れる発表も多くて面白かったです。mixiやはてなブックマークの裏側も分かったり、いろいろ勉強になりました。
+
+海外の方による英語の発表でもプレゼン資料は翻訳がついていることが多く、トークを聴いていてもなんとなく分かった気になったような、そんなお話の上手な方々ばかりでした。
+
+すごい人たちの話を聞いてみて、まだまだPerlを全然使いこなせていないな、と思わされました。
+モジュールを使いこなせるようになりたいし、また
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/0596001738/masawo-22/ref=nosim/" name="amazletlink" target="_blank">Perl Best Practices</a>
+を読んで参考にしてみたいと思います。あ、その前に他の本(ラクダの)を読むほうが先かな…
+
+Perl だけでなく Ruby のお話もいくつかあり、参考になりました。
+
+自分はPHPも使うのですが、今回PHPの評判はあまり良くない感じでした。Perlのコミュニティではそんな感じなのかな？なんとなく分かる気がしますが、少し複雑な気も。

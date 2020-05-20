@@ -1,0 +1,14 @@
+---
+layout: post
+title: 昔の携帯
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">以前使ってた携帯が発掘されました。懐かしい。
+お店に持っていけば引き取ってもらえるんだったかな?
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1171085933.88-0.jpg" /></div>

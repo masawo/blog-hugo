@@ -1,0 +1,28 @@
+---
+layout: post
+title: カイハツチュウ
+tags:
+- チラシの裏
+status: draft
+type: post
+published: false
+meta: {}
+---
+<a href="http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html" onclick="window.open('http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html','popup','width=972,height=612,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa-thumb.png" width="486" height="306" alt="" /></a>
+Webサービスの勉強がてら、<a href="http://developer.yahoo.co.jp/auctions/" title="Yahoo!デベロッパーネットワーク - オークションWebサービス">Yahoo!デベロッパーネットワーク - オークションWebサービス</a> を利用して小物を作ろうとしています。
+
+内容は、「ヤフオクにあるJリーグチケットカテゴリの中から、Jリーグ各クラブごとのチケット出品一覧を出す」というものです。
+できあがれば、多少Jリーグファンの人たちに使ってもらえるのかな？
+
+やっと簡単な出力ができたところです。あとはデザインなどすればできあがりですかね。
+あ、対戦チーム別に分けて表示したりすればさらに便利なのかもしれない。
+
+ちなみにPerlでCPANモジュールをいろいろ使って作ってます。
+ところどころ詰まりながら…
+
+<!--more-->
+[以下は↑を書いた後に思ったこと…]
+
+まあ、本家でも<a href="http://search5.auctions.yahoo.co.jp/search?sb=desc,cat&desc=fc%c5%ec%b5%fe+&cat=2084050693&auccat=2084050693&acc=jp&apg=&f=0x22&s1=end&o1=a&alocale=0jp&mode=0">チーム名ごとに検索</a>した上でRSS取得できたりするので、あんまり作る意味はないかもですな。
+
+まあ勉強がてらだし。とりあえず対戦カードごとの表示とかすれば独自色は出せるかなー。

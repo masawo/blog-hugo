@@ -1,0 +1,15 @@
+---
+layout: post
+title: ばなな
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+Asahina antenna in Univ. of Tsukuba に、ここへの移転がもう捕捉されていた。テラハヤス。
+それにしても、URL増えたなあ、としみじみ。

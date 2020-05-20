@@ -1,0 +1,13 @@
+---
+layout: post
+title: 秘伝オムライス
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">聴きに行ってきました。諸事情で途中からでしたが…
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1155906827.16-0.jpg" /></div>

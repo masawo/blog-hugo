@@ -1,0 +1,13 @@
+---
+layout: post
+title: 地震
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">駅に向かって歩いてて揺れに気づかなかった。電車遅れてる
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1124161622.08-0.jpg" /></div>

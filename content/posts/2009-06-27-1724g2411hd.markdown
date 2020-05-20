@@ -1,0 +1,38 @@
+---
+layout: post
+title: モニタを17インチから24インチ(G2411HD)にした
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta:
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+  twitter_failure_code: '400'
+  has_been_twittered: failed
+  _edit_last: '1'
+---
+一昨日頼んでいた <a href="http://www.benq.co.jp/products/LCD/?product=1451">Benq G2411HD</a> が今日届いていたので、設置しました。
+
+購入価格： <a href="http://nttxstore.jp/">NTT-X Store</a> で \22,680
+
+＃特価がくるまで我慢していれば、2万程度で買えたのかも。
+
+<!--more-->
+帰ったら馬鹿でかい箱とご対面かな、と思いきや、思ったほどでかくなかった。スリムな箱でした。
+
+<a href="http://www.flickr.com/photos/masawo/3662260721/" title="RIMG0018.JPG by masawo77, on Flickr"><img src="http://farm3.static.flickr.com/2593/3662260721_7e4c1263e6.jpg" width="500" height="375" alt="RIMG0018.JPG" /></a>
+
+<a href="http://wo.skr.jp/wp/2009/04/post_116.html">今まで使っていた17インチモニタ</a>と置き換えて、設置完了。
+
+重量が5kgを切るぐらいでこれまでとたいして変わらないので、置き換え作業は筋力のない自分でも困りませんでした。
+
+<a href="http://www.flickr.com/photos/masawo/3663064004/" title="RIMG0019.JPG by masawo77, on Flickr"><img src="http://farm4.static.flickr.com/3610/3663064004_0d8f0bdaa7.jpg" width="500" height="375" alt="RIMG0019.JPG" /></a>
+
+うーん、やっぱりでかい！
+
+作業領域が増えて、だいぶ世界が変わった気がします。
+
+PCゲームもしてない自分は正直もてあましそう。。
+
+で、下に映っているのは、こちらも結局買ってしまった MacBook Air です。。

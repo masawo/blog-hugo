@@ -1,0 +1,15 @@
+---
+layout: post
+title: NIC調達(GbE-PCI2)
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://wo.skr.jp/mt/2007/08/pc_2.html">新しい自宅PC</a>を使っていると、ときどきWebブラウジング中になにか表示がひっかかることがあったり、ゲーム(モンスターハンターフロンティア)をやってるときに突然回線落ちすることがあったりします。
+
+某スレなどを見ていると、どうもマザーボードのオンボードNIC(Realtek製)のクオリティがいまいちという説が。
+
+1000円ちょっとで代わりの良さげなNICがあるようなので、<a href="http://www.kuroutoshikou.com/modules/display/?iid=216" title="玄人志向 - 商品一覧 ? セレクトシリーズ ? ネットワーク ? GigabitEthernet Board ? GbE-PCI2">玄人志向のGbE-PCI2</a>を買ってみました。ydbsakbで1,100円程度。これで様子を見てみようっと。

@@ -1,0 +1,18 @@
+---
+layout: post
+title: 空席照会。
+tags:
+- チラシの裏
+status: draft
+type: post
+published: false
+meta:
+  _edit_last: '1'
+---
+年始に姉たちが帰るときに、東武鉄道の特急で帰るということで、↓のサイトから空席照会を試みたわけですが。
+<a href="http://express-seat.tobu.co.jp/train/index.html">東武鉄道空席照会サービス</a>
+このサイト、<strong>FireFoxには未対応</strong>のようで、画面下のボタンが押せない…。
+空席が無いのかと思ってしまった罠。
+で、SafariやIE(Windows)で試してみたら、ちゃんとボタンが押せたのでした。
+ちゃんと空席も確認できたので、無事に特急で帰っていきました。
+ま、こんなこともあったということで。

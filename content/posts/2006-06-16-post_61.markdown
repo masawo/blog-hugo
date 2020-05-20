@@ -1,0 +1,22 @@
+---
+layout: post
+title: アサイー
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  twitter_failure_code: '400'
+  has_been_twittered: failed
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+何週か前にスポーツニュース番組を見ていたら、「アサイー」という栄養価の高いフルーツについての話がありました。
+サッカーの中澤選手が貧血対策として摂っているという話をしてました。
+鉄分を多く含むので、貧血が多い方におすすめなんだそうです。
+↓などで売っているみたいです。（普通のスーパーとかにはあまり無いみたい）
+
+<a title="【フルッタフルッタ】アマゾンフルーツジュースの販売" href="http://www.frutafruta.com/">【フルッタフルッタ】アマゾンフルーツジュースの販売</a>
+
+TULLY'S COFFEE にもアサイーを使ったドリンクがいくつかあります。
+貧血の症状があるわけではないのですが、まずはTULLY'S COFFEE のを飲んでみようかな。

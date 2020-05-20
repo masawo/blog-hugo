@@ -1,0 +1,45 @@
+---
+layout: post
+title: MNP準備
+tags:
+- チラシの裏
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20090225_49a422a2efcb6.jpg" width="240" height="320" alt="090225_0102~0001.jpg" />
+<p>auの庭から離脱する予定です。<br />
+</p>
+</div>
+
+<!--more-->
+今の携帯(<a href="http://ja.wikipedia.org/wiki/W42CA">W42CA</a>)にして2年半ぐらい経つのでそろそろ機種変でもと思い、週末にydbsカメラで最近の機種をチェック。
+
+どれに変えても、今の機種よりは大概スペックアップできる感じ。
+
+でもワンセグや電子マネーは別に必要なくて、でも特にこれがいいという機種も見つからなかったので、それならiPhoneにしてみようかなと思いました。
+
+IDOだった頃に<a href="http://ja.wikipedia.org/wiki/G%27zOne#C303CA">初めてGショック携帯</a>が出た時以来auで来たけれど、長く契約しててもたいした特典もなかったし、何よりこのところ魅力を感じないので。。
+
+あと、最初に持った携帯はドコモだったので、softbankがどんなもんなのか体感したいというのもあります。
+
+### 契約当日までのTODO
+<ul>
+<li>○貯まっていたauポイントをオンラインショップで消費</li>
+<li>○USBでPCにつないでデータのバックアップを取る</li>
+<li>○<a href="http://mb.softbank.jp/mb/welcome/tadatomo/">ただとも・MNPクーポン</a>の確保</li>
+<li>○ダブル定額等の解除（月ごとの契約なので月末までに）</li>
+<li>auへのMNP申し込み</li>
+<li>iPhone周辺アイテムの準備(液晶保護シートとかケースとか)</li>
+<li>現メアドで登録しているWebサービスの解除(これは変更後でもいいかも)</li>
+</ul>
+
+2/26追記：
+
+<a href="http://japan.cnet.com/mobile/story/0,3800078151,20388888,00.htm">iPhone 3Gが「0円」で買えるキャンペーン、ソフトバンクモバイルが開始:モバイルチャンネル - CNET Japan</a>
+
+タイミング良く値下げキャンペーンがキター！
+<a href="http://mb.softbank.jp/mb/iphone/everybody/">iPhone for everybody | SoftBank</a>

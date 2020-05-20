@@ -1,0 +1,12 @@
+---
+layout: post
+title: 装着
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">wktk</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1162049013.67-0.jpg" /></div>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: 副都心線
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20080616_4855bdde25e62.jpg" width="240" height="320" alt="080616_1003~0001.jpg" />
+<p>池袋〜明治神宮前を乗ってみますた。<br />
+当たり前だけどホームがきれい。多少地下深いかな。<br />
+</p>
+</div>

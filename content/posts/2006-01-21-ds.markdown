@@ -1,0 +1,13 @@
+---
+layout: post
+title: DS
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">本体以外を購入orz
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1137847039.54-0.jpg" /></div>

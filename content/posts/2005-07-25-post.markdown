@@ -1,0 +1,13 @@
+---
+layout: post
+title: テスト
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">土曜日電車止まってたとき
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1122280963.74-0.jpg" /></div>

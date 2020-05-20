@@ -1,0 +1,21 @@
+---
+layout: post
+title: VOXに入った
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://www.vox.com/home" title="Vox">Vox</a>を試してみたくて、以前に招待状待ちの登録をしていたんですが、その招待メールが数日前に来ていたのでした。
+
+さっきやっと登録をすませてVOXに加入。
+インタフェースがいろいろ凝っていて軽くびびりました。
+
+…ていうか、つい最近に正式リリースになったところなんですな。
+
+今は<a href="http://www.vox.com/join" title="Voxに登録 - Vox">Voxに登録 - Vox</a>からすぐに加入できる模様です。
+
+てことで、できたアカウントはお約束どおり <a href="http://masawo.vox.com/" title="wovox">masawo.vox.com</a>。
+そっちで記事が続くかは未知数…

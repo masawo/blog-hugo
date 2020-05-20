@@ -1,0 +1,15 @@
+---
+layout: post
+title: 大晦日
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">スカパー！でPRIDEの生中継をさっき見終わった。去年は現地で見てたんだけど。今年のも面白かった。
+
+メインは個人的には意外な結果。柔道着脱ぐとは思わなかったし。セミは判定だったのでちょっと消化不良かな。
+</div>
+<div class="photo"></div>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: (´・ω・｀)
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">ゴールネットが揺れない…</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1163832966.79-0.jpg" /></div>

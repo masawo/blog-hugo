@@ -1,0 +1,13 @@
+---
+layout: post
+title: シーズン終了
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">来年も頑張れー
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1133595581.05-0.jpg" /></div>

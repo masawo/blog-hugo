@@ -1,0 +1,13 @@
+---
+layout: post
+title: さか検閲中
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">滅多に見られないゴールの奪い合いを堪能中
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1126113845.85-0.jpg" /></div>

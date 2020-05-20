@@ -1,0 +1,14 @@
+---
+layout: post
+title: 大宮×千葉
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">見事な逆転勝利ですばら。
+カメラ持ってけばよかった
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1141552173.69-0.jpg" /></div>

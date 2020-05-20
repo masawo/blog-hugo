@@ -1,0 +1,16 @@
+---
+layout: post
+title: ブックファースト新宿店
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20081109_4916d707ab1d6.JPG" width="640" height="480" alt="CA340087.JPG" />
+<p>一昨日オープンしたばかりでキレイな店内でした。<br />
+コンピュータ系の書籍も結構あるほうかな。<br />
+</p>
+</div>

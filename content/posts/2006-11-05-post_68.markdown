@@ -1,0 +1,19 @@
+---
+layout: post
+title: 武士道
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+<div class="caption">ふう着席</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1162710443.08-0.jpg" /></div>
+
+<!--more-->
+オープニングが最高でした。
+「やれんのか！俺もやる！」にもうメロメロ…

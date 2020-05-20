@@ -1,0 +1,18 @@
+---
+layout: post
+title: 「rep2 機能拡張パック」が良い感じ
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+2ch閲覧をするときにはレンタルサーバに導入した<a href="http://akid.s17.xrea.com/">p2 - PHP でつくった 2ch Viewer</a>を使っていて、家でも携帯でもアクセスできて便利なのです。
+
+で、昨日に某板が移転をしたみたいなのですが、なぜか移転を検知してくれなくて（これまでは大丈夫だったんだけど）不便だったので、前から気になっていた<a href="http://page2.xrea.jp/expack/index.php">rep2 機能拡張パック</a>を導入してみました。
+
+AA を画像として表示する機能（携帯でも画像化して見られる）やあぼーん機能の強化など、改良されていて良い感じ。
+あとAAに反応して表示フォントを変える機能があり、これのおかげでMacでもAAが多少見やすくなった気がします＠Firefox3。
+
+<a href="http://page2.xrea.jp/expack/index.php/history">更新履歴</a>を見ると最近はverupが頻繁なようなので、わりと注目かも。

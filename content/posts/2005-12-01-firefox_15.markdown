@@ -1,0 +1,11 @@
+---
+layout: post
+title: Firefox 1.5
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<p>Firerox 1.0.7 を会社で使っていたけれど、最近1.5が出たとのことなので早速乗り換え。</p><p>拡張機能に関しては以下の記事を参考にさせていただきました。<br /><a target="_blank" href="http://caramel-tea.com/2005/11/30/firefox15.php">caramel*vanilla: Firefox1.5リリースと最近入れてみた拡張あれこれ</a><br /><a target="_blank" href="http://audiofan.net/archives/2005/11/firefox_ver15.php">audiofan.net: Firefoxをインストールしたらまず行う設定 Ver.1.5</a><br /></p><p>*.mozdev.org なサイトにもいろいろ入れたい拡張があるんだけど、なんかページ読み込みエラーが出てきてDLできないため試せず。1.5祭りってことで人大杉なのかしら？ </p>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: ブログにも使える地図サービス「ちず窓」
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://chizumado.jp/" title="ちず窓β">ちず窓β</a>
+Google Maps に似ているようでいて、微妙に違うところもあるインターフェイスですね。
+縮尺移動の際に画面内に四角形が現れて、エリア指定できるところがなかなかイイなと思いました。
+ということで地図テスト。
+<a href="http://chizumado.jp/view?position_id=330667" target="_blank"><img src="http://chizumado.jp/RasterMap?position_id=330667" border="1" alt="大宮公園サッカー場"/></a>

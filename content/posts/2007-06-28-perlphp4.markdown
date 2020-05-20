@@ -1,0 +1,68 @@
+---
+layout: post
+title: PerlのモジュールをPHP4のクラスに置き換える際の勘所
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+表題のことを実際にやってみて、つまづいたりここがポイントかもと感じた点を挙げてみます。
+
+試行錯誤していて思ったことなので、間違った点もあるかもしれません。
+
+・PHPにはPerlでいう、サブルーチンリファレンスという概念がない。
+
+→「呼ぶべきサブルーチン名を一旦得てからeval」で代用。（他に何かいい方法あるのかな。。）
+
+・正規表現でのパターンマッチや置換処理は Perl互換正規表現関数 preg_* を
+使うことになるが、Perl とはかなりやり方が異なるため慣れるまで戸惑う
+(preg_match_all のフラグ指定のところとか)。マニュアル首っぴきモード。
+
+・Perl互換正規表現関数 preg_* では、Perl で使えていたオプションのうち
+使えないものがいくつかある。
+- /g, /o の指定不可。(/g はデフォルトON。特定数だけのマッチにしたい場合には関数のオプション指定をする)
+- /e は preg_replace のみで使用可能。
+
+・PHP4では、派生クラスのコンストラクタから基底クラスのコンストラクタを自動的にコールすることはできない(via <a href="http://jp2.php.net/manual/ja/language.oop.constructor.php">PHPマニュアル</a>)。
+→派生クラスのコンストラクタ内でそのようなコールを直接書く必要がある。
+
+・PHP4では、varで宣言するクラス変数については定数による初期化のみが可能。
+動的な値で初期化しようとするとエラーになる(via <a href="http://jp2.php.net/manual/ja/language.oop.php">PHPマニュアル</a>)。
+→動的な値で初期化したい場合はコンストラクタ内で行わせる必要がある。
+
+・Perl的モジュール構成と同じようなファイル構成にする方法
+→サブクラスのコードの冒頭で、基底クラスのファイルを require_once させる。
+
+Perl で
+(Foo/Bar.pm, クラス名 Foo::Bar)
+<blockquote>
+package Foo::Bar;
+use Foo;
+..
+</blockquote>
+なら、PHPでは
+
+(Foo/Bar.php, クラス名 Foo_Bar)
+<blockquote>require_once("Foo.php");
+class Foo_Bar { .. }
+</blockquote>
+といった具合に。こうすればPerl側の構成と同じような作りにできる。
+
+（このとき、つくったクラスをシンプルにrequireできるよう、 include_path の設定を
+ini_set() なり php.ini なり .htaccess なりで設定しておくのが吉）
+
+<!--more-->
+今回やってみて、PerlはPHPと比べて柔軟に書けるということを実感した気がします。
+
+オブジェクト指向プログラミングのやり口については、それぞれ癖がありますね。どちらがより良いのかを判定するのはちとアレですが。
+
+参考までに、こんなエントリーを書いた自分の理解度を書いておきます。
+
+・Perl：オブジェクト指向プログラミングを、「<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4873113059/masawo-22/ref=nosim/" name="amazletlink" target="_blank">続・初めてのPerl 改訂版</a>」を読んで多少理解したつもり
+
+・PHP：4にべったりで、5の知識はゼロ。cakePHPに少しチャレンジした
+
+そろそろRubyやPythonといった言語もかじってみたいと思う今日この頃ですが、なかなか。
+

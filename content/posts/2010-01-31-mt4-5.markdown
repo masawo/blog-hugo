@@ -1,0 +1,28 @@
+---
+layout: post
+title: MT4->5
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+この週末に、ここのMovable Type を4から5に更新しました。
+
+公式のアップグレード方法を見ながら進めて、無事に完了。
+
+手間取った点としては：
+
+<ul>
+<li>今までDBをSQLiteにしていたが、5ではサポートされないそうなので、まず<a href="http://www.movabletype.jp/documentation/mt5/database/mysql-from-sqlite.html">旧環境でMySQLへの移行が必要</a>になった（※別にSQLIteのままでも動くらしいですが）</li>
+<li>ここ（さくらのレンタルサーバ）で使っているMySQLが4.0系と古いままだったので、コントロールパネルで一旦DBを削除し5.1系で再作成した</li>
+<li>旧環境のテンプレートだとなぜか再構築に失敗したので、テンプレート設定をやり直した（テーマを探してそれを設定）</li>
+</ul>
+
+テーマは<a href="http://code.zelazny.mydns.jp/trac/theme/wiki/mtVicuna/Simple">mtVicuna/Simple</a>をいただきました。
+
+参考
+
+<a href="http://www.movabletype.jp/documentation/mt5/upgrade/">Movable Type 3 および Movable Type 4　から Movable Type 5 へのアップグレード | Movable Type 5 ドキュメント</a>
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Eee PC
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20080712_48785458c72e1.jpg" width="240" height="320" alt="080712_1547~0001.jpg" />
+<p>昨日ポチった901がもう届きました。<br />
+これで外でもいろいろできるかな〜。<br />
+</p>
+</div>

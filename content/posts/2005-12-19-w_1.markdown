@@ -1,0 +1,13 @@
+---
+layout: post
+title: W杯グッズ
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">東京ドームで買ってみたよ
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1135004241.08-0.jpg" /></div>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: ふくあり
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">やっぱり良いスタジアムだなあ。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1177147392.1-0.jpg" /></div>

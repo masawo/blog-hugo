@@ -1,0 +1,14 @@
+---
+layout: post
+title: niftyBBフェスタ
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">マターリ行ってきました。
+眞鍋嬢のトーク聞いたり。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1151734809.78-0.jpg" /></div>

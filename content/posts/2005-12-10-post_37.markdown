@@ -1,0 +1,13 @@
+---
+layout: post
+title: 木俣
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">うーん
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1134169390.14-0.jpg" /></div>

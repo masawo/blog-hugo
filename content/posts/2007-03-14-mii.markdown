@@ -1,0 +1,12 @@
+---
+layout: post
+title: 秋刀魚と修造Mii
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">きたこれ</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1173806434.28-0.jpg" /></div>

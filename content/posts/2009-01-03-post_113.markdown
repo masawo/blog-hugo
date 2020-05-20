@@ -1,0 +1,33 @@
+---
+layout: post
+title: あけましておめでとうございました
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+今年もよろしくお願いします。
+
+去年の今頃はインフルエンザに伏していたこともあって、今度の年始はどこにも出かけず。
+
+某駅伝の20人抜きや、U字工事の地元ネタコントを見て複雑な気分になった年始でした。
+SYD。。
+
+年始は兄弟がうちにやってきて久々に家族で過ごしたんですが、10年来使ってきて年季の入った炊飯器を兄が見かねたらしく、IH炊飯器の魅力について熱く語られて買い換えをプッシュされました。。
+
+いつか買い換えようと思いつつ踏み切っていなかったのでした。
+
+早速調査＆注文。（なんかamazonが一番安かった）
+
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015ZPLYY/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51iqN4krdzL._SL160_.jpg" alt="ZOJIRUSHI 圧力IH炊飯ジャー極め炊き(3合炊き)NP-RE05-XA ステンレス" style="border: none;" /></a></div><div class="amazlet-info" style="float:left;margin-left:15px;line-height:120%"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015ZPLYY/masawo-22/ref=nosim/" name="amazletlink" target="_blank">ZOJIRUSHI 圧力IH炊飯ジャー極め炊き(3合炊き)NP-RE05-XA ステンレス</a><div class="amazlet-powered-date" style="font-size:7pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://www.amazlet.com/browse/ASIN/B0015ZPLYY/masawo-22/ref=nosim/" title="ZOJIRUSHI 圧力IH炊飯ジャー極め炊き(3合炊き)NP-RE05-XA ステンレス" target="_blank">amazlet</a> at 09.01.03</div></div><div class="amazlet-detail">象印 (2008-03-21)<br />売り上げランキング: 91<br /></div><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0015ZPLYY/masawo-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+
+<!--more-->
+### TODO
+<ul>
+<li>いい加減、サイトやドメインを有効活用したい。。</li>
+<li>去年はJリーグのシーズンチケットを半分しか消化できなかった（つまり損していた）という体たらく。。今年も買うのであればちゃんと足を運ばナイト。</li>
+<li>積みゲー／動画の消費</li>
+<li>ここの更新頻度UP?</li>
+</ul>

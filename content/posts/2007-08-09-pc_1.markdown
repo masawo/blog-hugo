@@ -1,0 +1,43 @@
+---
+layout: post
+title: 久々にPC自作予定
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+数年前に Pentium4 な自作PCを組んで以来今まで使ってきたのですが、AQUOSにつないで<a href="http://www.mh-frontier.jp/">モンスターハンターフロンティア</a>をフルHDで遊んでみると、映像やサウンドが時々飛ぶことがあります。デュアルディスプレイ状態だとそれが顕著に表れる。。
+
+そんな中で<a href="http://www.dosv.jp/feature/0708/index.htm">DOS/V POWER REPORTサイトの記事</a>が目にとまり、すっかりPCをリファインする気になってしまいました。
+
+日曜にいろいろ調べた末にケースとマザーボードを注文し、今日に到着。
+
+マザーボードの箱が厚みがあって少しびびり。
+
+<img alt="070809_0117~0001.jpg" src="http://wo.skr.jp/images/uploads/070809_0117~0001.jpg" width="240" height="320" />
+
+構成は以下で検討してます。数字は日曜日の時点のネット上での価格。
+<blockquote>○ケース＋電源<br>
+Antec <a href="http://www.links.co.jp/html/press2/news_p150.html">P150</a> 16,980<br>
+○M/B<br>
+GIGABYTE <a href="http://www.links.co.jp/html/press2/gigabyte_ga-p35-ds4.html">GA-P35-DS4</a> 23,800<br>
+・CPU<br>
+Core 2 Duo E6850 (3GHz,L2 4MB) 36,000<br>
+・メモリ<br>
+PC2-6400 1GB ×2 9,600<br>
+・ビデオカード<br>
+- GIGABYTE <a href="http://www.mustardseed.co.jp/gigabyte/specv_gvnx86s256hb.html">GV-NX86S256H</a> (PCIExp 256MB) 28,000<br>
+- 玄人志向 <a href="http://kuroutoshikou.com/modules/display/?iid=979">GF8600GTS-E256HW</a> 25,000<br>
+- 玄人志向 <a href="http://kuroutoshikou.com/modules/display/?iid=980">GF8600GT-E256HW</a> 16,000<br>
+・HDD<br>
+WesternDigital WD5000AAKS (500GB) 11,700<br>
+<br>
+合計 123,080(グラボ玄人GTSの場合)
+</blockquote>
+ビデオカードが悩みどころ。今使ってるのがRadeon9600なので、今度はGeForceにしてみようかと。
+
+あとCPUはクアッドコアにも若干ひかれるのですが、消費電力が大きいのと、買ったケースつき電源では足りない悪寒がするので、おとなしくE6850を選択することになりそうです。
+
+残りのパーツを買って組むのは週末。

@@ -1,0 +1,13 @@
+---
+layout: post
+title: 船橋
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">サッカー観戦に行った帰りに、IKEAに立ち寄り
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1148202454.2-0.jpg" /></div>

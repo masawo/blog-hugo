@@ -1,0 +1,47 @@
+---
+layout: post
+title: iPadを買った
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  has_been_twittered: 'yes'
+---
+<a href="http://wo.skr.jp/images/uploads/2012/03/2012-03-17-14.35.17.jpg"><img src="http://wo.skr.jp/images/uploads/2012/03/2012-03-17-14.35.17-225x300.jpg" alt="" title="2012-03-17 14.35.17" width="225" height="300" class="alignnone size-medium wp-image-426" /></a>
+
+iPadが新しくなって、Retinaディスプレイですごく画面が綺麗になったりしたので、持ってなかった自分もついに買ってしまいました。
+
+appleの発表があった日の夜にオンラインストアでポチったら 3/19に到着すると出ていたので、こりゃ届くのは月曜だなと思ってたんですが、発送しますたメールが昨日に来て今日届きました。ありがたや。
+
+買ったのは64GBの白です。
+
+液晶フィルムと風呂蓋も購入。
+
+<blockquote class="twitter-tweet"><p>新ipadはかなり解像度高かった。tabと比べてもすごく写真が細かくて綺麗。 <a href="http://t.co/8CDG7VhC" title="http://instagr.am/p/IRkG1LCSrT/">instagr.am/p/IRkG1LCSrT/</a></p>&mdash; masawo (@masawo) <a href="https://twitter.com/masawo/status/181002496846733312" data-datetime="2012-03-17T13:02:12+00:00">March 17, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+iPhoneで愛用している <a href="http://tapbots.com/software/tweetbot/">tweetbot</a> や <a href="http://reederapp.com/">reeder</a> のiPad用アプリをさっそく購入して、ああ便利だ〜と悦に浸ったりしています。
+
+他にもアプリ開拓しないと。
+
+これで手持ちのガジェットは
+<ul>
+	<li>iPhone4</li>
+	<li>Galaxy S(輸入モノ)</li>
+	<li>Galaxy Tab 8.9(輸入モノ)</li>
+	<li>iPad</li>
+</ul>
+と、ひと通り持つことになりました。増えたなあ。。
+
+
+Galaxy Tab 8.9 にもずっと軽い(200gも違う)というアドバンテージがあるので、外出時に持っていってPDF読むとかにはtabがいいかな、とか思っています。
+
+アプリを作るほうも、何かやってみたい…ですね。
+
+
+買った液晶フィルム
+
+<a href="http://trinitystore.jp/SHOP/4582269457222.html">【Simplism】iPad用バブルレス保護フィルム（クリスタルクリア） [Bubble-less Film for iPad Crystal Clear]</a>

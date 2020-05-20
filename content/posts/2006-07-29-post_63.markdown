@@ -1,0 +1,12 @@
+---
+layout: post
+title: テスト
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">WINに機種変更したので、VGAサイズのテスト</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1154166791.91-0.jpg" /></div>

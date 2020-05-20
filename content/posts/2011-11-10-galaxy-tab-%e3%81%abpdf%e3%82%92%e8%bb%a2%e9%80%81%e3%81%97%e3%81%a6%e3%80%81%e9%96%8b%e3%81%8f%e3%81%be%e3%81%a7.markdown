@@ -1,0 +1,24 @@
+---
+layout: post
+title: Galaxy Tab にPDFを転送して、開くまで
+tags:
+- Android
+- Galaxy Tab
+- チラシの裏
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: 'yes'
+---
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_1006.jpg" width="358" height="480" alt="IMG_1006.jpg" /></p><font face="Arial" size="3">PDFを、Galaxy Tab 8.9 に転送して閲覧したときのメモです。サクっと終わるのかと思ったらちょっと手間取ってしまった。。（転送したのは、Web+DB PRESS 1-60総集編のPDFです）<br />
+<br />
+Samsung Kies をMacにインスコールしてケーブルでつないだけど、PDFを送るためのエクスプローラ的なものが出ない。マスストレージモードにすべく、TabのUSBデバッグをONにしてもなってくれない。なんでだろ<br /></font> <font face="Arial" size="3">↓<br /></font><font face="Arial" size="3">別の手段を考える。Tab側から他マシンに接続できるファイルマネージャ的なのはないかな、と探したら　<a href="https://market.android.com/details?id=com.estrongs.android.pop&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5lc3Ryb25ncy5hbmRyb2lkLnBvcCJd">ES ファイルエクスプローラー</a> がみつかった<br /></font><font face="Arial" size="3">↓<br /></font><font face="Arial" size="3">sambaなファイルサーバにpdfを配置して、ES ファイルエクスプローラーで転送。sambaに接続してコピーするだけ<br />
+<br />
+これで Adobe Reader などでPDFが閲覧できるようになりました。(自分はファイルサーバがあるのでsambaを経由しましたが、Windowsの共有とかでも多分いけるとおもいます)</font><font face="Arial" size="3"><br /></font><font face="Arial" size="3">Adobe Reader だと大きなPDFなせいか閲覧にもっさり感があったので、他の閲覧アプリを探してみたら <a href="https://market.android.com/details?id=com.rookiestudio.perfectviewer&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5yb29raWVzdHVkaW8ucGVyZmVjdHZpZXdlciJd">Perfect Viewer</a> を見つけて、まずまず快適に。</font><font face="Arial" size="3">（モノクロページだとスイスイ開ける。カラーページだと時間かかるときがある。いずれも Adobe Reader よりは速い）<br /></font>
+<div style="font-family: Arial; font-size: medium;">
+  <br />
+</div>
+<div style="font-family: Arial; font-size: medium;">
+  タブレットならではのアプリがあまり開拓できていなくて、PDF閲覧やYoutube再生したりしてる程度です、今のところ。
+</div>

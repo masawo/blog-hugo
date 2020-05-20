@@ -1,0 +1,32 @@
+---
+layout: post
+title: Galaxy Tab 8.9が届いた
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: 'yes'
+---
+<p>1shopmobileで先週注文した Galaxy Tab 8.9 が、先日届きました。</p>
+<p>Webからチェックしていた配送追跡によると香港からの発送で、発送自体は注文の翌日にされたようなんですが、通関手続きで3日ぐらい止まっていて、届いたのは合計で1週間ぐらいでした。</p>
+<p>EMSの梱包を解いたところ。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0971.jpg" width="480" height="360" alt="IMG_0971.JPG" /></p>
+<p>パッケージ。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0973.jpg" width="480" height="360" alt="IMG_0973.JPG" /></p>
+<p>開けたところ。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0974.jpg" width="480" height="360" alt="IMG_0974.JPG" /></p>
+<p>付属品。<br />
+マニュアルは中華のが見えてますが、その下に英語のが入ってました。<br />
+ACアダプタはUK仕様のもの。充電ケーブル（iPhoneのものと激似）がUSBなので、アダプタを使うことはなさそう。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0976.jpg" width="480" height="360" alt="IMG_0976.JPG" /></p>
+<p>香港からのものだったので、初回の電源投入時に出た画面は中文でした。でもロケールが選べて、日本語も入ってました。選んだらこんな感じに。<br />
+あ、液晶保護シートは検索して1箇所しか売ってなかったので、とりあえずそれを取り寄せました。なんか上の穴が意味なしだったり、角が少し余ったりしてイマイチ。まあ後で別のシートが発売されたら買い換えよう。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0977.jpg" width="480" height="360" alt="IMG_0977.JPG" /></p>
+<p>↑は一旦スキップして、wifiの設定をしたあとにGoogleアカウントを設定。</p>
+<p>手持ちの Galaxy S とはまた使用感が違う感じ。<br />
+iPadみたいに画面下にボタンがないので、完全に画面内で操作する感じですね。<br />
+あとiPad2より軽いらしいです。（iPad2持ってないので実感がない）<br />
+まだアプリ入れたりしてないので、あれこれいじってみます。</p>
+<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_0978.jpg" width="480" height="360" alt="IMG_0978.JPG" /></p>

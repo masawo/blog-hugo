@@ -1,0 +1,17 @@
+---
+layout: post
+title: アバウトミーに登録してみた
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+@niftyで <a href="http://aboutme.jp/">about me</a> というプロフィール的サービスが始まったそうなので、さっそく登録してみました。
+
+<a href="http://masawo.aboutme.jp/profile">アバウトミー - 自分発見プロフィール : masawo</a>
+
+ここやブックマーク(del.icio.us)のRSSを追加。
+質問コーナーが、わりとゆるい感じでサクサク回答できるのが面白いですね。
+<script language="JavaScript" type="text/javascript">var AbUnum='f22138f94c39a86bfa5b09b1c7f683cf35d532c2';</script><script language="JavaScript" type="text/javascript" src="http://p.aboutme.jp/p/js/blogp.js"></script>

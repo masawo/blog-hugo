@@ -1,0 +1,12 @@
+---
+layout: post
+title: 千駄ヶ谷
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">行くとき、四ッ谷での総武線乗り換えで逆に乗ってしまった…</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1175657139.29-0.jpg" /></div>

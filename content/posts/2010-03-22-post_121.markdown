@@ -1,0 +1,30 @@
+---
+layout: post
+title: 重い腰を上げて...
+tags:
+- サーバー
+- 開発系
+status: publish
+type: post
+published: true
+meta: {}
+---
+別に体重が増えたわけではないんですが...
+
+連休中は、個人的に新しく開発を始めるのに必要な本を読んでいました。
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798021555/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41QHzR8v3aL._SL160_.jpg" alt="Amazon EC2/S3クラウド入門" style="border: none;" /></a>
+
+EC2を使ってWebサービスを立ち上げるのを考えて、参考に買いました。
+
+わりと入門という感じの内容で、若干物足りないかな？とりあえずこれ見ながら試してみよう。
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798119172/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/417K6qXAgvL._SL160_.jpg" alt="モダンPerl入門 (CodeZine BOOKS)" style="border: none;" /></a>
+
+発売したてのときに買ったままろくに読んでいなかったのを、ようやく読みました...
+
+冒頭に「初心者?中級者向け」と書かれている順に読んでまだ半分ぐらいですが、もっと早くちゃんと読んでいればよかった。
+
+読む前はのんびりモードだったんですが、ようやくテンションが上がってきた感じ。
+
+とりあえず、Perl・Catalyst で開発チャレンジしてみますよ、と。

@@ -1,0 +1,13 @@
+---
+layout: post
+title: 購入
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">むふ
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1137909666.31-0.jpg" /></div>

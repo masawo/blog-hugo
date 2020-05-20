@@ -1,0 +1,18 @@
+---
+layout: post
+title: コメントができないらしいので設定変更
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+ここにコメントできないという話を某B師から聞いたので調べてみたら、認証サービスにログインせずに投稿しようとするとCAPTCHAが表示されているのが、IEで見るとなぜか表示されない模様。
+
+ググったけどあんまり良い情報がないので、コメントするときには認証サービスへのログイン必須なように<a href="http://www.movabletype.jp/documentation/mt5/settings/registration.html">設定変更</a>しちゃいました。
+
+スイマセンがコメントされる奇特な方は、mixiやOpenIDなどにログインしてからお願いします。
+
+<!--more-->
+<small>あとなんかJavaScriptエラーが出る気がする。。後でみよう。</small>

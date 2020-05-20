@@ -1,0 +1,49 @@
+---
+layout: post
+title: MNP完了
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+先日に書いた通り、今日からiPhone持ちになりました。
+
+帰宅してアドレス帳の移動・ファームアップ・メールの設定などしていたら、時間があっという間に過ぎてしまった。。
+
+<u>今までの携帯メールアドレス(例のorzなやつ)を知っている方は、今後はGmailのほうにお願いします。
+</u>
+
+続きに参考にしたサイトなどを。
+
+<!--more-->
+<strong>メール設定の参考</strong>
+
+メールが来た際の
+- 画面通知
+- 着信音と振動
+が買ってすぐの状態では両立できないので、デフォルトでもらえる i.softbank.jp に yahoo.com と　Gmail を組み合わせて対応。
+
+- <a href="http://iphone.goodegg.jp/archives/384">快適なメール生活をiPhoneで実現する方法(着信音・着信表示) - iPhone.goodegg.jp</a>
+- <a href="http://www.iphooone.com/pukiwiki/index.php?%A5%E1%A1%BC%A5%EB%C0%DF%C4%EA">メール設定 - iphone wiki</a>
+- <a href="http://www33.atwiki.jp/iphone/pages/19.html">初心者用 iPhone まとめ @wiki - メール関連</a>
+- <a href="http://iphone.wikiwiki.jp/?%A5%E1%A1%BC%A5%EB%C3%E5%BF%AE%B4%D8%B7%B8#a52b963b">メール着信関係 - iPhone 3G Wiki*</a>
+
+<strong>アプリ</strong>
+
+<a href="http://d.hatena.ne.jp/moto_maka/20090228/1235770567">長期間使用されているiPhoneアプリをまとめてみました - もとまかのiPhone・iPod touch戯れ日記</a>
+
+ここから良さそうなものをとりあえず導入。
+
+BB2Cをちょっと触ってみたら、なかなか面白い使い勝手で感心。。
+
+他にも塊魂Liteや<a href="http://www.newtonica.net/">newtonica</a>も入れたり。
+
+近所のSBショップで契約しても良かったんですが、ケースなども一緒に買おうと思ったので、
+
+原宿のSB直営店で契約したあと、渋谷のアップルストアまで歩いていってケースとDockを買いました。
+
+（<a href="http://iphone.goodegg.jp/archives/2554">マクロレンズ付きiPhoneケース『GRIFFIN Clarifi』</a>が売っていて、買おうか迷ったけど結局他の無難なケースにした）
+
+UIや動きが今まで持ってた携帯と全く違うのでおもしろいです。だんだん慣れていくのかな。。

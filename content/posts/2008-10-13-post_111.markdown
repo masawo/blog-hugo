@@ -1,0 +1,16 @@
+---
+layout: post
+title: ドコモダケアート展
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<img src="http://wo.skr.jp/images/uploads/20081013_48f2ea3c256f2.JPG" width="640" height="480" alt="CA340078.JPG" />
+<p>今日までだったので見に行ってきました。<br />
+入り口にあるキノコづくしツリーが圧巻。<br />
+</p>
+</div>

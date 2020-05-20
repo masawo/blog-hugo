@@ -1,0 +1,22 @@
+---
+layout: post
+title: 書籍「アルファブロガー」
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+それなりに有名なblogオーナーさんたちが書いた本「アルファブロガー」を先週買ったんですが、ゲームやったり別のことしたりであまり読めてないです&hellip;。<br /><br />
+<div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798110205/masawo-22" name="amazletlink" target="_blank"><img src="http://images-jp.amazon.com/images/P/4798110205.09.MZZZZZZZ.jpg" alt="アルファブロガー 11人の人気ブロガーが語る成功するウェブログの秘訣とインターネットのこれから" style="border: none;" /></a></div><div class="amazlet-info" style="float:left;margin-left:15px;line-height:120%"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798110205/masawo-22" name="amazletlink" target="_blank">アルファブロガー 11人の人気ブロガーが語る成功するウェブログの秘訣とインターネットのこれから</a><div class="amazlet-powered-date" style="font-size:7pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://www.amazlet.com/browse/ASIN/4798110205/masawo-22" title="アルファブロガー 11人の人気ブロガーが語る成功するウェブログの秘訣とインターネットのこれから" target="_blank">amazlet</a> on 05.12.15</div></div><div class="amazlet-detail">FPN(フューチャー プランニング ネットワーク) 徳力 基彦 渡辺 聡 佐藤 匡彦 上原 仁 <br />翔泳社 (2005/10/21)<br /></div><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798110205/masawo-22" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a></div></div><div class="amazlet-footer" style="clear: left"></div></div>
+<br />
+こんな本を書けるほど有名なブロガーさんたちは素直にすごいと思うのです。<br />
+自分は一昨年の夏あたりに Movable Type を知り、それまで使っていた日記システムからMTに移りました。<br />
+それ以来ずっとひっそりとmoblogしたりよしなしごとを書いたり、という感じで続いてます。<br />
+ほかのblogとの交流も、まれに言及するエントリーを書いてトラックバックを発射したりする程度です。<br /><br />
+こんなやつですが、今週末以下のイベントに参加してみるテスト、じゃなくて予定です。<br /> <a title="Japan Blogger Conference-ジャパンブロガーカンファレンス?ブログの向こう側を考えてみよう?" href="http://bloggerconference.jp/">Japan Blogger Conference</a><br /> 忘年会議2005 Sponsored by Yahoo! JAPAN検索<br /> 知り合いが全然いないので不安ですが。（特に懇親会）<br />
+まあ上記の本をできるだけ読んで、ある程度予習?をしておこうかと思います。

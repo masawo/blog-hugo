@@ -1,0 +1,13 @@
+---
+layout: post
+title: さか
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">紙ふぶき
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132725802.24-0.jpg" /></div>

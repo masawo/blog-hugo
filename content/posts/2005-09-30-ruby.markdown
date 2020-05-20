@@ -1,0 +1,18 @@
+---
+layout: post
+title: ruby
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+Ruby on Rails というフレームワークのことを知って、試してみたりした。
+↓を参考にしながらやってみたら、本当にあっさりとmysqlのテーブルをいじれるアプリが作れて、ぽかん。
+
+ほんとに最初の一歩 :: wiki.rails2u.com
+<a title="modruby.net" href="http://modruby.net/ja/">mod_ruby</a>をとりあえず導入。

@@ -1,0 +1,11 @@
+---
+layout: post
+title: BIG ISSUEという雑誌
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+BIG ISSUE という、手売りの雑誌がある。 <br />自分の場合は銀座や渋谷なんかでおじさんが声出して売ってるのを見たことが何度かあって、「なんだろこの本」とか思っていたのだった。  <a href="http://plaza.rakuten.co.jp/startingover0127/diary/200512020000/"><br /><br />Starting Over</a>さんの記事で、その仕組みを知った。  <blockquote> <p> みなさんも駅の前で、BIG ISSUE売ってるホームレスのおっちゃん 見たことないですか？<br />熱いときも寒いときもがんばってますよね。 <br /><a href="http://www.bigissuejapan.com/about/system.htm" target="_blank"> この雑誌90円で仕入れて、200円で売ってるので 110円が販売者のおっちゃんの収入になるわけですね。</a></p> </blockquote>  なるほど、そういうことだったのね。 しかも世界に広がっているなんて、感心。<br /><a href="http://www.bigissuejapan.com/index.html" title="ビッグイシュー日本版">ビッグイシュー日本版</a><br />

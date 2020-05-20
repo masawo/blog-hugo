@@ -1,0 +1,13 @@
+---
+layout: post
+title: 有明
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">コロシアムにきた
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1127627828.83-0.jpg" /></div>

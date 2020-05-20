@@ -1,0 +1,15 @@
+---
+layout: post
+title: restart
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+サーバのメインHDDが引っ越し時にお亡くなりになってしまい、旧wologのデータが抹消されてしまいました。無念。
+
+引っ越しが落ち着いてから、サーバOSを入れなおしたり設定したりをまったりやってました。Celeron400MHzの低スペックマシンなのに Gentoo Linux にチャレンジしてしまったのが運のつきでしょうか。
+
+やっとこさ Movable Type を設置する気になったので、とりあえずmoblogが動くところまで設定。

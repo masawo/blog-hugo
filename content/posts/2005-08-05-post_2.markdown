@@ -1,0 +1,16 @@
+---
+layout: post
+title: 熱中症予防情報
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+
+しばらくは暑そう…
+<a title="tenki.jp（熱中症予防情報 ＞ 東京）" href="http://www.tenki.jp/heat/h44.html">tenki.jp（熱中症予防情報 ＞ 東京）</a>

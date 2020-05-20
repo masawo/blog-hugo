@@ -1,0 +1,11 @@
+---
+layout: post
+title: う
+tags:
+- 日々
+status: draft
+type: post
+published: false
+meta: {}
+---
+特にまとまって書くことがなくて間が空きました。

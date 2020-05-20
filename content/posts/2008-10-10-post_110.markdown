@@ -1,0 +1,16 @@
+---
+layout: post
+title: 情報断ち失敗
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="moblogkun-entry">
+<p>帰って代表戦を録画で観ようと情報断ちしてたのに、帰りの山手線でふとモニタを見たら結果が目に…。<br />
+<br />
+情報断ちも気をつけないとダメですね。まあ親善だしいいかな。得点者は知らないのでそこだけwktkして見ようかなと。<br />
+</p>
+</div>

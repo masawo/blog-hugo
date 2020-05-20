@@ -1,0 +1,18 @@
+---
+layout: post
+title: 音楽葬
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">職場に向かう途中に行ってきました。
+
+いい天気の中40分近く列に並びましたが、大型モニターに各曲の映像が流れていたので退屈はしませんでした。
+
+南無。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1182936438.07-0.jpg" />
+<img src="http://wo.skr.jp/images/uploads/blog-photo-1182936438.07-1.jpg" /></div>

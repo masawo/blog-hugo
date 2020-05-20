@@ -1,0 +1,25 @@
+---
+layout: post
+title: Leopard導入
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+日曜は先週リリースされた MacOSX Leopard を買いに行ってから、家の MacBook Pro にインストールしてました。
+
+某新・Mac板のスレによるとクリーンインストールすれば間違いないようなので、
+<a href="http://www.bombich.com/software/ccc.html"> Carbon Copy Cloner</a>で
+外付けHDDにバックアップを取ってから、クリーンインストール。
+
+小1時間ほどでインストールが終わってから、バックアップから必要なソフトやデータを移動。
+
+Macでの移行作業は初めてでしたが、基本的に「アプリケーション」やユーザディレクトリ内の「ライブラリ」などのファイルを戻してあげれば良い感じなので案外楽でした。
+
+ただMailのアカウント情報が移らなくてあれっと思ったけれど、検索して<a href="http://docs.info.apple.com/jarticle.html?artnum=301239">Appleのサイトの情報</a>の通りにやり直したら解決。
+
+あとは、Parallels Desktop のアクティベートキーをどこのメールに載ってたか失念して、小一時間ほど路頭に迷った程度でした。
+
+Time Machine のバックアップ作成を走らせて、今日はおやすみ。

@@ -1,0 +1,14 @@
+---
+layout: post
+title: アンゴラ
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">なんかぎりぎりな勝ち方。決めるとこ決められないとダメだな…。やぱ決定力。
+松井が気合い入っててよかった。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132164574.02-0.jpg" /></div>

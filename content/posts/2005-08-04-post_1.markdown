@@ -1,0 +1,13 @@
+---
+layout: post
+title: 粗品
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">本店のパーティーでもらいました
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1123083757.86-0.jpg" /></div>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: FF3オワタ
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">2回ぐらい赤いドラゴンで全滅したかな…(あれはまともにやりあわず逃げるものらしい)
+最後が長いのは本家と変わりなかったです。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1158504445.42-0.jpg" /></div>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: 国際フォーラム
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">人大杉
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1139036815.03-0.jpg" /></div>

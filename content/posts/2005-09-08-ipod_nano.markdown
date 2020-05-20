@@ -1,0 +1,16 @@
+---
+layout: post
+title: ipod nano
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a title="アップル、カラー液晶搭載で厚さ6.9mmの「iPod nano」" href="http://internet.watch.impress.co.jp/cda/news/2005/09/08/9070.html">アップル、カラー液晶搭載で厚さ6.9mmの「iPod nano」</a>
+
+今使ってる携帯がtalbyでこれも結構薄い(約45 (W) × 132 (H) × 13 (D) mm, 79g)。
+<blockquote>本体サイズは、40×6.9×90mm（幅×奥行×高）で、重量は42g。</blockquote>
+とあるので、talbyよりもさらに薄く短くなった感じのサイズか。ふむむ。
+gigabeatを買っていながらあまり使ってない身としては、欲しいようなもったいないような。

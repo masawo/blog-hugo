@@ -1,0 +1,42 @@
+---
+layout: post
+title: 液晶TV注文
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+これまで自分用に使っていたブラウン管のTVを、引っ越し後はリビングで使うことにしたので
+自分のTVを新調することにしました。
+これまでは25型。
+
+ydbsカメラで32型と37型の液晶TVを実際にkwsk見てみて、どっちにしようか結構考えました。
+
+自室に置くつもりの場所で壁〜自分間の最大距離を計ったところ、150cm程度。
+壁〜TVの間を20cmとすれば、視聴距離は130前後。
+
+32,37型の適正視聴距離がそれぞれ120,140cm程度というのをどこかで読んだので、そう考えると37型は大きすぎるのかも？
+
+ということで、しばし葛藤の後、若干後ろめたさはあるものの32型に照準を合わせることにしました。
+
+続いて機種の選定へ。
+
+まず残像低減機能がある<a href="http://panasonic.jp/viera/products/lx75/index.html">VIERA LX75</a>が気になったけど、出たばかりでやや高め。
+
+A氏が購入したビクターの<a href="http://www.jvc-victor.co.jp/tv/lt-32lc85/index.html">LT-32LC85</a>は安くて良さげなんだけど、入力端子がやや少なめなのが気がかり。
+
+32型でフルHDな機種は、今のところAQUOS <a href="http://www.sharp.co.jp/aquos/lineup/gs10_32/index.html">LC-32GS10</a>(or GS20)だけ。でもフルHDになると価格がちょっと高いな。
+
+そうこう迷いつつWebを漁っていると、AmazonでLC-32GS10/20がそこそこ安くなっていました。
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000M05ZGM/masawo-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://images-jp.amazon.com/images/P/B000M05ZGM.09.MZZZZZZZ.jpg" alt="SHARP AQUOS 32型 地上・BS・110度デジタル フルハイビジョン液晶テレビ LC-32GS20" style="border: none;" /></a>
+
+。。。
+
+覚悟完了。来週届きます。
+
+TV番組はもちろん、WiiやPS3でもまだHDな画質を体感できてないのでwktkです。
+
+まあ、よく見るスカパーのサッカー中継ではHD放送はまだ少ないかもですが。。

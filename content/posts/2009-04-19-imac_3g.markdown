@@ -1,0 +1,31 @@
+---
+layout: post
+title: iMac 3Gを分解
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+妹が最新のiMacを買って、今まで使ってた iMac 3G がお役ご免になったんですが、出荷時状態に戻そうとリストアしたらなぜか「？」マークのアイコンが点滅する状態で再起不能になってしまった罠。
+
+検索していろいろ試したけど解決しないので、とりあえず分解してHDDだけ外して廃棄することにしました。
+
+- <a href="http://www.flickr.com/photos/masawo/3454289281/" title="IMG_0017.JPG by masawo77, on Flickr"><img src="http://farm4.static.flickr.com/3325/3454289281_02379acfa3.jpg" width="375" height="500" alt="IMG_0017.JPG" /></a>
+- <a href="http://www.geocities.jp/tyuutaturikuson/index.html">iMac DV分解</a>
+
+を参考にして、ネジとガワを外してロジックボードとご対面。
+
+HDDだけぶんどって元に戻しました。
+
+メモリも刺さってたけど、256MBのを取っても今更使わないのでそのまま。
+
+結構スムーズにできたかな、と。
+
+処分には↓を使う予定です。送るだけでいいので。
+
+一緒に旧自宅サーバ機(某B師のお下がり)も出しちゃおうかな。
+
+<a href="http://pc.watch.impress.co.jp/docs/topic/feature/20090414_125316.html">【PC Watch】 不要PCを無償でリサイクル処分してくれるパソコンファーム利用体験記 〜宅配便で送るだけの超簡単システム</a>
+

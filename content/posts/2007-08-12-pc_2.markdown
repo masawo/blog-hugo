@@ -1,0 +1,40 @@
+---
+layout: post
+title: 自作PCその後
+tags:
+- 購買意欲
+status: publish
+type: post
+published: true
+meta: {}
+---
+気温がとても高かった昨日の夕方に残りのPCパーツを秋葉原で買ってきて、土日で組み上げました。
+
+ビデオカードは結局8600GTにしました(8600GTSはコストパフォーマンスいまいちっぽいので)。
+
+よく冷えそうな発売したてのものを選択。
+
+OS(XP Home)のインストール時、AHCI等のところでちょっと手間取ったり…
+<blockquote>・ケース＋電源<br>
+Antec <a href="http://www.links.co.jp/html/press2/news_p150.html">P150</a> 16,980<br>
+・M/B<br>
+GIGABYTE <a href="http://www.links.co.jp/html/press2/gigabyte_ga-p35-ds4.html">GA-P35-DS4</a> 23,800<br>
+・CPU<br>
+Core 2 Duo E6850 (3GHz,L2 4MB) 35,800<br>
+・メモリ<br>
+PC2-6400 1GB ×2 9,360<br>
+・ビデオカード<br>
+- GIGABYTE <a href="http://mustardseed.co.jp/gigabyte/specv_gvnx86t256hzl.html">GV-NX86T256H-ZL</a> 18,873<br>
+・HDD<br>
+WesternDigital WD5000AAKS (500GB) 11,758<br>
+<br>
+合計 116,571
+</blockquote>
+
+<!--more-->
+(8/13追記)
+
+<s>その後一通りソフトを入れてみて、大きな問題は今のところなし…と思いきや、IE7がなぜか動かない罠だったりします。
+まあFirefox派なので影響ないけど…Windoze Update ができない悪寒。</s>
+
+その後、XP SP2をインストールしなおして解決しました。nLiteで作った統合CDが良くなかったようで。

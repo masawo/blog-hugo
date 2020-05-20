@@ -1,0 +1,13 @@
+---
+layout: post
+title: 引き出物
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">祝い鯛。めで鯛、はらいっぱい
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1142521877.18-0.jpg" /></div>

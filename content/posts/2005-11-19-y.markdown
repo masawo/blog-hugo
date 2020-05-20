@@ -1,0 +1,43 @@
+---
+layout: post
+title: Y!なイベント
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">酸化してきました。
+</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132393653.08-0.jpg" /></div>
+
+<!--more-->
+いつも外から眺めるばかりの秋葉原ダイビルの、上のほうに初めて立ち入った。
+
+Y!検索を使う際のいろんなTipsや、いろんなことを聞くことができた。
+
+記念品(腕時計)ももらえてありがたき。
+
+ある程度メモをとっていたのでまとめようと思ったら、既に詳細なレポートを書いている方が。
+
+<a href="http://hirozo.seesaa.net/article/9554989.html">検索の鉄人に会った :　　もつ焼く煙に誘われて…東京下町</a>
+
+個人的に印象に残ったのは以下の点。
+
+・ロングテールという言葉の意味が大変よく分かった
+
+・関さんの検索Tipsがとても分かりやすかった
+
+・湯豆腐についてのお話を、以前どこかで読んだ気がした。たぶん、少し前の<a href="http://picks.dir.yahoo.co.jp/">Y!新着情報</a>内のサーファー波乗り日記だと思う
+
+・GoogleばかりじゃなくもっとY!でも検索してみようと思った。検索オプションを駆使してね
+
+・話中に「検索会議で?」という言葉が何度か出てきて気になった
+<a href="http://blog.livedoor.jp/yokoyama_k/archives/50287840.html">司会の方</a>、大変乙でした。
+
+他の関連記事：
+
+<a href="http://cyblog.jp/modules/weblog/details.php?blog_id=131">シゴタノ！ - メモを取りやすいプレゼンをするコツ</a>
+
+<a href="http://cyblog.jp/modules/weblog/details.php?blog_id=132">シゴタノ！ - 仕事の幅を広げるコツ</a>

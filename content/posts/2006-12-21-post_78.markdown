@@ -1,0 +1,12 @@
+---
+layout: post
+title: 年末に買ったゲーム
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">正直、買いすぎたかも。</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1166708707.74-0.jpg" /></div>

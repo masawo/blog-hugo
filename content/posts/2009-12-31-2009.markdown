@@ -1,0 +1,24 @@
+---
+layout: post
+title: 2009年振り返り
+tags:
+- 未分類
+status: publish
+type: post
+published: true
+meta: {}
+---
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="marude.jpg" src="http://wo.skr.jp/images/uploads/marude.jpg" width="339" height="168" class="mt-image-none" style="" /></span>
+今年はこんな感じの1年でした。
+
+自分自身変わったことというとこのぐらいです：
+
+<ul>
+<li>iPhone(3G)を買って移動時に便利になった</li>
+<li>iPhoneのおかげか、眠っていたtwitterアカウントが活性化した</li>
+<li>平日にある程度早起きできるようになった</li>
+<li>勉強会などに参加するようになった(twitter botのとか)</li>
+</ul>
+
+いろいろ興味を持つけど、どれも中途半端になってしまう罠です。
+さて掃除しよう。。

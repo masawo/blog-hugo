@@ -1,0 +1,28 @@
+---
+layout: post
+title: twitter?
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://twitter.com/">Twitter </a>の存在を4月頃に知って、とりあえずいつものアカウント名を取ってみて少し試したのですが、いまいちおもしろさが分からず。。
+
+友人を巻き込んだりする気もあまり起きず、適当に興味のある方数人をaddして、軽くひとりごちた末にほったらかしでした。
+でも流行ってるらしいのは何故だろうと思って、
+<a href="http://www.google.co.jp/search?hl=ja&q=twitter+%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84&lr=&btnG=Google+%E6%A4%9C%E7%B4%A2">
+Googleで twitter わからない で検索</a>して出てきたページをあれこれ読んでいると、なんとなく良さが分かってきたような感じに。
+
+<a href="http://www.itmedia.co.jp/news/articles/0705/21/news059.html">IT戦士の方</a>曰く、ブラウザベースで使っていたのでは真の良さは体感できないようで、いくつか作られている専用クライアントソフトを使ってこそ違いが分かってくるようです。
+
+てことで、Firefoxアドオン <a href="http://www.forest.impress.co.jp/article/2007/04/20/tweetbar.html">tweetbar</a>を使って少しずつ復帰してみようか。。と思ったり。（続かないかもしれないけど。。）
+IDは<a href="http://twitter.com/masawo">masawo</a> ですのでお手柔らかにどうぞ。
+
+そして自分もいろんな方をaddしてみようかと思います。
+
+<B>上記以外の参考</B>
+- <a href="http://d.hatena.ne.jp/hejihogu/20070501/p1">北の大地から送る物欲日記 - Twitterのススメ</a>
+- <a href="http://d.hatena.ne.jp/hejihogu/20070505/p1">北の大地から送る物欲日記 - Twitterを始めてからの話
+</a>

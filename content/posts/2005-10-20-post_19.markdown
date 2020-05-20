@@ -1,0 +1,15 @@
+---
+layout: post
+title: エージャックス？アヤックス？
+tags:
+- チラシの裏
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a href="http://www.asial.co.jp/magazine/">PHPプログラマーズマガジン</a>の9月号がまるごとPDFで拝読できるので、会社でAJAXな記事を印刷して帰りの電車で読み、帰ってきてご飯を食べてからもprototypeって何だっけとか調べながら読み、…とやっていたら時間がどんどん過ぎていってしまった。嗚呼。
+
+スカパーではちょうどチャンピオンズリーグが始まってるし、今夜は眠れるか心配。orz
+
+＃昨夜のチラシの裏は下書きに戻してしまった。汗。

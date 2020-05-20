@@ -1,0 +1,81 @@
+---
+layout: post
+title: Jemplateを試してみた
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+<a href="http://search.cpan.org/dist/Jemplate/">Jemplate</a> というJSON的テンプレートエンジンができていて、ちょっと注目していました。
+概要は下記がわかりやすいです。
+<a href="http://d.hatena.ne.jp/naoya/20060207/1139305280" title="naoyaのはてなダイアリー - JSON を Template-Toolkit で展開する Jemplate">naoyaのはてなダイアリー - JSON を Template-Toolkit で展開する Jemplate</a>
+
+FOR 文などのループ処理もできるようになったそうで。だんだん進化してるみたいです。
+
+自分も簡単なものから、ちょっと試してみることに。
+
+<!--more-->
+このblogトップに出している del.icio.us/masawo の一覧を出すやつは、<a href="http://del.icio.us/help/json" title="del.icio.us/help/json">del.icio.us/help/json</a>によるJSON Feedを使って表示させています。
+これをDOMで出力しているところを、代わりにJemplateを使ってみるテスト。
+
+delicious.tt (テンプレート)
+<pre>
+&lt;ul&gt;
+[% FOR item = list %]
+&lt;li&gt;&lt;a target="_blank" href="[% item.u %]"[% IF item.n %] title="[% item.n %][%
+END %]"&gt;[% item.d %]&lt;/a&gt;
+[% END %]
+&lt;/ul&gt;
+</pre>
+
+…これを jemplate コマンドを使って、js/delicious.js にコンパイルしたものをHTMLに読ませます。
+
+delicious.html (実際に表示させるHTML)
+<pre>
+&lt;html&gt;
+&lt;head&gt;
+&lt;script type="text/javascript" src="js/Jemplate.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="js/delicious.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://del.icio.us/feeds/json/masawo?count=2
+0"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id="output"&gt;&lt;/div&gt;
+&lt;script type="text/javascript"&gt;
+var obj = { 'list' : Delicious.posts };
+var elem = document.getElementById('output');
+elem.innerHTML = Jemplate.process('delicious.tt', obj);
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+おお、ちゃんとブックマーク一覧が表示されました。すばらC。
+
+<a href="http://wo.skr.jp/test/jemplate/delicious.html">サンプルはこちら。</a>
+
+JSONを提供しているサイトであれば、いろいろ応用が利きそうですね。Yahoo!inc. のとか。
+
+<a href="http://www.drk7.jp/MT/archives/001011.html" title="XML を JSON に変換するサービス - ベータ版を公開 :: Drk7jp">XML を JSON に変換するサービス</a> などの力を借りればXMLを提供しているサイトでもOKですね。
+
+【つまずいた点】
+
+テンプレートに [% FOR item = list %] と書いたうえで、呼び出しHTML側で当初
+
+var obj = Delicious.posts;
+
+とやってみたが、オブジェクトがないYOというエラーになってしまった。
+
+del.icio.us のJSON Feed だと、
+<pre>
+Delicious.posts = [{"u":"…", "d":"…", "t":"…"}, {"u":"…", "d":"…", "t":"…"}, …]
+</pre>
+のように一番上の要素のkeyに何も指定がない形式なので、テンプレートに指定した通りに読ませるには
+
+var obj = { 'list' : Delicious.posts };
+
+のようにしなければならないのだった。ここで小一時間ハマりましたとさ。orz

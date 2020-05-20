@@ -1,0 +1,22 @@
+---
+layout: post
+title: 「全国一斉日本語テスト」を受けてみた
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta: {}
+---
+<a title="ATOK &amp; 一太郎 presents 第二回全国一斉！日本語テスト" href="http://www.atok.com/test/">ATOK &amp; 一太郎 presents 第二回全国一斉！日本語テスト</a>
+
+今日から始まったようなので、やってみました。
+
+<!--more-->
+結果は65点で「ふつうです」でした。
+
+<a href="http://atok.net/allscore.php">総合平均点</a>も今のところそのぐらいなので、まあ平民ですな。
+
+レーダーチャートによると、語彙力とマナーがダメみたい...。
+
+<img src="http://wo.skr.jp/images/uploads/070110_2-thumb.JPG" width="299" height="160" alt="" />

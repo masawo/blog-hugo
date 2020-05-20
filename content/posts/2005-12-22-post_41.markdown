@@ -1,0 +1,32 @@
+---
+layout: post
+title: 新しい眼鏡
+tags:
+- 日々
+status: publish
+type: post
+published: true
+meta:
+  has_been_twittered: failed
+  twitter_failure_code: '400'
+  twitter_failure_reason: Settings do not permit the auto-tweeting of old posts
+---
+5,6年ぐらい同じ眼鏡をしているので、今度は少しクオリティ高めなものをと思い前からリサーチしていた。
+
+結果、<a href="http://www.fournines.co.jp/">999.9</a>の眼鏡にしてみることに。
+
+先週頭に銀座のお店に行き注文して、16日にできた。
+
+これまでは縁無しの眼鏡だったので、今度はあるものにした。
+
+Four Nines S-48T
+
+カラーは4254。約60k円。
+
+以来、家以外ではこの新しい眼鏡をしている。
+
+フレームが金属からプラスチックになったので、つけてる感覚が少し違う感じ。
+
+今のところ、職場などでは特に「眼鏡変わったね」とかは言われていない。(気づいても言わないだけかな)
+
+買ってみて、ちょっと普通っぽすぎたかなとも思ったりするけど、まあ良しとする。

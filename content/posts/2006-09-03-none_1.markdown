@@ -1,0 +1,16 @@
+---
+layout: post
+title: None
+tags:
+- 携帯から
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div class="caption">等々力</div>
+<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1157285111.9-0.jpg" /></div>
+追記：
+昨日に等々力競技場から撮ったものです。
+W42CAで撮ったんですが、なんかイマイチですね…手振れとかしてたからかな。
+メインのデジカメも持って行ったので、そちらの写真はいつかどこかで。
