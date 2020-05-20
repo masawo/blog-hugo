@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-09T03:00:00+09:00
 title: 情報収集のための11の質問
+slug: 11
 tags:
 - 日々
 status: publish

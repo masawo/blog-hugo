@@ -1,12 +1,12 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
 title = "Hugo Hermit"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
@@ -72,3 +72,12 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "About"
     url = "/about-hugo/"
     weight = 20
+
+# keep URL from octopress
+[permalinks]
+  posts = "/blog/:year/:month/:day/:slug"
+
+# lots of inline HTML in Markdown files
+# https://github.com/gohugoio/hugo/releases/tag/v0.60.0
+[markup.goldmark.renderer]
+  unsafe = true

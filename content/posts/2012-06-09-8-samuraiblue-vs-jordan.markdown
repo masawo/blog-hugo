@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-06-09T03:00:00+09:00
 title: 6/8 代表戦を観戦：日本×ヨルダン
+slug: 8-samuraiblue-vs-jordan
 tags:
 - サッカー観戦
 status: publish

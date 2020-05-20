@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-05-23T03:00:00+09:00
 title: Facebook関連ウィジェットを出さなくする「Facebook Disconnect」
+slug: facebook-disconnect-chrome
 tags:
 - チラシの裏
 status: publish

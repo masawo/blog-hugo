@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-09-07T03:00:00+09:00
 title: 本「さあ、才能に目覚めよう」
+slug: post_109
 tags:
 - 未分類
 status: publish

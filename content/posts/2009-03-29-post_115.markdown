@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-29T03:00:00+09:00
 title: 日本×バーレーン
+slug: post_115
 tags:
 - 未分類
 status: publish

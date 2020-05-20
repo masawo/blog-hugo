@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-24T03:00:00+09:00
 title: Joga
+slug: joga
 tags:
 - チラシの裏
 status: publish

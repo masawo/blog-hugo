@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-18T03:00:00+09:00
 title: 『逃亡者・木島丈一郎』を見た
+slug: post_40
 tags:
 - 日々
 status: publish

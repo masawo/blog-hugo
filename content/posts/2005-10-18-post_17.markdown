@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-18T03:00:00+09:00
 title: 今日の脳内反省
+slug: post_17
 tags:
 - チラシの裏
 status: draft

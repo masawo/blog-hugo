@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-06-19T03:00:00+09:00
 title: wordpressへの移行done
+slug: wordpress-migration-done
 tags:
 - 日々
 status: publish

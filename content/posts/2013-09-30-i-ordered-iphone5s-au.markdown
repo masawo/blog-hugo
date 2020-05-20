@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-09-30T03:00:00+09:00
 title: "iPhone5S(au)を予約した"
-date: 2013-09-30 22:10
+slug: i-ordered-iphone5s-au
+date: 2013-09-30T22:10:00+09:00
 comments: true
 categories: 
 ---

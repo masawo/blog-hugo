@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-08-11T03:00:00+09:00
 title: "自宅サーバがread-onlyになってた&修復"
-date: 2013-08-11 21:19
+slug: ubuntu-server-hdd-read-only
+date: 2013-08-11T21:19:00+09:00
 comments: true
 categories: 
 ---

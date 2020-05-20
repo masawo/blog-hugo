@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-11-03T03:00:00+09:00
 title: Galaxy Tab 8.9が届いた
+slug: galaxy-tab-8-9%e3%81%8c%e5%b1%8a%e3%81%84%e3%81%9f
 tags:
 - 購買意欲
 status: publish

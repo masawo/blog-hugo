@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-27T03:00:00+09:00
 title: 金ちゃんヌードル
+slug: post_44
 tags:
 - 携帯から
 status: publish

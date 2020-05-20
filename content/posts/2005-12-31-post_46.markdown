@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-31T03:00:00+09:00
 title: 大晦日
+slug: post_46
 tags:
 - 携帯から
 status: publish

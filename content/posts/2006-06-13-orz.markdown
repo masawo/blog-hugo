@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-06-13T03:00:00+09:00
 title: orz
+slug: orz
 tags:
 - チラシの裏
 status: draft

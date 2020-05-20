@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-17T03:00:00+09:00
 title: さくらのレンタルサーバでのPHPと magic_quotes_gpc
+slug: php_magic_quotes_gpc_1
 tags:
 - 日々
 status: draft

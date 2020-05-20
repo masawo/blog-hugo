@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-27T03:00:00+09:00
 title: モニタを17インチから24インチ(G2411HD)にした
+slug: 1724g2411hd
 tags:
 - 未分類
 status: publish

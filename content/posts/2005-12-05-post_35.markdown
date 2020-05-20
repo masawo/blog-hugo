@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-05T03:00:00+09:00
 title: 東京どこ系？
+slug: post_35
 tags:
 - チラシの裏
 status: publish

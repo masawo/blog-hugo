@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-11-03T03:00:00+09:00
 title: 週末に買った本
+slug: post_120
 tags:
 - チラシの裏
 status: publish

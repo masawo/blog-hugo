@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-11T03:00:00+09:00
 title: JR男(?)
+slug: post_16
 tags:
 - 日々
 status: publish

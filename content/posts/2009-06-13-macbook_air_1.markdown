@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-13T03:00:00+09:00
 title: 新MacBook Airを手持ちのと比較
+slug: macbook_air_1
 tags:
 - 未分類
 status: publish

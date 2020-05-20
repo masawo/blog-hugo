@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-08-12T03:00:00+09:00
 title: いろいろ080812
+slug: post_107
 tags:
 - 未分類
 status: publish

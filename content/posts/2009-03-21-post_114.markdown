@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-21T03:00:00+09:00
 title: モヤモヤさまぁ〜ず2
+slug: post_114
 tags:
 - チラシの裏
 status: publish

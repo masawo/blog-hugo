@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-07-23T03:00:00+09:00
 title: eeeubuntuを入れてみた
+slug: eeeubuntu
 tags:
 - チラシの裏
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-12T03:00:00+09:00
 title: 結婚式で聴いた、聞き覚えのある歌
+slug: post_57
 tags:
 - 日々
 status: publish

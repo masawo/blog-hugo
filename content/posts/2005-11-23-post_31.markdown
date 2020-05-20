@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-23T03:00:00+09:00
 title: さか
+slug: post_31
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-04-27T03:00:00+09:00
 title: HUB買い替え
+slug: hub
 tags:
 - 購買意欲
 status: publish

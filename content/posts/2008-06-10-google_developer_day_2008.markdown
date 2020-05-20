@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-06-10T03:00:00+09:00
 title: Google Developer Day 2008
+slug: google_developer_day_2008
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-01T03:00:00+09:00
 title: 駒場
+slug: post_13
 tags:
 - 携帯から
 status: publish

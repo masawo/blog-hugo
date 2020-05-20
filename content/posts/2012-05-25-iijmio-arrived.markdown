@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-05-25T03:00:00+09:00
 title: IIJmioが届いたので、動かした
+slug: iijmio-arrived
 tags:
 - チラシの裏
 status: publish

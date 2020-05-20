@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-03T03:00:00+09:00
 title: 大宮
+slug: post_26
 tags:
 - 携帯から
 status: publish

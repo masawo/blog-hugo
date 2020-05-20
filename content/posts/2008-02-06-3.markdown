@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-02-06T03:00:00+09:00
 title: 3次予選開始
+slug: 3
 tags:
 - 携帯から
 status: publish

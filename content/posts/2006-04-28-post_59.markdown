@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-04-28T03:00:00+09:00
 title: う
+slug: post_59
 tags:
 - 日々
 status: draft

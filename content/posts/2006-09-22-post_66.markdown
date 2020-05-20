@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-09-22T03:00:00+09:00
 title: カイハツチュウ
+slug: post_66
 tags:
 - チラシの裏
 status: draft

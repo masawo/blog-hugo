@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-05-30T03:00:00+09:00
 title: さくらインターネットで vim7, Subversion, Trac
+slug: _vim7_subversion_trac
 tags:
 - 開発系
 status: publish

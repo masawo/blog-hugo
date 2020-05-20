@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-02T03:00:00+09:00
 title: ネットユーザーは基本的にわがまま
+slug: post_25
 tags:
 - チラシの裏
 status: draft

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-07-27T03:00:00+09:00
 title: 24日の買い物
+slug: 24
 tags:
 - 日々
 status: publish

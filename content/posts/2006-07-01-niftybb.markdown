@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-07-01T03:00:00+09:00
 title: niftyBBフェスタ
+slug: niftybb
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-05-30T03:00:00+09:00
 title: torneを買った＆PS3HDD換装
+slug: torneps3hdd
 tags:
 - 購買意欲
 status: publish

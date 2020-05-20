@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-05-31T03:00:00+09:00
 title: Mozilla Party 9.0
+slug: mozilla_party_90
 tags:
 - 携帯から
 status: publish

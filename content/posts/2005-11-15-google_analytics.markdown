@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-15T03:00:00+09:00
 title: Google Analytics
+slug: google_analytics
 tags:
 - 日々
 status: publish

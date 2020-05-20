@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-05-04T03:00:00+09:00
 title: Imager のインストール@ubuntu
+slug: imager_ubuntu
 tags:
 - 開発系
 status: draft

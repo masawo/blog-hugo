@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-18T03:00:00+09:00
 title: iPhone OS 3.0 with Bluetooth
+slug: iphone-os-30-with-bluetooth
 tags:
 - 未分類
 status: publish

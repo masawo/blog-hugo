@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-06-30T03:00:00+09:00
 title: Movable Type 3.3
+slug: movable_type_33
 tags:
 - 日々
 status: publish

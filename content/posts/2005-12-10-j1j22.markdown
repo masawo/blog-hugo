@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-10T03:00:00+09:00
 title: J1・J2入れ替え戦第2戦
+slug: j1j22
 tags:
 - 日々
 status: publish

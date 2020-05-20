@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-07-08T03:00:00+09:00
 title: サッカー検定(5級)を受けてみた
+slug: soccer-kentei-5
 tags:
 - サッカー
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-08-04T03:00:00+09:00
 title: 粗品
+slug: post_1
 tags:
 - 携帯から
 status: publish

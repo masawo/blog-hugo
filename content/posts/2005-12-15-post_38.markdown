@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-15T03:00:00+09:00
 title: 書籍「アルファブロガー」
+slug: post_38
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-04-26T03:00:00+09:00
 title: Delicious Bookmarks 2.1.034の罠
+slug: delicious_bookmarks_21034
 tags:
 - 未分類
 status: publish

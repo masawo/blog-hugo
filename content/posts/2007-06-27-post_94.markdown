@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-06-27T03:00:00+09:00
 title: 音楽葬
+slug: post_94
 tags:
 - 携帯から
 status: publish

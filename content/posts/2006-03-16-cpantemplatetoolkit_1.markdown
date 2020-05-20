@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-16T03:00:00+09:00
 title: 自分のホームディレクトリ内にPerlモジュールをインストール(Template-ToolKit編)
+slug: cpantemplatetoolkit_1
 tags:
 - 日々
 status: draft

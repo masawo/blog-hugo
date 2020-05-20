@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-08-07T03:00:00+09:00
 title: ゲームセンターCXが一気に放送されてた
+slug: cx
 tags:
 - 日々
 status: publish

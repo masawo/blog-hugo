@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-05T03:00:00+09:00
 title: Firefox 1.5の定番拡張(extension)リンク集
+slug: firefox_15extension
 tags:
 - 日々
 status: publish

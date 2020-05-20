@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-10-13T03:00:00+09:00
 title: ドコモダケアート展
+slug: post_111
 tags:
 - 携帯から
 status: publish

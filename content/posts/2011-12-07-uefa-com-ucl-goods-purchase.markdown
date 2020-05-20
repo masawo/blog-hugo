@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-12-07T03:00:00+09:00
 title: uefa.com でCLグッズを買ってみた
+slug: uefa-com-ucl-goods-purchase
 tags:
 - 購買意欲
 status: publish

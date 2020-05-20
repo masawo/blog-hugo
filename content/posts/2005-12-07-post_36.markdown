@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-07T03:00:00+09:00
 title: 年末の個人的注目ゲーム
+slug: post_36
 tags:
 - 購買意欲
 status: publish

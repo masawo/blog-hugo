@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-14T03:00:00+09:00
 title: Firefoxテーマ「iFox」
+slug: firefoxifox
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-07T03:00:00+09:00
 title: Jemplateを試してみた
+slug: jemplate_1
 tags:
 - 日々
 status: publish

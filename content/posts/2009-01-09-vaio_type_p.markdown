@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-09T03:00:00+09:00
 title: VAIO type P
+slug: vaio_type_p
 tags:
 - 未分類
 status: publish

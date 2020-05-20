@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-28T03:00:00+09:00
 title: トラックバック対策
+slug: post_12
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-04-19T03:00:00+09:00
 title: FC東京×千葉＠国立
+slug: fc
 tags:
 - 未分類
 status: publish

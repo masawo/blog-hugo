@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-04-05T03:00:00+09:00
 title: ガラケー新規購入done
+slug: done
 tags:
 - 購買意欲
 status: publish

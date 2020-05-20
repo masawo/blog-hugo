@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-05-18T03:00:00+09:00
 title: アバウトミーに登録してみた
+slug: post_89
 tags:
 - 日々
 status: publish

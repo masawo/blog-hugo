@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-01-16T03:00:00+09:00
 title: MacBook Air 発表
+slug: macbook-air
 tags:
 - チラシの裏
 status: publish

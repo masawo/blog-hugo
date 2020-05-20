@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-02T03:00:00+09:00
 title: 　EnhancedEntryEditingプラグイン
+slug: enhancedentryediting
 tags:
 - 日々
 status: publish

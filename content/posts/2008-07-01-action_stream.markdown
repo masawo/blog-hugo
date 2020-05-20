@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-07-01T03:00:00+09:00
 title: Action Stream をはじめてみた
+slug: action_stream
 tags:
 - 日々
 status: publish

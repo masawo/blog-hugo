@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2014-05-17T03:00:00+09:00
 title: "deliciousからpinboardに完全移籍"
-date: 2014-05-17 02:40
+slug: from-delicious-to-pinboard
+date: 2014-05-17T02:40:00+09:00
 comments: true
 categories: 
 ---

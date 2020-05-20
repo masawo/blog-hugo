@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-05T03:00:00+09:00
 title: 大宮×千葉
+slug: post_54
 tags:
 - 携帯から
 status: publish

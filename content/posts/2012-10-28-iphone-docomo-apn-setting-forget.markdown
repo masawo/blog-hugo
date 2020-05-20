@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-10-28T03:00:00+09:00
 title: '[iPhone]APNの設定が揮発してて困った1日'
+slug: iphone-docomo-apn-setting-forget
 tags:
 - チラシの裏
 status: publish

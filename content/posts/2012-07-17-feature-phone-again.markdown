@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-07-17T03:00:00+09:00
 title: ガラケー復活。計画完了
+slug: feature-phone-again
 tags:
 - チラシの裏
 - 未分類

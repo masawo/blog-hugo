@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-06T03:00:00+09:00
 title: 大宮公式サイトがリニューアルされてた(野良RSS終了)
+slug: rss_4
 tags:
 - RSS Feed
 status: publish

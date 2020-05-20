@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-04T03:00:00+09:00
 title: ばなな
+slug: post_15
 tags:
 - 日々
 status: publish

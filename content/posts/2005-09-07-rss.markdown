@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-07T03:00:00+09:00
 title: RSSフィード再開
+slug: rss
 tags:
 - RSS Feed
 status: publish

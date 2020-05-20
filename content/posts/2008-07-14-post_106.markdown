@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-07-14T03:00:00+09:00
 title: 自宅サーバのリプレース
+slug: post_106
 tags:
 - 未分類
 status: publish

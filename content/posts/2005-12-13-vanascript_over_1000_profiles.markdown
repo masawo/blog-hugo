@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-13T03:00:00+09:00
 title: 'vanascript: over 1000 profiles'
+slug: vanascript_over_1000_profiles
 tags:
 - MyApp
 status: publish

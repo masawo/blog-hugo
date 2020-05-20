@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-31T03:00:00+09:00
 title: Eye-Fi Share
+slug: eye-fi_share
 tags:
 - 購買意欲
 status: publish

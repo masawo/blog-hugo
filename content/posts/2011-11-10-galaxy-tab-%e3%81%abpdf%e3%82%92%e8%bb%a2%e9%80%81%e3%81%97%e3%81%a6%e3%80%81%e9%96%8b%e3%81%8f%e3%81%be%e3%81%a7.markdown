@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-11-10T03:00:00+09:00
 title: Galaxy Tab にPDFを転送して、開くまで
+slug: galaxy-tab-%e3%81%abpdf%e3%82%92%e8%bb%a2%e9%80%81%e3%81%97%e3%81%a6%e3%80%81%e9%96%8b%e3%81%8f%e3%81%be%e3%81%a7
 tags:
 - Android
 - Galaxy Tab

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-17T03:00:00+09:00
 title: Japan Blogger Conferenceに参加
+slug: japan_blogger_conference
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-05-12T03:00:00+09:00
 title: やっぱりMNPしてAndroid端末をget
+slug: mnp-motorola-photon-get
 tags:
 - 購買意欲
 status: publish

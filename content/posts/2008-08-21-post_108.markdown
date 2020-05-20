@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-08-21T03:00:00+09:00
 title: 今日のダーリンの件
+slug: post_108
 tags:
 - 未分類
 status: publish

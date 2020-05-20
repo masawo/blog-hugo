@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-08-18T03:00:00+09:00
 title: 秘伝オムライス
+slug: post_65
 tags:
 - 携帯から
 status: publish

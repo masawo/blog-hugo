@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-08-27T03:00:00+09:00
 title: 容疑者 室井慎次を検閲
+slug: post_5
 tags:
 - 携帯から
 status: publish

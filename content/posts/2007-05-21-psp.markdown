@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-05-21T03:00:00+09:00
 title: PSP故障?
+slug: psp
 tags:
 - 携帯から
 status: publish

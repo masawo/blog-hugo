@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-10-06T03:00:00+09:00
 title: 新潟
+slug: post_98
 tags:
 - 携帯から
 status: publish

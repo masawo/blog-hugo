@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-06-19T03:00:00+09:00
 title: prettifier のテスト
+slug: prettifier
 tags:
 - 未分類
 status: draft

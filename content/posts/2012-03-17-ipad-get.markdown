@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-03-17T03:00:00+09:00
 title: iPadを買った
+slug: ipad-get
 tags:
 - 購買意欲
 status: publish

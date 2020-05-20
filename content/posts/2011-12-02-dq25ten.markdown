@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-12-02T03:00:00+09:00
 title: ドラゴンクエスト展に行ってきた
+slug: dq25ten
 tags:
 - チラシの裏
 status: publish

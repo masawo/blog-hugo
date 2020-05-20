@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-11-18T03:00:00+09:00
 title: (´・ω・｀)
+slug: post_73
 tags:
 - 携帯から
 status: publish

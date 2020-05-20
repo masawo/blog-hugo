@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-05-02T03:00:00+09:00
 title: ガラケー解約予定
+slug: feature-phone-will-leave
 tags:
 - チラシの裏
 status: publish

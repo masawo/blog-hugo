@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-10T03:00:00+09:00
 title: レターオープナー付きコンパクトシュレッダー
+slug: post-27
 tags:
 - 購買意欲
 status: publish

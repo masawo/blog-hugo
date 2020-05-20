@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-06-12T03:00:00+09:00
 title: Google Maps のマイマップの作り方
+slug: google-maps
 tags:
 - 未分類
 status: publish

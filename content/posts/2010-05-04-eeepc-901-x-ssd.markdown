@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-05-04T03:00:00+09:00
 title: EeePC 901-X SSD交換
+slug: eeepc-901-x-ssd
 tags:
 - 購買意欲
 status: publish

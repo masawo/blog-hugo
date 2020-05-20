@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-11-05T03:00:00+09:00
 title: 武士道
+slug: post_68
 tags:
 - 携帯から
 status: publish

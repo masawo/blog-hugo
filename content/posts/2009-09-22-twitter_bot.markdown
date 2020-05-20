@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-09-22T03:00:00+09:00
 title: ねんがんのtwitter botができた
+slug: twitter_bot
 tags:
 - 未分類
 status: publish

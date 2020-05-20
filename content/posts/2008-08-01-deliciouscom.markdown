@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-08-01T03:00:00+09:00
 title: delicious.com
+slug: deliciouscom
 tags:
 - チラシの裏
 status: publish

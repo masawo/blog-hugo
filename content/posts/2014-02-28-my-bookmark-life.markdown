@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2014-02-28T03:00:00+09:00
 title: "自分のブックマークライフについて"
-date: 2014-02-28 22:31
+slug: my-bookmark-life
+date: 2014-02-28T22:31:00+09:00
 comments: true
 categories: 
 ---

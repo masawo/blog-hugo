@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-01-05T03:00:00+09:00
 title: 空席照会。
+slug: post_80
 tags:
 - チラシの裏
 status: draft

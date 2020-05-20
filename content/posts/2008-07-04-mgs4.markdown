@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-07-04T03:00:00+09:00
 title: MGS4発売記念イベント
+slug: mgs4
 tags:
 - 未分類
 status: publish

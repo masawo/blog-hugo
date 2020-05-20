@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-08-15T03:00:00+09:00
 title: MacBook Air 2011買い替え検討
+slug: macbook-air-2011
 tags:
 - 購買意欲
 status: publish

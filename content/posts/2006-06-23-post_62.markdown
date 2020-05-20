@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-06-23T03:00:00+09:00
 title: うーん
+slug: post_62
 tags:
 - 携帯から
 status: publish

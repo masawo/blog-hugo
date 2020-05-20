@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-08-01T03:00:00+09:00
 title: PSP2.00
+slug: psp200
 tags:
 - 携帯から
 status: publish

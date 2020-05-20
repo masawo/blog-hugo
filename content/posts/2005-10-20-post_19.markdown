@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-20T03:00:00+09:00
 title: エージャックス？アヤックス？
+slug: post_19
 tags:
 - チラシの裏
 status: publish

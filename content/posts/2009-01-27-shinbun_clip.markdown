@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-27T03:00:00+09:00
 title: SHINBUN CLIP
+slug: shinbun_clip
 tags:
 - 未分類
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-05-27T03:00:00+09:00
 title: moblog on MovableType 4.1
+slug: post_101
 tags:
 - 携帯から
 status: publish

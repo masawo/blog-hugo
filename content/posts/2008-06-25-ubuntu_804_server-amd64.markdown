@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-06-25T03:00:00+09:00
 title: Ubuntu 8.04 server-amd64 のインストール
+slug: ubuntu_804_server-amd64
 tags:
 - 未分類
 status: publish

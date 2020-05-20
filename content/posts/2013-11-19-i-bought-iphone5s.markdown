@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-11-19T03:00:00+09:00
 title: "iPhone4s→iPhone5S こうかは ばつぐんだ!"
-date: 2013-11-19 22:55
+slug: i-bought-iphone5s
+date: 2013-11-19T22:55:00+09:00
 comments: true
 categories: 
 ---

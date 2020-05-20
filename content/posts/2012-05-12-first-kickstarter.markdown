@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-05-12T03:00:00+09:00
 title: 初・KickStarterでの出資
+slug: first-kickstarter
 tags:
 - 購買意欲
 status: publish

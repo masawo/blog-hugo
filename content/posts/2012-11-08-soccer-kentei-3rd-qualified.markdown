@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-11-08T03:00:00+09:00
 title: サッカー検定 3級に合格してた
+slug: soccer-kentei-3rd-qualified
 tags:
 - サッカー
 - 未分類

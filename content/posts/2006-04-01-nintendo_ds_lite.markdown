@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-04-01T03:00:00+09:00
 title: Nintendo DS Lite
+slug: nintendo_ds_lite
 tags:
 - 携帯から
 status: publish

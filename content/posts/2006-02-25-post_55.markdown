@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-02-25T03:00:00+09:00
 title: 五輪のフィギュアスケートを見て、フィリップ・キャンデロロを思い出した
+slug: post_55
 tags:
 - チラシの裏
 status: publish

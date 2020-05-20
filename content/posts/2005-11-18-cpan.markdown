@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-18T03:00:00+09:00
 title: CPANで自分のホームディレクトリ内にモジュールをインストール
+slug: cpan
 tags:
 - 日々
 status: publish

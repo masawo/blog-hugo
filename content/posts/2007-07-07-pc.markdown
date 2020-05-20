@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-07-07T03:00:00+09:00
 title: 自宅PC起動障害
+slug: pc
 tags:
 - 携帯から
 status: publish

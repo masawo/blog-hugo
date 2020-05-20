@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-02T03:00:00+09:00
 title: Screen grab! on Firefox 1.5
+slug: screen_grab_on_firefox_15_1
 tags:
 - 日々
 status: publish

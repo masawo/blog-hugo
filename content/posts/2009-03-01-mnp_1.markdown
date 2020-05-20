@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-01T03:00:00+09:00
 title: MNP完了
+slug: mnp_1
 tags:
 - 購買意欲
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-03-25T03:00:00+09:00
 title: コメントができないらしいので設定変更
+slug: post_123
 tags:
 - 未分類
 status: publish

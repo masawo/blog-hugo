@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-29T03:00:00+09:00
 title: YAPC::Asia 2006 Tokyo に行きます
+slug: yapcasia_2006_tokyo
 tags:
 - 日々
 status: publish

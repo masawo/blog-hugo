@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-25T03:00:00+09:00
 title: 有明
+slug: post_11
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-05-01T03:00:00+09:00
 title: 家入さんの本
+slug: post_88
 tags:
 - 日々
 status: publish

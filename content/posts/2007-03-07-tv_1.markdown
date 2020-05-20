@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-03-07T03:00:00+09:00
 title: TV届いた
+slug: tv_1
 tags:
 - 携帯から
 status: publish

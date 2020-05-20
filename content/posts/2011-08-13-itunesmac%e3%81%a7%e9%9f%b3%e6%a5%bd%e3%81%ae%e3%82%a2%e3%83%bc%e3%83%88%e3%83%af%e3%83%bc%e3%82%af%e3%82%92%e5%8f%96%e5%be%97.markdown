@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-08-13T03:00:00+09:00
 title: iTunes(Mac)で音楽のアートワークを取得
+slug: itunesmac%e3%81%a7%e9%9f%b3%e6%a5%bd%e3%81%ae%e3%82%a2%e3%83%bc%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%82%92%e5%8f%96%e5%be%97
 tags:
 - チラシの裏
 status: publish

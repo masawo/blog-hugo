@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-20T03:00:00+09:00
 title: カメラケース購入(BUILT NY)
+slug: built-ny
 tags:
 - 未分類
 status: publish

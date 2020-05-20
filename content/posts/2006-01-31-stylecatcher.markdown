@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-01-31T03:00:00+09:00
 title: StyleCatcher でデザイン変更
+slug: stylecatcher
 tags:
 - 日々
 status: publish

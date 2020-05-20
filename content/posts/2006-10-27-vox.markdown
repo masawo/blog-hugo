@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-10-27T03:00:00+09:00
 title: VOXに入った
+slug: vox
 tags:
 - 日々
 status: publish

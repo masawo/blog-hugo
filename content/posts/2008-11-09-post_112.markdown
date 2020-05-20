@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-11-09T03:00:00+09:00
 title: ブックファースト新宿店
+slug: post_112
 tags:
 - 携帯から
 status: publish

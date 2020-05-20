@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-06-04T03:00:00+09:00
 title: wordpressに移行中
+slug: wordpress
 tags:
 - チラシの裏
 status: publish

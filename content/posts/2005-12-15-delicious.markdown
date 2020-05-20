@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-15T03:00:00+09:00
 title: del.icio.us がメンテ中
+slug: delicious
 tags:
 - 日々
 status: publish

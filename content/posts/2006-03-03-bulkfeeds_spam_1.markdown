@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-03T03:00:00+09:00
 title: Bulkfeeds のSPAMブラックリストを利用
+slug: bulkfeeds_spam_1
 tags:
 - 日々
 status: draft

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-17T03:00:00+09:00
 title: 忘年会議2005に参加
+slug: 2005_1
 tags:
 - 携帯から
 status: publish

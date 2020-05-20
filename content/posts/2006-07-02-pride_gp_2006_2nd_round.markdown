@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-07-02T03:00:00+09:00
 title: PRIDE GP 2006 2nd Round
+slug: pride_gp_2006_2nd_round
 tags:
 - チラシの裏
 status: publish

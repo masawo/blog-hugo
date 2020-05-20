@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-29T03:00:00+09:00
 title: 今年最後のさか
+slug: post_45
 tags:
 - 携帯から
 status: publish

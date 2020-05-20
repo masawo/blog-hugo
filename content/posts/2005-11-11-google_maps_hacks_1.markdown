@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-11T03:00:00+09:00
 title: Google Maps Hacks
+slug: google_maps_hacks_1
 tags:
 - 購買意欲
 status: publish

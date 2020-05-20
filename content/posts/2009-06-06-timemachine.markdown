@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-06T03:00:00+09:00
 title: TimeMachineのバックアップ移動
+slug: timemachine
 tags:
 - 未分類
 status: publish

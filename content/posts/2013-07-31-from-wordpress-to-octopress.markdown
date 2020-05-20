@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-07-31T03:00:00+09:00
 title: "WordpressからOctopressに移行"
-date: 2013-07-31 22:03
+slug: from-wordpress-to-octopress
+date: 2013-07-31T22:03:00+09:00
 comments: true
 categories: wordpress, octopress
 ---

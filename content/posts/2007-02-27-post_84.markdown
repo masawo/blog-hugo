@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-02-27T03:00:00+09:00
 title: 都内の集合住宅が検索できる「ユーサーチ」
+slug: post_84
 tags:
 - チラシの裏
 status: publish

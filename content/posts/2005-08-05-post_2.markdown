@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-08-05T03:00:00+09:00
 title: 熱中症予防情報
+slug: post_2
 tags:
 - 日々
 status: publish

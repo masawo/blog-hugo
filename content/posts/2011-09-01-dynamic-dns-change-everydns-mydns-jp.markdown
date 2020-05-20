@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-09-01T03:00:00+09:00
 title: 自宅サーバのダイナミックDNSを変更 everydns->mydns.jp
+slug: dynamic-dns-change-everydns-mydns-jp
 tags:
 - サーバー
 status: publish

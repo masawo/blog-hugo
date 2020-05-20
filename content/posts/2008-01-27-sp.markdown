@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-01-27T03:00:00+09:00
 title: 「SP」最終回
+slug: sp
 tags:
 - チラシの裏
 status: publish

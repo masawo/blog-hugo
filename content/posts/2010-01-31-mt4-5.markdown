@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-01-31T03:00:00+09:00
 title: MT4->5
+slug: mt4-5
 tags:
 - 未分類
 status: publish

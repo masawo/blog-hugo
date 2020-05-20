@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-09-24T03:00:00+09:00
 title: ねんがんのSIMフリーiPhone4Sをてにいれた
+slug: sim-free-iphone4s
 tags:
 - 購買意欲
 status: publish

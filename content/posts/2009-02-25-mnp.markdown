@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-02-25T03:00:00+09:00
 title: MNP準備
+slug: mnp
 tags:
 - チラシの裏
 - 購買意欲

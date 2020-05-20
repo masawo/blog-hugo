@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-12-30T03:00:00+09:00
 title: 自宅PCの不調を検証
+slug: pc_3
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-07-19T03:00:00+09:00
 title: Coke + iTunes
+slug: coke_itunes
 tags:
 - チラシの裏
 status: publish

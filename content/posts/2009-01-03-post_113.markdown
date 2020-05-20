@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-03T03:00:00+09:00
 title: あけましておめでとうございました
+slug: post_113
 tags:
 - 購買意欲
 status: publish

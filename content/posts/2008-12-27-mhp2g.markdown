@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-12-27T03:00:00+09:00
 title: MHP2G勲章コンプ
+slug: mhp2g
 tags:
 - 未分類
 status: publish

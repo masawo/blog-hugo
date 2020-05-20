@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-21T03:00:00+09:00
 title: MT3.2 Release-2 へアップデート
+slug: mt32_release2
 tags:
 - 日々
 status: publish

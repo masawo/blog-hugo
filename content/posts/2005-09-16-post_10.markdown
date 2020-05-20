@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-16T03:00:00+09:00
 title: 秋葉原
+slug: post_10
 tags:
 - 携帯から
 status: publish

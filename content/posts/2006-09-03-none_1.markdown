@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-09-03T03:00:00+09:00
 title: None
+slug: none_1
 tags:
 - 携帯から
 status: publish

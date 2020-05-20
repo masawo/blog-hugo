@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-03T03:00:00+09:00
 title: Yahoo! 360°に入れてもらった
+slug: yahoo_360
 tags:
 - 日々
 status: publish

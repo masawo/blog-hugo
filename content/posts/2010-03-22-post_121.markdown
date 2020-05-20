@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-03-22T03:00:00+09:00
 title: 重い腰を上げて...
+slug: post_121
 tags:
 - サーバー
 - 開発系

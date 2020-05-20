@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-04-19T03:00:00+09:00
 title: iMac 3Gを分解
+slug: imac_3g
 tags:
 - 未分類
 status: publish

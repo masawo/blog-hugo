@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-12-27T03:00:00+09:00
 title: iijmioのnanoSIMをiPhone4Sに挿した
+slug: iijmio-nanosim-iphone4s
 tags:
 - 購買意欲
 status: publish

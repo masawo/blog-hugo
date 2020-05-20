@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-09T03:00:00+09:00
 title: METAL GEAR AC!D 2 開始
+slug: metal_gear_acid_2_1
 tags:
 - ゲーム
 status: publish

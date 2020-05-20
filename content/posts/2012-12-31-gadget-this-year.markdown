@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-12-31T03:00:00+09:00
 title: 今年買ったガジェット
+slug: gadget-this-year
 tags:
 - 購買意欲
 status: publish

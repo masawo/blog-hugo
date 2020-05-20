@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-05-01T03:00:00+09:00
 title: Mighty Mouse
+slug: mighty_mouse
 tags:
 - 携帯から
 status: publish

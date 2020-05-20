@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-10T03:00:00+09:00
 title: type P 実機確認
+slug: type_p
 tags:
 - 未分類
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-02-04T03:00:00+09:00
 title: 国際フォーラム
+slug: post_52
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-03-24T03:00:00+09:00
 title: Folding@home on PS3
+slug: foldinghome_on_ps3
 tags:
 - 携帯から
 status: publish

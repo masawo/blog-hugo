@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-07-01T03:00:00+09:00
 title: GALAXY Note でテザリングを試した
+slug: galaxy-note-tether
 tags:
 - チラシの裏
 status: publish

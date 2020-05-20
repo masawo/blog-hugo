@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-16T03:00:00+09:00
 title: 成功曲線を描こう
+slug: post_119
 tags:
 - 未分類
 status: publish

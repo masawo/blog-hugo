@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-04-22T03:00:00+09:00
 title: 'カジュアルPerl #02に行ってきた'
+slug: perl-02
 tags:
 - 開発系
 status: publish

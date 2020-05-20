@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-11T03:00:00+09:00
 title: Jmailが大変なことに
+slug: jmail
 tags:
 - 日々
 status: publish

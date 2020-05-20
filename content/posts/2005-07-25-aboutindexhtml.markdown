@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-07-25T03:00:00+09:00
 title: about:wolog
+slug: aboutindexhtml
 tags:
 - 日々
 status: draft

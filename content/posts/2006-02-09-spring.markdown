@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-02-09T03:00:00+09:00
 title: ほぼ日手帳Spring
+slug: spring
 tags:
 - 携帯から
 status: publish

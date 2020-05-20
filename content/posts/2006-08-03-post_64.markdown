@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-08-03T03:00:00+09:00
 title: 横浜×セルティック
+slug: post_64
 tags:
 - 携帯から
 status: publish

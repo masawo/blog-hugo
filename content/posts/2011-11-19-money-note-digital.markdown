@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-11-19T03:00:00+09:00
 title: 家計簿をデジタル化した
+slug: money-note-digital
 tags:
 - チラシの裏
 - 未分類

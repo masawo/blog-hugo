@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-18T03:00:00+09:00
 title: コトノハのオオヒダさんがweb2.0について語る
+slug: web20
 tags:
 - 日々
 status: publish

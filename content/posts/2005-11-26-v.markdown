@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-26T03:00:00+09:00
 title: 柏×東京V
+slug: v
 tags:
 - 携帯から
 status: publish

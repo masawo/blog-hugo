@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-10-10T03:00:00+09:00
 title: "iPhone5Sに向けて,ケースやスタンド探し"
-date: 2013-10-10 22:37
+slug: iphone-5s-accessories
+date: 2013-10-10T22:37:00+09:00
 comments: true
 categories: 
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-05-21T03:00:00+09:00
 title: 船橋
+slug: post_60
 tags:
 - 携帯から
 status: publish

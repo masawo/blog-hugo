@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-29T03:00:00+09:00
 title: マックスコーヒー
+slug: post_24
 tags:
 - 携帯から
 status: publish

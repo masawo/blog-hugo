@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-10T03:00:00+09:00
 title: W杯組み合わせ抽選
+slug: w
 tags:
 - 携帯から
 status: publish

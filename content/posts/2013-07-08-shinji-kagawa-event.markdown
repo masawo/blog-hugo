@@ -1,7 +1,9 @@
 ---
 layout: post
+date: 2013-07-08T03:00:00+09:00
 title: 「香川真司のおもてなし」を受けてきた
-date: 2013-07-07 23:44
+slug: shinji-kagawa-event
+date: 2013-07-07T23:44:00+09:00
 comments: true
 categories: 
 ---

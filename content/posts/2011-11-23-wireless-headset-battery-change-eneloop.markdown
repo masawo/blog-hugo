@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2011-11-23T03:00:00+09:00
 title: ワイヤレスヘッドセットの電池をeneloopに交換した
+slug: wireless-headset-battery-change-eneloop
 tags:
 - チラシの裏
 - 未分類

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-25T03:00:00+09:00
 title: 最近買ったもの
+slug: post_43
 tags:
 - 携帯から
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-05-19T03:00:00+09:00
 title: PSP-2000のアナログスティック交換
+slug: psp-2000
 tags:
 - ゲーム
 status: publish

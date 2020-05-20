@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-05T03:00:00+09:00
 title: 豪雨
+slug: post_6
 tags:
 - 日々
 status: publish

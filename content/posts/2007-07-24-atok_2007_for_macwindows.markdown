@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-07-24T03:00:00+09:00
 title: ATOK 2007 for Mac+Windows
+slug: atok_2007_for_macwindows
 tags:
 - 購買意欲
 status: publish

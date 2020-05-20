@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2010-03-23T03:00:00+09:00
 title: ガラケー再購入計画
+slug: post_122
 tags:
 - チラシの裏
 - 購買意欲

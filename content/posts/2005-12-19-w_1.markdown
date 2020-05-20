@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-19T03:00:00+09:00
 title: W杯グッズ
+slug: w_1
 tags:
 - 携帯から
 status: publish

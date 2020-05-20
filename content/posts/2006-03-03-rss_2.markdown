@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-03-03T03:00:00+09:00
 title: 大宮アルディージャ公式サイトのRSSを作った
+slug: rss_2
 tags:
 - RSS Feed
 status: publish

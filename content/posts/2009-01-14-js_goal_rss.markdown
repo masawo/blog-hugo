@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-01-14T03:00:00+09:00
 title: J's GOAL がRSS配信されるようになってた
+slug: js_goal_rss
 tags:
 - 未分類
 status: publish

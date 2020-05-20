@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-04-12T03:00:00+09:00
 title: モニターアームをつけた
+slug: post_116
 tags:
 - 未分類
 status: publish

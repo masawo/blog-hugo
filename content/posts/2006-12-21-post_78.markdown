@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-12-21T03:00:00+09:00
 title: 年末に買ったゲーム
+slug: post_78
 tags:
 - 携帯から
 status: publish

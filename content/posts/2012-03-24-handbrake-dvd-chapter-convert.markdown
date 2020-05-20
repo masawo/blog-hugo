@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-03-24T03:00:00+09:00
 title: HandBrakeを使ってDVDをチャプターごとに動画変換する
+slug: handbrake-dvd-chapter-convert
 tags:
 - チラシの裏
 status: publish

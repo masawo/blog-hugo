@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-06-16T03:00:00+09:00
 title: 副都心線
+slug: post_104
 tags:
 - 携帯から
 status: publish

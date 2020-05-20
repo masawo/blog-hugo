@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-10-02T03:00:00+09:00
 title: 仁D映画
+slug: d_1
 tags:
 - 携帯から
 status: publish

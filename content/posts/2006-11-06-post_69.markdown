@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-11-06T03:00:00+09:00
 title: 注文。
+slug: post_69
 tags:
 - 購買意欲
 status: publish

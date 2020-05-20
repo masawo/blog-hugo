@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-03-12T03:00:00+09:00
 title: 関西ウォーカースナック
+slug: post_85
 tags:
 - 携帯から
 status: publish

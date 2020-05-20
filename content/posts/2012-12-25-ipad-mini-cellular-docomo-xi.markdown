@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-12-25T03:00:00+09:00
 title: iPad mini Cellular版を購入・docomo Xiで運用
+slug: ipad-mini-cellular-docomo-xi
 tags:
 - 購買意欲
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-20T03:00:00+09:00
 title: Spell with flickr
+slug: spell_with_flickr_1
 tags:
 - 日々
 status: publish

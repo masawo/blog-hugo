@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-22T03:00:00+09:00
 title: 新しい眼鏡
+slug: post_41
 tags:
 - 日々
 status: publish

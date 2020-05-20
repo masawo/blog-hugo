@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-01-10T03:00:00+09:00
 title: 「全国一斉日本語テスト」を受けてみた
+slug: post_82
 tags:
 - 日々
 status: publish

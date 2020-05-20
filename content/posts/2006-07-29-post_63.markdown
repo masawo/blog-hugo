@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-07-29T03:00:00+09:00
 title: テスト
+slug: post_63
 tags:
 - 携帯から
 status: publish

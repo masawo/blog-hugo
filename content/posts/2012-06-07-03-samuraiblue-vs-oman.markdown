@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-06-07T03:00:00+09:00
 title: 6/3 代表戦を観戦：日本×オマーン
+slug: 03-samuraiblue-vs-oman
 tags:
 - サッカー観戦
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-11-20T03:00:00+09:00
 title: Mac不調→回復
+slug: mac
 tags:
 - 日々
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-12-31T03:00:00+09:00
 title: 2009年振り返り
+slug: 2009
 tags:
 - 未分類
 status: publish

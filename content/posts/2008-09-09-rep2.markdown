@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-09-09T03:00:00+09:00
 title: 「rep2 機能拡張パック」が良い感じ
+slug: rep2
 tags:
 - 未分類
 status: publish

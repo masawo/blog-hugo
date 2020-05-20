@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-03-22T03:00:00+09:00
 title: デュアルディスプレイ
+slug: 2
 tags:
 - チラシの裏
 status: publish

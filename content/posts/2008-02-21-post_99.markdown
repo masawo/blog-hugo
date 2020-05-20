@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-02-21T03:00:00+09:00
 title: 日本×中国
+slug: post_99
 tags:
 - 日々
 status: publish

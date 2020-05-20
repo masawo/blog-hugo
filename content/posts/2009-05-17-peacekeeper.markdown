@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-05-17T03:00:00+09:00
 title: Peacekeeper
+slug: peacekeeper
 tags:
 - 未分類
 status: publish

@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-11-26T03:00:00+09:00
 title: 乗り越し
+slug: post_33
 tags:
 - 携帯から
 status: publish

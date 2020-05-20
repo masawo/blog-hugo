@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-03-18T03:00:00+09:00
 title: PASMOデビュー・Suica相互利用記念カード
+slug: pasmosuica
 tags:
 - 携帯から
 status: publish

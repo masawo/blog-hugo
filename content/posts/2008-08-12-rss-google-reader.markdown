@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2008-08-12T03:00:00+09:00
 title: ほぼ日刊イトイ新聞のRSSを Google Reader で購読すると「今日のダーリン」が読めない件
+slug: rss-google-reader
 tags:
 - 未分類
 status: publish

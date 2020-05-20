@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2007-06-09T03:00:00+09:00
 title: 旧メールアドレス解約
+slug: post_93
 tags:
 - 日々
 status: publish

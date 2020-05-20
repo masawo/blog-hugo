@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2006-02-18T03:00:00+09:00
 title: Google AdSense
+slug: google_adsense_1
 tags:
 - 日々
 status: publish

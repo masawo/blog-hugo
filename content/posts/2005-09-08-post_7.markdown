@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-09-08T03:00:00+09:00
 title: さか検閲中
+slug: post_7
 tags:
 - 携帯から
 status: publish

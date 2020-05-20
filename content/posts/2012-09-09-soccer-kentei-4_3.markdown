@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2012-09-09T03:00:00+09:00
 title: サッカー検定 4,3級を受けた
+slug: soccer-kentei-4_3
 tags:
 - サッカー
 status: publish

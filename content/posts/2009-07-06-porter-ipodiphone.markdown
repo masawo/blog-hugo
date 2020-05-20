@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-07-06T03:00:00+09:00
 title: PORTER iPod/iPhone ポーチ
+slug: porter-ipodiphone
 tags:
 - 未分類
 status: publish

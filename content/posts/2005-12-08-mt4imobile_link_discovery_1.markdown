@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-08T03:00:00+09:00
 title: mt4i設置&Mobile Link Discovery対応
+slug: mt4imobile_link_discovery_1
 tags:
 - 日々
 status: publish

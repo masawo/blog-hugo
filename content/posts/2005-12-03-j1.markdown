@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2005-12-03T03:00:00+09:00
 title: J1最終節
+slug: j1
 tags:
 - 携帯から
 status: publish

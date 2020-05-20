@@ -1,6 +1,8 @@
 ---
 layout: post
+date: 2009-06-07T03:00:00+09:00
 title: TimeMachineを自宅サーバに設定
+slug: timemachine_1
 tags:
 - 未分類
 status: publish
