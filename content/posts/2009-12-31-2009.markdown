@@ -10,7 +10,7 @@ type: post
 published: true
 meta: {}
 ---
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="marude.jpg" src="http://wo.skr.jp/images/uploads/marude.jpg" width="339" height="168" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="marude.jpg" src="/images/uploads/marude.jpg" width="339" height="168" class="mt-image-none" style="" /></span>
 今年はこんな感じの1年でした。
 
 自分自身変わったことというとこのぐらいです：

@@ -19,6 +19,6 @@ meta: {}
 自分のは写真の通り。お、おもろ。。
 
 ついてきたあぶらとり紙もジョリーグッド。
-<img alt="070418_2236~0001.jpg" src="http://wo.skr.jp/images/uploads/070418_2236~0001.jpg" width="240" height="320" />
-<img alt="070418_2236~0002.jpg" src="http://wo.skr.jp/images/uploads/070418_2236~0002.jpg" width="240" height="320" />
-<img alt="070419_2220~0001.jpg" src="http://wo.skr.jp/images/uploads/070419_2220~0001.jpg" width="240" height="320" />
+<img alt="070418_2236~0001.jpg" src="/images/uploads/070418_2236~0001.jpg" width="240" height="320" />
+<img alt="070418_2236~0002.jpg" src="/images/uploads/070418_2236~0002.jpg" width="240" height="320" />
+<img alt="070419_2220~0001.jpg" src="/images/uploads/070419_2220~0001.jpg" width="240" height="320" />

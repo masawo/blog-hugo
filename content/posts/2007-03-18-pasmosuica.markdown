@@ -17,4 +17,4 @@ meta: {}
 もし欲しい方がいたら教えてください(マイミクやリアル面識のある方限定)。
 -->
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1174214067.05-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1174214067.05-0.jpg" /></div>

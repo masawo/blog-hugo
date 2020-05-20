@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">地域限定？
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1130576761.66-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1130576761.66-0.jpg" /></div>

@@ -21,11 +21,11 @@ meta:
 
 パッケージ
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img src="http://wo.skr.jp/images/uploads/assets_c/2009/03/IMG_0007-thumb-300x400-105.jpg" alt="IMG_0007.JPG" width="300" height="400" class="mt-image-none" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img src="/images/uploads/assets_c/2009/03/IMG_0007-thumb-300x400-105.jpg" alt="IMG_0007.JPG" width="300" height="400" class="mt-image-none" /></span>
 
 ぴったり入りました。（若干窮屈な気もするけど）
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/IMG_0008.JPG"><img src="http://wo.skr.jp/images/uploads/assets_c/2009/03/IMG_0008-thumb-300x400-107.jpg" alt="IMG_0008.JPG" width="300" height="400" class="mt-image-none" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/IMG_0008.JPG"><img src="/images/uploads/assets_c/2009/03/IMG_0008-thumb-300x400-107.jpg" alt="IMG_0008.JPG" width="300" height="400" class="mt-image-none" /></a></span>
 
 BUILT NYは<a href="http://www.builtny.com/showPage.php?pageID=1518">他のケースやバッグなど</a>も総じて格好いいですな。そろそろバッグも新しいの買わなくては。。
 

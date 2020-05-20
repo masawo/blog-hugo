@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">首位ガンバに勝つなんて上出来過ぎ。最高ですた。
 大宮公園サッカー場が改修に入るのでしばらくお別れ。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132733606.24-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1132733606.24-0.jpg" /></div>

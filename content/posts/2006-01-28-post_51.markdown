@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">微妙な場所にできてしまった
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1138382261.88-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1138382261.88-0.jpg" /></div>

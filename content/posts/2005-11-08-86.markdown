@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">この前台場に行ったらハチロク展示してた
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1131431108.37-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1131431108.37-0.jpg" /></div>

@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">半蔵門線
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1128435219.6-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1128435219.6-0.jpg" /></div>

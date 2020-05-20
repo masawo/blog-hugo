@@ -13,7 +13,7 @@ published: true
 meta:
   has_been_twittered: 'yes'
 ---
-<p><img src="http://wo.skr.jp/images/uploads/2011/11/IMG_1006.jpg" width="358" height="480" alt="IMG_1006.jpg" /></p><font face="Arial" size="3">PDFを、Galaxy Tab 8.9 に転送して閲覧したときのメモです。サクっと終わるのかと思ったらちょっと手間取ってしまった。。（転送したのは、Web+DB PRESS 1-60総集編のPDFです）<br />
+<p><img src="/images/uploads/2011/11/IMG_1006.jpg" width="358" height="480" alt="IMG_1006.jpg" /></p><font face="Arial" size="3">PDFを、Galaxy Tab 8.9 に転送して閲覧したときのメモです。サクっと終わるのかと思ったらちょっと手間取ってしまった。。（転送したのは、Web+DB PRESS 1-60総集編のPDFです）<br />
 <br />
 Samsung Kies をMacにインスコールしてケーブルでつないだけど、PDFを送るためのエクスプローラ的なものが出ない。マスストレージモードにすべく、TabのUSBデバッグをONにしてもなってくれない。なんでだろ<br /></font> <font face="Arial" size="3">↓<br /></font><font face="Arial" size="3">別の手段を考える。Tab側から他マシンに接続できるファイルマネージャ的なのはないかな、と探したら　<a href="https://market.android.com/details?id=com.estrongs.android.pop&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5lc3Ryb25ncy5hbmRyb2lkLnBvcCJd">ES ファイルエクスプローラー</a> がみつかった<br /></font><font face="Arial" size="3">↓<br /></font><font face="Arial" size="3">sambaなファイルサーバにpdfを配置して、ES ファイルエクスプローラーで転送。sambaに接続してコピーするだけ<br />
 <br />

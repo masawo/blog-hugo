@@ -22,7 +22,7 @@ meta:
 昨日よりは交流もできたほうかな。でもまだまだ自分には、力が足らないみたい。
 所属の名刺をあまり持ち合わせてなかったので、個人用の名刺作ったほうがいいな…と思わされたのでした。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1134827050.95-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1134827050.95-0.jpg" /></div>
 
 <!--more-->
 関連リンク：

@@ -16,5 +16,5 @@ meta: {}
 
 南無。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1182936438.07-0.jpg" />
-<img src="http://wo.skr.jp/images/uploads/blog-photo-1182936438.07-1.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1182936438.07-0.jpg" />
+<img src="/images/uploads/blog-photo-1182936438.07-1.jpg" /></div>

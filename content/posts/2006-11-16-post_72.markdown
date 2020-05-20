@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">いい感じに得点していていい気分…
 と思っていたら、後半途中に津波警報の映像に切り替わった(´・ω・｀)</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1163607828.96-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1163607828.96-0.jpg" /></div>

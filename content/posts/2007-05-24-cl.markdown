@@ -11,4 +11,4 @@ published: true
 meta: {}
 ---
 <div class="caption">wktk</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1179945995.76-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1179945995.76-0.jpg" /></div>

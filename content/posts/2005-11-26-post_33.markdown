@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">パスネットで柏に降りたらこんなことに。
 めんどくさいYO…
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132984483.07-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1132984483.07-0.jpg" /></div>

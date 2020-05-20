@@ -30,7 +30,7 @@ meta:
 
 てことで、spモードをmydocomoから再び契約し、APNをspモードのものに変更して試したらテザリングできるようになりました。
 
-<a href="http://wo.skr.jp/images/uploads/2012/07/export_01.png"><img src="http://wo.skr.jp/images/uploads/2012/07/export_01-187x300.png" alt="" title="export_01" width="187" height="300" class="alignnone size-medium wp-image-458" /></a>
+<a href="/images/uploads/2012/07/export_01.png"><img src="/images/uploads/2012/07/export_01-187x300.png" alt="" title="export_01" width="187" height="300" class="alignnone size-medium wp-image-458" /></a>
 
 ※↑の画面が暗いのは、画面がまぶしいので<a href="https://play.google.com/store/apps/details?id=com.haxor">Screen Filter</a>というアプリを入れて調整しているためです。
 

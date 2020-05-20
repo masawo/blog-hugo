@@ -15,4 +15,4 @@ meta: {}
 てことで使い始め。中ボタンのスクロール感が良い感じ。
 
 家でマカーになってから5月で半年、かな。まだまだ使いこなせてません…</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1177951755.83-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1177951755.83-0.jpg" /></div>

@@ -12,7 +12,7 @@ meta: {}
 ---
 <div class="caption">酸化してきました。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132393653.08-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1132393653.08-0.jpg" /></div>
 
 <!--more-->
 いつも外から眺めるばかりの秋葉原ダイビルの、上のほうに初めて立ち入った。

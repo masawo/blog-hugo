@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2011/09/screenshot.png"><img src="http://wo.skr.jp/images/uploads/2011/09/screenshot-300x176.png" title="everydns終了のお知らせ画面" width="300" height="176" class="alignnone size-medium wp-image-398" /></a>
+<a href="/images/uploads/2011/09/screenshot.png"><img src="/images/uploads/2011/09/screenshot-300x176.png" title="everydns終了のお知らせ画面" width="300" height="176" class="alignnone size-medium wp-image-398" /></a>
 
 自宅サーバを公開するためにダイナミックDNSサービスとして <a href="http://everydns.net">everydns.net</a> を利用していたんですが、結構前にdyndnsに接収されており、8/31で完全終了されるとのこと。
 

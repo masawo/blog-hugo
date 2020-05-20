@@ -28,4 +28,4 @@ Airにした場合にアドバンテージなのは、やはり1kg減る重量�
 <!--more-->
 （追記）明日にも届きます。。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="090620_kuro.png" src="http://wo.skr.jp/images/uploads/090620_kuro.png" width="582" height="368" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="090620_kuro.png" src="/images/uploads/090620_kuro.png" width="582" height="368" class="mt-image-none" style="" /></span>

@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">優勝残留昇格争いをザッピング中。
 柏はほぼ昇格決まりかな。
 赤ももう優勝ぽい。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1165041357.01-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1165041357.01-0.jpg" /></div>

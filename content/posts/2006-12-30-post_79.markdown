@@ -11,5 +11,5 @@ published: true
 meta: {}
 ---
 <div class="caption">○ビルでクラシックやってた。すばら</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1167464543.45-0.jpg" />
-<img src="http://wo.skr.jp/images/uploads/blog-photo-1167464543.45-1.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1167464543.45-0.jpg" />
+<img src="/images/uploads/blog-photo-1167464543.45-1.jpg" /></div>

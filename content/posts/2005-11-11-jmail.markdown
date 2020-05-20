@@ -14,7 +14,7 @@ meta: {}
 
 いつしかYahoo!メールを代わりに使うようになり、それ以来Jmailのことをすっかり忘れていたのだけど、ふと思い出してアクセスしてみたらサイトトップには妙な長文が。
 
-<img src="http://wo.skr.jp/images/uploads/051111-thumb.jpg" width="456" height="335" alt="" />
+<img src="/images/uploads/051111-thumb.jpg" width="456" height="335" alt="" />
 
 ...日本法人の社長と連絡が取れなくなったようで。
 

@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2011/12/screenshot-cl.png"><img src="http://wo.skr.jp/images/uploads/2011/12/screenshot-cl-1024x640.png" alt="" title="screenshot-cl" width="620" height="387" class="alignnone size-large wp-image-421" /></a>
+<a href="/images/uploads/2011/12/screenshot-cl.png"><img src="/images/uploads/2011/12/screenshot-cl-1024x640.png" alt="" title="screenshot-cl" width="620" height="387" class="alignnone size-large wp-image-421" /></a>
 
 たまたま <a href="http://store.uefa.com/stores/uefa/default.aspx">uefa.com のストア</a>を見たらクリアランスセールでパーカーとかが安かったので、買ってみました。（前回決勝戦のウェンブリーものが安くなってた）
 
@@ -28,4 +28,4 @@ UKのサイトなので価格はポンド建てでした。
 
 クリアランスセールは今も続いてるようなので、ホスィ方がいれば買ってみるのもアリかと。
 
-<a href="http://wo.skr.jp/images/uploads/2011/12/window-grab.png"><img src="http://wo.skr.jp/images/uploads/2011/12/window-grab-1024x861.png" alt="" title="window-grab" width="620" height="521" class="alignnone size-large wp-image-422" /></a>
+<a href="/images/uploads/2011/12/window-grab.png"><img src="/images/uploads/2011/12/window-grab-1024x861.png" alt="" title="window-grab" width="620" height="521" class="alignnone size-large wp-image-422" /></a>

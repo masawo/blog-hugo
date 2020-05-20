@@ -18,7 +18,7 @@ meta:
 
 <a href="http://matome.naver.jp/odai/2133528646723522601">Xiデータ通信が月額5円で使い放題！docomoの「プラスXi割」が熱すぎる！ - NAVER まとめ</a>
 
-<img src="http://wo.skr.jp/images/uploads/2012/06/2012-06-10-18.25.07-HDR-1024x764.jpg" alt="" title="2012-06-10 18.25.07 HDR" width="620" height="462" class="alignnone size-large wp-image-453" />
+<img src="/images/uploads/2012/06/2012-06-10-18.25.07-HDR-1024x764.jpg" alt="" title="2012-06-10 18.25.07 HDR" width="620" height="462" class="alignnone size-large wp-image-453" />
 
 真ん中の白い端末がNoteです。左はGalaxy S, 右はTab 8.9。
 <!--more-->

@@ -13,7 +13,7 @@ meta:
   has_been_twittered: 'yes'
   fb-status-updater-sn-reference: a:1:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:24:"1301932082_3912577295183";}}
 ---
-<a href="http://www.kickstarter.com/projects/382469225/une-bobine-for-people-who-love-iphone"><img src="http://wo.skr.jp/images/uploads/2012/05/ViewsWhite.jpg" alt="" title="ViewsWhite" width="560" height="420" class="alignnone size-full wp-image-437" /></a>
+<a href="http://www.kickstarter.com/projects/382469225/une-bobine-for-people-who-love-iphone"><img src="/images/uploads/2012/05/ViewsWhite.jpg" alt="" title="ViewsWhite" width="560" height="420" class="alignnone size-full wp-image-437" /></a>
 
 <a href="http://www.ideaxidea.com/archives/2012/05/iphone_stand-2.html">コイル型iPhoneスタンド『Une Bobine』に出資してみた | IDEA*IDEA</a>
 

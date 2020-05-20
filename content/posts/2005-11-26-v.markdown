@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">残留争いの修羅場を見にきた。汗
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1132985685.47-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1132985685.47-0.jpg" /></div>

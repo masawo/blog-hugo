@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">結局寝付けなくて生中継に見入ってる
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1134157297.04-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1134157297.04-0.jpg" /></div>

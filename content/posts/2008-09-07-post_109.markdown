@@ -18,7 +18,7 @@ meta: {}
 
 私の結果はこんなでした↓。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/SF Certificate Page - Gallup Online - The Gallup Organization-thumb-240x264.png"><img alt="SF Certificate Page - Gallup Online - The Gallup Organization.pngのサムネール画像" src="http://wo.skr.jp/images/uploads/assets_c/2008/08/SF Certificate Page - Gallup Online - The Gallup Organization-thumb-240x264-thumb-240x264.png" width="240" height="264" class="mt-image-none" style="" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/SF Certificate Page - Gallup Online - The Gallup Organization-thumb-240x264.png"><img alt="SF Certificate Page - Gallup Online - The Gallup Organization.pngのサムネール画像" src="/images/uploads/assets_c/2008/08/SF Certificate Page - Gallup Online - The Gallup Organization-thumb-240x264-thumb-240x264.png" width="240" height="264" class="mt-image-none" style="" /></a></span>
 
 なんとなく納得できる結果かな、と。（特に<strong>収集心</strong>かな？汗）
 

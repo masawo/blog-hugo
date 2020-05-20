@@ -29,7 +29,7 @@ meta: {}
 
 こんなブログだし見つからなくてもおかしくないと思っていたんですが、ちゃんとありました。(記事１件だけだけど)
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/assets_c/2009/09/090916-120.html" onclick="http://wo.skr.jp/images/uploads/assets_c/2009/09/090916-120.html','popup','width=1071,height=919,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://wo.skr.jp/images/uploads/assets_c/2009/09/090916-thumb-600x514-120.jpg" width="600" height="514" alt="090916.JPG" class="mt-image-none" style="" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/assets_c/2009/09/090916-120.html" onclick="/images/uploads/assets_c/2009/09/090916-120.html','popup','width=1071,height=919,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/uploads/assets_c/2009/09/090916-thumb-600x514-120.jpg" width="600" height="514" alt="090916.JPG" class="mt-image-none" style="" /></a></span>
 
 唯一はてブに数十件あがっている記事のおかげ、のようです。Perlな記事に囲まれているので、ここはPerlなブログということになっているんだな、と。
 

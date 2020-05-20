@@ -14,7 +14,7 @@ meta:
 ---
 3日に続いて、ホーム2連戦の2試合目も行ってきました。
 
-<a href="http://wo.skr.jp/images/uploads/2012/06/2012-06-08-19.37.26.jpg"><img src="http://wo.skr.jp/images/uploads/2012/06/2012-06-08-19.37.26-764x1024.jpg" alt="" title="2012-06-08 19.37.26" width="620" height="830" class="alignnone size-large wp-image-449" /></a>
+<a href="/images/uploads/2012/06/2012-06-08-19.37.26.jpg"><img src="/images/uploads/2012/06/2012-06-08-19.37.26-764x1024.jpg" alt="" title="2012-06-08 19.37.26" width="620" height="830" class="alignnone size-large wp-image-449" /></a>
 <!--more-->
 写真のように、前半は本田のCKが見える、前のほうの席でした。
 
@@ -25,7 +25,7 @@ meta:
 最初のホーム2試合が快勝で、ちょっと出来すぎて後が怖い感じもします。次のオーストラリア戦が重要だなあ。
 
 
-<a href="http://wo.skr.jp/images/uploads/2012/06/2012-06-08-20.24.071.jpg"><img src="http://wo.skr.jp/images/uploads/2012/06/2012-06-08-20.24.071-764x1024.jpg" alt="" title="2012-06-08 20.24.07" width="620" height="830" class="alignnone size-large wp-image-451" /></a>
+<a href="/images/uploads/2012/06/2012-06-08-20.24.071.jpg"><img src="/images/uploads/2012/06/2012-06-08-20.24.071-764x1024.jpg" alt="" title="2012-06-08 20.24.07" width="620" height="830" class="alignnone size-large wp-image-451" /></a>
 
 今回のノベルティはトートバッグ。3日はチケットホルダーでした。
 

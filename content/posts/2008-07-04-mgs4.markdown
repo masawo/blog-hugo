@@ -21,5 +21,5 @@ meta: {}
 「HIDEO!HIDEO!」とか大勢でコールしてるのには吹きました。
 
 サイン会で小島監督、新川洋司さん、レイヴン役の菊地由美さんのサインをいただいてきました。うれしい。
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="080704_0411~0001.jpg" src="http://wo.skr.jp/images/uploads/080704_0411~0001.jpg" width="240" height="320" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="080704_0411~0001.jpg" src="/images/uploads/080704_0411~0001.jpg" width="240" height="320" class="mt-image-none" style="" /></span>
 <iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm3803806" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm3803806">【ニコニコ動画】メタルギアソリッド４ワールドツアーinJAPAN横浜会場イベント前編</a></iframe>

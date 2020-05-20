@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2012/12/2012-12-21_19.10.51_HDR.jpg"><img src="http://wo.skr.jp/images/uploads/2012/12/2012-12-21_19.10.51_HDR-225x300.jpg" alt="" title="2012-12-21_19.10.51_HDR" width="225" height="300" class="alignnone size-medium wp-image-477" /></a>
+<a href="/images/uploads/2012/12/2012-12-21_19.10.51_HDR.jpg"><img src="/images/uploads/2012/12/2012-12-21_19.10.51_HDR-225x300.jpg" alt="" title="2012-12-21_19.10.51_HDR" width="225" height="300" class="alignnone size-medium wp-image-477" /></a>
 
 iPad miniが発売されて結構気にはなってたのですが、自分はSIMフリーiPhone4Sを買ってまだ数ヶ月しか経ってないうえ、docomoのSIMで運用できたという人柱が立ってないこともあって静観していました。
 

@@ -14,4 +14,4 @@ meta: {}
 前よりもまた参加者が増えたそうで、すごいすな。
 会場は東工大@大岡山。
 大学の雰囲気がなんとなくなつかしい。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/080515_1427~0001.jpg" /></div>
+<div class="photo"><img src="/images/uploads/080515_1427~0001.jpg" /></div>

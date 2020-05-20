@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2012/03/2012-03-17-14.35.17.jpg"><img src="http://wo.skr.jp/images/uploads/2012/03/2012-03-17-14.35.17-225x300.jpg" alt="" title="2012-03-17 14.35.17" width="225" height="300" class="alignnone size-medium wp-image-426" /></a>
+<a href="/images/uploads/2012/03/2012-03-17-14.35.17.jpg"><img src="/images/uploads/2012/03/2012-03-17-14.35.17-225x300.jpg" alt="" title="2012-03-17 14.35.17" width="225" height="300" class="alignnone size-medium wp-image-426" /></a>
 
 iPadが新しくなって、Retinaディスプレイですごく画面が綺麗になったりしたので、持ってなかった自分もついに買ってしまいました。
 

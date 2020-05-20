@@ -19,7 +19,7 @@ meta:
 
 ＃HTC EVO 3D も同価格だったけど、重たかったのでPHOTONにしました
 
-<a href="http://wo.skr.jp/images/uploads/2012/05/2012-05-12-00.47.17.jpg"><img src="http://wo.skr.jp/images/uploads/2012/05/2012-05-12-00.47.17-225x300.jpg" alt="" title="2012-05-12 00.47.17" width="225" height="300" class="alignnone size-medium wp-image-433" /></a>
+<a href="/images/uploads/2012/05/2012-05-12-00.47.17.jpg"><img src="/images/uploads/2012/05/2012-05-12-00.47.17-225x300.jpg" alt="" title="2012-05-12 00.47.17" width="225" height="300" class="alignnone size-medium wp-image-433" /></a>
 
 <!--more-->
 

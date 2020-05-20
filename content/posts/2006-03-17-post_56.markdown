@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">祝い鯛。めで鯛、はらいっぱい
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1142521877.18-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1142521877.18-0.jpg" /></div>

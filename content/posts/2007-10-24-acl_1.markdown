@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">例によって真っ赤です。
 入場時にみんなで赤旗振ってたのが壮観だった。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1193225284.92-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1193225284.92-0.jpg" /></div>

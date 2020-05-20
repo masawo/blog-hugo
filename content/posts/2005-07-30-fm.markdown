@@ -18,4 +18,4 @@ meta:
 
 バルサらしい華麗なパス回しが少ないながらも見れたのでよかったかなと。ロナウジーニョが後半ちょっと過ぎから出場してスタンドは盛り上がってました。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1122721684.02-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1122721684.02-0.jpg" /></div>

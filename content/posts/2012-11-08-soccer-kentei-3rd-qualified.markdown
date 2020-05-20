@@ -21,7 +21,7 @@ meta:
 「これはもしや！」と思って開けてみると、両方とも合格でした。おおお。
 たぶん3級はわりとギリギリだったんだろうと思いますが。。
 
-<a href="http://wo.skr.jp/images/uploads/2012/10/ACABF145-8494-49BA-97B2-DBD158AF4D2C.png"><img src="http://wo.skr.jp/images/uploads/2012/10/ACABF145-8494-49BA-97B2-DBD158AF4D2C-225x300.png" alt="" title="3級の認定証" width="225" height="300" class="alignnone size-medium wp-image-474" /></a>
+<a href="/images/uploads/2012/10/ACABF145-8494-49BA-97B2-DBD158AF4D2C.png"><img src="/images/uploads/2012/10/ACABF145-8494-49BA-97B2-DBD158AF4D2C-225x300.png" alt="" title="3級の認定証" width="225" height="300" class="alignnone size-medium wp-image-474" /></a>
 
 <!--more-->
 

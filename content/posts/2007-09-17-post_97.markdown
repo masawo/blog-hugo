@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">壊れたHDDを分解。
 意外と作りはシンプル?</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1190029594.83-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1190029594.83-0.jpg" /></div>

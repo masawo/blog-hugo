@@ -19,7 +19,7 @@ Mr.ChildrenのライブDVDを動画変換するために、表題の作業をMac
 
 <a href="http://handbrake.fr/" title="HandBrake" target="_blank">HandBrake</a>
 
-<a href="http://wo.skr.jp/images/uploads/2012/03/d0befdced14949441a76f8528ddbb9c2.jpg"><img src="http://wo.skr.jp/images/uploads/2012/03/d0befdced14949441a76f8528ddbb9c2.jpg" alt="" title="スクリーンショット 2012-03-24 16.34.58" width="987" height="666" class="alignnone size-full wp-image-429" /></a>
+<a href="/images/uploads/2012/03/d0befdced14949441a76f8528ddbb9c2.jpg"><img src="/images/uploads/2012/03/d0befdced14949441a76f8528ddbb9c2.jpg" alt="" title="スクリーンショット 2012-03-24 16.34.58" width="987" height="666" class="alignnone size-full wp-image-429" /></a>
 
         1. ソースのファイルを指定（isoファイルや、マウントしたDVDとか）
         2. 画面の上のほうにチャプターが選べるプルダウンがあるので、そこを見る。
@@ -31,7 +31,7 @@ Mr.ChildrenのライブDVDを動画変換するために、表題の作業をMac
 
 開始するとこんな表示に。
 
-<a href="http://wo.skr.jp/images/uploads/2012/03/f9c2249cbdc88303332f164438bcc624.jpg"><img src="http://wo.skr.jp/images/uploads/2012/03/f9c2249cbdc88303332f164438bcc624.jpg" alt="" title="スクリーンショット 2012-03-24 16.35.25" width="701" height="624" class="alignnone size-full wp-image-430" /></a>
+<a href="/images/uploads/2012/03/f9c2249cbdc88303332f164438bcc624.jpg"><img src="/images/uploads/2012/03/f9c2249cbdc88303332f164438bcc624.jpg" alt="" title="スクリーンショット 2012-03-24 16.35.25" width="701" height="624" class="alignnone size-full wp-image-430" /></a>
 
 これでmp4ファイルを生成しました。H.264で生成したので、Macはもちろん,iPhoneやiPadでもiTunesにアップロードして見られます。
 

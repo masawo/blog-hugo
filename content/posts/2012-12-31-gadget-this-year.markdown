@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2012/12/20121230234735-288.jpg"><img src="http://wo.skr.jp/images/uploads/2012/12/20121230234735-288-168x300.jpg" alt="" title="20121230234735-288" width="168" height="300" class="alignnone size-medium wp-image-481" /></a>
+<a href="/images/uploads/2012/12/20121230234735-288.jpg"><img src="/images/uploads/2012/12/20121230234735-288-168x300.jpg" alt="" title="20121230234735-288" width="168" height="300" class="alignnone size-medium wp-image-481" /></a>
 
 - Android: PHOTON, GALAXY Note
 - iOS: iPad3, iPhone4S(unlocked), iPod Touch 5th, iPad mini Cellular版(unlocked)

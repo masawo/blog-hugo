@@ -20,4 +20,4 @@ PS3だと相当処理が速いみたいです。
 <a href="http://www.scei.co.jp/folding/jp/">Folding@home on PlayStation3
 </a>
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1174670283.51-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1174670283.51-0.jpg" /></div>

@@ -14,7 +14,7 @@ GAEで作るtwitter botが、とりあえず形になりました。
 
 <a href="http://twitter.com/garahad_bot">@garahad_bot</a> です。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/garahad_bot.png"><img alt="garahad_bot.png" src="http://wo.skr.jp/images/uploads/assets_c/2009/09/garahad_bot-thumb-500x314-123.png" width="500" height="314" class="mt-image-none" style="" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/garahad_bot.png"><img alt="garahad_bot.png" src="/images/uploads/assets_c/2009/09/garahad_bot-thumb-500x314-123.png" width="500" height="314" class="mt-image-none" style="" /></a></span>
 
 botの概要は、タイトルと名前で察しがつくと思いますが、
 

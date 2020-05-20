@@ -18,7 +18,7 @@ meta:
 
 <!--more-->
 
-<a href="http://wo.skr.jp/images/uploads/2012/07/927cb3f7d21ea69d3e59d64c9157fd67.jpg"><img src="http://wo.skr.jp/images/uploads/2012/07/927cb3f7d21ea69d3e59d64c9157fd67-300x250.jpg" alt="" title="スクリーンショット 2012-07-08 14.53.05" width="300" height="250" class="alignnone size-medium wp-image-461" /></a>
+<a href="/images/uploads/2012/07/927cb3f7d21ea69d3e59d64c9157fd67.jpg"><img src="/images/uploads/2012/07/927cb3f7d21ea69d3e59d64c9157fd67-300x250.jpg" alt="" title="スクリーンショット 2012-07-08 14.53.05" width="300" height="250" class="alignnone size-medium wp-image-461" /></a>
 
 結果は正解率94%（47/50問）で、余裕の合格。
 

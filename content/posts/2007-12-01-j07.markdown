@@ -16,4 +16,4 @@ meta: {}
 
 他会場の優勝争いは、なんかお隣がやらかしたみたいですな…あわわ。
 とりあえず、札幌とヴェルディ昇格おめでとうです。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1196499527.12-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1196499527.12-0.jpg" /></div>

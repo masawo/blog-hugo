@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">有楽町にある相田みつを美術館へ、母と一緒に行ってきました。
 言葉が一つ一つ重くてハッとさせられた感じ。
 その後は浅草寺へ行きました。おみくじをひいたら「吉」ですた。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1168253695.5-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1168253695.5-0.jpg" /></div>

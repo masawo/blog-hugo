@@ -18,5 +18,5 @@ meta: {}
 
 原寸大のカタログをもらってきたので、家のPSP,MBPと並べてみて小ささを実感してみたり。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340095.JPG" src="http://wo.skr.jp/images/uploads/CA340095.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340094.JPG" src="http://wo.skr.jp/images/uploads/CA340094.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340095.JPG" src="/images/uploads/CA340095.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340094.JPG" src="/images/uploads/CA340094.JPG" width="640" height="480" class="mt-image-none" style="" /></span>

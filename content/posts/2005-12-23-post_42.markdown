@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">毎年恒例ですな
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1135265665.95-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1135265665.95-0.jpg" /></div>

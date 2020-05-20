@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">見事な逆転勝利ですばら。
 カメラ持ってけばよかった
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1141552173.69-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1141552173.69-0.jpg" /></div>

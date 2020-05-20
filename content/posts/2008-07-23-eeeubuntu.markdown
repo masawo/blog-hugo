@@ -12,7 +12,7 @@ meta: {}
 ---
 EeePC 901 用に買ってきたSDHC 16GBに、ubuntuをインストールしてみました。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://wo.skr.jp/images/uploads/080723.htmll" onclick="window.open('http://wo.skr.jp/images/uploads/080723.html','popup','width=1024,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://wo.skr.jp/images/uploads/assets_c/2008/07/Screenshot-thumb-600x351.png" width="600" height="351" alt="" class="mt-image-none" style="" /></a></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/080723.htmll" onclick="window.open('/images/uploads/080723.html','popup','width=1024,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/uploads/assets_c/2008/07/Screenshot-thumb-600x351.png" width="600" height="351" alt="" class="mt-image-none" style="" /></a></span>
 
 普通にFirefox3がプリインストールされていたりして、結構良いです。
 

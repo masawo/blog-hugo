@@ -20,11 +20,11 @@ MacBook Pro のHDD(120G)の容量が少なくなってきたので、500GBのHDD
 - <a href="http://mac.ascii24.com/mac/review/portable/2006/03/15/661126-000.html">MacBook Pro 1.83GHz/2.0GHz(2006年1月発表、15インチモデル)</a>
 - <a href="http://conex.fujigoma.com/?target=http://conex.fujigoma.com/mac/mac_hdd_change.html">MacBookのHDD換装方法</a>
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340097.JPG" src="http://wo.skr.jp/images/uploads/CA340097.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340097.JPG" src="/images/uploads/CA340097.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
 
 左が新HDD。内蔵されてたのは林檎マークつき(<a href="http://jp.fujitsu.com/platform/storage/components/hdd/archive/25sata/mhw2040bh-mhw2160bh.html">MHW2120BH</a>)
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340096.JPG" src="http://wo.skr.jp/images/uploads/CA340096.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340096.JPG" src="/images/uploads/CA340096.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
 
 ご開帳の図
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340098.JPG" src="http://wo.skr.jp/images/uploads/CA340098.JPG" width="640" height="480" class="mt-image-none" style="" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="CA340098.JPG" src="/images/uploads/CA340098.JPG" width="640" height="480" class="mt-image-none" style="" /></span>

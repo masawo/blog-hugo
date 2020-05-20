@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">購入。
 なんか本がついてるなと思ったら、取説だった。外出しなのね
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1123172636.05-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1123172636.05-0.jpg" /></div>

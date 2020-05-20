@@ -18,7 +18,7 @@ meta: {}
 
 マザーボードの箱が厚みがあって少しびびり。
 
-<img alt="070809_0117~0001.jpg" src="http://wo.skr.jp/images/uploads/070809_0117~0001.jpg" width="240" height="320" />
+<img alt="070809_0117~0001.jpg" src="/images/uploads/070809_0117~0001.jpg" width="240" height="320" />
 
 構成は以下で検討してます。数字は日曜日の時点のネット上での価格。
 <blockquote>○ケース＋電源<br>

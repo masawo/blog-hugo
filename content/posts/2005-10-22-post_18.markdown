@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">さいたまダービーなり
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1129965008.98-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1129965008.98-0.jpg" /></div>

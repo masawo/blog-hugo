@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">東京V×大宮みにきた。
 道中人多いと思ったら、神宮で野球やっててそっちに行く人ばかり。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1124618196.41-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1124618196.41-0.jpg" /></div>

@@ -36,7 +36,7 @@ Widgetとしてインストールするので、iTunesのある画面と行っ�
 
 キャプチャ撮ってみました。
 
-<a href="http://wo.skr.jp/images/uploads/2011/08/screenshot.jpg"><img src="http://wo.skr.jp/images/uploads/2011/08/screenshot-300x168.jpg" alt="" title="screenshot" width="300" height="168" class="alignnone size-medium wp-image-383" /></a>
+<a href="/images/uploads/2011/08/screenshot.jpg"><img src="/images/uploads/2011/08/screenshot-300x168.jpg" alt="" title="screenshot" width="300" height="168" class="alignnone size-medium wp-image-383" /></a>
 
 他にも Artwork Gofer というソフトもあります。これもそこそこ取れるんですが、上2つで事足りる気がします。
 

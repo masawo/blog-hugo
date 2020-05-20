@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">ダイ〇ーで見かけて即確保。
 関東でも売るようになったのかな?</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1174136214.37-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1174136214.37-0.jpg" /></div>

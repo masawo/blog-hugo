@@ -10,7 +10,7 @@ type: post
 published: true
 meta: {}
 ---
-<div class="caption">導入してみた。すばら </div> <div class="photo"><img border="0" src="http://wo.skr.jp/images/uploads/blog-photo-1138513369.89-0.jpg" /></div>
+<div class="caption">導入してみた。すばら </div> <div class="photo"><img border="0" src="/images/uploads/blog-photo-1138513369.89-0.jpg" /></div>
 
 <!--more-->
 <p>おとといについカッとなってAmazonでクリックした <a name="amazletlink"></a>LF-PK1 ロケーションフリーベースステーション  が届いたので、さっそく設定したのでした。  <br />＃最近PSPから若干ご無沙汰気味だったので、活用したかったというのもあったりします  <br /><br /><a title="ITmedia +D LifeStyle：「PSP」を&ldquo;テレビ以上&rdquo;にするロケーションフリー (1/3)" href="http://plusd.itmedia.co.jp/lifestyle/articles/0601/18/news108.html">ITmedia +D LifeStyle：「PSP」を&ldquo;テレビ以上&rdquo;にするロケーションフリー (1/3)</a>  </p><p>ここにも書かれているように導入も手軽で、小一時間程度もすればPSPから見れるようになりました。あっさりできてびっくり。<br /> 寝床からテレビが角度的に見れない（見れないこともないけどかなり苦しい体勢になる&hellip;）ので、これから寝床や部屋のどこからでも見られるし、外でも無線LANがあれば見られるしで、ジョリーグッドであります。<br /><br />まれに映像がわずかに止まるときがあるけれど、機器の置き場が悪いのかな。それともサッカーのような動きが激しいのを見たせい？まあ使ううちに分かることでしょう。 <br />PSPのスピーカーはあんまり音が良くないので、音楽番組とかには向かないかも。でもヘッドホンとかで補えば解決ですな。 <br />あ、あとPSPのロケーションフリープレイヤーは結構良くできてるなと思った。リモコンはしっかり複数メーカーのいろんな機器に対応してるっぽいし。うちのHDDレコーダーであるところの TOSHIBA RD-XS57 もちゃんと認識できてリモコン操作できてます。昨今のソニークオリティとは違ってこれは良いことですな。<br /><br />PSP用スタンドでも買おうかしら。 <br /><a title="[N] PSPでテレビを見るためのクレードル的なスタンド" href="http://netafull.net/psp/011192.html">[N] PSPでテレビを見るためのクレードル的なスタンド</a><br /></p>

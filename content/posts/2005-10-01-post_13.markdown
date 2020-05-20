@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">久々に来た。レッズじゃなくてアルディージャだけど
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1128144250.74-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1128144250.74-0.jpg" /></div>

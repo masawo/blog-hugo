@@ -11,4 +11,4 @@ published: true
 meta: {}
 ---
 <div class="caption">ktkr!</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1163227953.68-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1163227953.68-0.jpg" /></div>

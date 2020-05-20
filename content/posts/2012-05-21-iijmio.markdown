@@ -19,7 +19,7 @@ WiMAXよりもXiのほうが便利かなと思い、モバイルルータ L-09C 
 で 4月から外出時に使って、確かにWiMAXよりエリアが広くなって速度も出て便利にはなったんですが、月額料金の明細を見ると、やっぱりちょっと高いかなと思い始めました。
 
 <!--more-->
-<a href="http://wo.skr.jp/images/uploads/2012/05/screenshot.jpg"><img src="http://wo.skr.jp/images/uploads/2012/05/screenshot.jpg" alt="" title="screenshot" width="718" height="695" class="alignnone size-full wp-image-441" /></a>
+<a href="/images/uploads/2012/05/screenshot.jpg"><img src="/images/uploads/2012/05/screenshot.jpg" alt="" title="screenshot" width="718" height="695" class="alignnone size-full wp-image-441" /></a>
 
 これは今月の1〜今日までの明細で、総通信料は300MB程度。先月もこのぐらいでした。
 

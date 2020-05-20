@@ -13,7 +13,7 @@ meta: {}
 MT4.1にしたら、なぜか <a href="http://moblog.uva.ne.jp">moblog.uva.ne.jp</a> による携帯メールでの投稿が不調に。
 (投稿内容が空になってしまう)
 <div class="caption">写真</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1211878261.54-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1211878261.54-0.jpg" /></div>
 
 <!--more-->
 ググってみて、以下を参考に1箇所のプログラム修正をしてみました。

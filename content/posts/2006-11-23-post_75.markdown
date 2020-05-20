@@ -11,4 +11,4 @@ published: true
 meta: {}
 ---
 <div class="caption">ふう着席</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1164261921.35-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1164261921.35-0.jpg" /></div>

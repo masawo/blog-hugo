@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/images/uploads/2012/05/ab6af26a8ada8a7c3c30d5d3f96886f3.jpg"><img src="http://wo.skr.jp/images/uploads/2012/05/ab6af26a8ada8a7c3c30d5d3f96886f3-300x187.jpg" alt="" title="Chrome ウェブストア - Facebook Disconnect" width="300" height="187" class="alignnone size-medium wp-image-439" /></a>
+<a href="/images/uploads/2012/05/ab6af26a8ada8a7c3c30d5d3f96886f3.jpg"><img src="/images/uploads/2012/05/ab6af26a8ada8a7c3c30d5d3f96886f3-300x187.jpg" alt="" title="Chrome ウェブストア - Facebook Disconnect" width="300" height="187" class="alignnone size-medium wp-image-439" /></a>
 
 自分の場合ごくまれに、ネットサーフィンをしているとき「Facebookソーシャルプラグイン」で出てくる顔画像が<strong>無性にウザイ</strong>と感じることがあります。
 

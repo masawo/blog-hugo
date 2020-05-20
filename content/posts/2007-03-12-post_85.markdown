@@ -13,4 +13,4 @@ meta: {}
 <div class="caption">近所のスーパーで見つけて、パッケージのよゐこにひかれて購入。
 抹茶とか書いてあるので、どんなもんだろと思いつつ咀嚼してみると…
 意外と美味かったです。上品な甘さみたいな感じ。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1173629606.63-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1173629606.63-0.jpg" /></div>

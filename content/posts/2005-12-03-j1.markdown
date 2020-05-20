@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">いつも通り埼玉スタジアムへ。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1133585245.18-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1133585245.18-0.jpg" /></div>

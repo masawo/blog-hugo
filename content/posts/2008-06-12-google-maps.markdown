@@ -19,4 +19,4 @@ meta:
 -  [マイマップ]タブで、注目の地図というところにある「スポット」をクリック(チェック)
 - するといろんなジャンルが出てくるので、表示したいジャンルを選ぶと地図にスポットが出てくる
 - あとはスポットを適当に選んで、「マイマップに追加」をクリックしてマイマップに保存していく
-<img src="http://wo.skr.jp/images/uploads/assets_c/2008/06/080612-thumb-640x397.png" alt="080612.png" width="640" height="397" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img src="/images/uploads/assets_c/2008/06/080612-thumb-640x397.png" alt="080612.png" width="640" height="397" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />

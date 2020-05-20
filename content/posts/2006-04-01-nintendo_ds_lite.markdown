@@ -15,4 +15,4 @@ meta: {}
 画面は明るくなって良いです。
 充電のアダプターは旧DSとは違う形状のコネクタなので、旧のを流用することはできません。
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1143881815.56-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1143881815.56-0.jpg" /></div>

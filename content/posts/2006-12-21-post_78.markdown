@@ -11,4 +11,4 @@ published: true
 meta: {}
 ---
 <div class="caption">正直、買いすぎたかも。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1166708707.74-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1166708707.74-0.jpg" /></div>

@@ -13,7 +13,7 @@ meta:
   has_been_twittered: 'yes'
 ---
 数日経ってるのでちと遅れ気味ですが、書いてみました。
-<img src="http://wo.skr.jp/images/uploads/2012/06/2012-06-03-19.25.01-224x300.jpg" alt="" title="2012-06-03 19.25.01" width="224" height="300" class="alignnone size-medium wp-image-446" />
+<img src="/images/uploads/2012/06/2012-06-03-19.25.01-224x300.jpg" alt="" title="2012-06-03 19.25.01" width="224" height="300" class="alignnone size-medium wp-image-446" />
 
 <!--more-->
 
@@ -46,4 +46,4 @@ meta:
 8日のヨルダン戦向けの臨時ダイヤも同様になってます。
 
 <a href="http://www.s-rail.co.jp/contents/20120608soccer.htm">http://www.s-rail.co.jp/contents/20120608soccer.htm</a>
-<a href="http://wo.skr.jp/images/uploads/2012/06/b9537386f15816f1ba2603c8bb1cc3ea.jpg"><img src="http://wo.skr.jp/images/uploads/2012/06/b9537386f15816f1ba2603c8bb1cc3ea.jpg" alt="" title="スクリーンショット 2012-06-07 2.23.10" width="949" height="559" class="alignnone size-full wp-image-445" /></a>
+<a href="/images/uploads/2012/06/b9537386f15816f1ba2603c8bb1cc3ea.jpg"><img src="/images/uploads/2012/06/b9537386f15816f1ba2603c8bb1cc3ea.jpg" alt="" title="スクリーンショット 2012-06-07 2.23.10" width="949" height="559" class="alignnone size-full wp-image-445" /></a>

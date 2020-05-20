@@ -15,4 +15,4 @@ meta: {}
 ydbsカメラで雑誌買ったときのかな。一瞬何かと思いますた。
 
 designをデイジングと読むなんて…相当疲れてたにちまいない。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1185451470.6-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1185451470.6-0.jpg" /></div>

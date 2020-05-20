@@ -12,5 +12,5 @@ meta: {}
 ---
 <div class="caption">横浜FM×大宮をマターリ観戦しに行ったあと、グリーンライン経由で帰り中。
 新横浜は少し久しぶりでしたが、駅周辺が以前より整備されて変わったなあ。</div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1210065575.5-0.jpg" />
-<img src="http://wo.skr.jp/images/uploads/blog-photo-1210065575.5-1.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1210065575.5-0.jpg" />
+<img src="/images/uploads/blog-photo-1210065575.5-1.jpg" /></div>

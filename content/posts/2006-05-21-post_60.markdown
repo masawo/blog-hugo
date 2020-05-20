@@ -12,4 +12,4 @@ meta: {}
 ---
 <div class="caption">サッカー観戦に行った帰りに、IKEAに立ち寄り
 </div>
-<div class="photo"><img src="http://wo.skr.jp/images/uploads/blog-photo-1148202454.2-0.jpg" /></div>
+<div class="photo"><img src="/images/uploads/blog-photo-1148202454.2-0.jpg" /></div>

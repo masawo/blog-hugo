@@ -11,7 +11,7 @@ published: false
 meta: {}
 ---
 <div class="moblogkun-entry">
-<img src="http://wo.skr.jp/images/uploads/20080619_485a323661be2.jpg" width="240" height="320" alt="080602_1356~0001.jpg" />
+<img src="/images/uploads/20080619_485a323661be2.jpg" width="240" height="320" alt="080602_1356~0001.jpg" />
 <p>てすつ<br />
 </p>
 </div>
