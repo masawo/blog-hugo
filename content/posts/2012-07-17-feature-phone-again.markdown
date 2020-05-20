@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/wp/2012/07/galaxy-note-tether.html">先日のエントリ</a>で書いた続きです。
+<a href="/blog/2012/07/galaxy-note-tether.html">先日のエントリ</a>で書いた続きです。
 
 <a href="/images/uploads/2012/07/2012-07-17-22.04.33.jpg"><img src="/images/uploads/2012/07/2012-07-17-22.04.33-225x300.jpg" alt="" title="2012-07-17 22.04.33" width="225" height="300" class="alignnone size-medium wp-image-464" /></a>
 

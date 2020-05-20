@@ -75,7 +75,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 # keep URL from octopress
 [permalinks]
-  posts = "/blog/:year/:month/:day/:slug"
+  posts = "/blog/:year/:month/:slug"
 
 # lots of inline HTML in Markdown files
 # https://github.com/gohugoio/hugo/releases/tag/v0.60.0

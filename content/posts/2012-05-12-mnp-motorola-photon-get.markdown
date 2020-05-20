@@ -13,7 +13,7 @@ meta:
   has_been_twittered: 'yes'
   fb-status-updater-sn-reference: a:1:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:24:"1301932082_3907241041780";}}
 ---
-<a href="http://wo.skr.jp/wp/2012/05/feature-phone-will-leave.html">ガラケー解約予定</a>だったんですが、その後に「他キャリアにMNPすると、一括0円で買えてキャッシュバックもある」ということを知りました。
+<a href="/blog/2012/05/feature-phone-will-leave.html">ガラケー解約予定</a>だったんですが、その後に「他キャリアにMNPすると、一括0円で買えてキャッシュバックもある」ということを知りました。
 
 情報をあれこれ探した結果、auへのMNPで <a href="http://www.au.kddi.com/seihin/ichiran/smartphone/isw11m/">MOTOROLA PHOTON</a> という機種にすれば45000円キャッシュバックというお店が見つかったので、東横線方面まで行って契約してきました。
 

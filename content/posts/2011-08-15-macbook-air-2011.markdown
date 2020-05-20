@@ -13,7 +13,7 @@ meta:
   has_been_twittered: 'yes'
   _wp_old_slug: macbook-air-2011%e8%b2%b7%e3%81%84%e6%9b%bf%e3%81%88%e6%a4%9c%e8%a8%8e
 ---
-2009年に MacBook Air の新型がでたときに<a href="http://wo.skr.jp/wp/2009/06/macbook_air_1.html">飛びついて購入</a>してるんですが、先月に出た新機種はCPUがかなり強まってるようで、そろそろ買い替えかな〜と思いました。
+2009年に MacBook Air の新型がでたときに<a href="/blog/2009/06/macbook_air_1.html">飛びついて購入</a>してるんですが、先月に出た新機種はCPUがかなり強まってるようで、そろそろ買い替えかな〜と思いました。
 
 <a href="http://plusd.itmedia.co.jp/pcuser/articles/1107/26/news025.html">旧型ユーザーは涙目か：“Sandy Bridge”な「MacBook Air」を新旧比較（前編） (1/2) - ITmedia +D PC USER</a>
 

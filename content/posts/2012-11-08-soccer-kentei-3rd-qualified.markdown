@@ -13,7 +13,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/wp/2012/09/soccer-kentei-4_3.html">サッカー検定 4,3級を受けた | wolog</a>
+<a href="/blog/2012/09/soccer-kentei-4_3.html">サッカー検定 4,3級を受けた | wolog</a>
 
 9月に4,3級を受けていて、たぶん4級は余裕で合格だけど3級は駄目だろう、という自己採点でした。
 

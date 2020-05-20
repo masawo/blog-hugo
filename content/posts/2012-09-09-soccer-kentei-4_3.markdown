@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
   has_been_twittered: 'yes'
 ---
-<a href="http://wo.skr.jp/wp/2012/07/soccer-kentei-5.html">前回の5級</a>から2ヶ月。4,3級を申し込んでいたので、今日受けに行きました。
+<a href="/blog/2012/07/soccer-kentei-5.html">前回の5級</a>から2ヶ月。4,3級を申し込んでいたので、今日受けに行きました。
 
 会場は代々木公園駅から歩いて10分ぐらいの、東海大学の建物。
 

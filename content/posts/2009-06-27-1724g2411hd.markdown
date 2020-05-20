@@ -25,7 +25,7 @@ meta:
 
 <a href="http://www.flickr.com/photos/masawo/3662260721/" title="RIMG0018.JPG by masawo77, on Flickr"><img src="http://farm3.static.flickr.com/2593/3662260721_7e4c1263e6.jpg" width="500" height="375" alt="RIMG0018.JPG" /></a>
 
-<a href="http://wo.skr.jp/wp/2009/04/post_116.html">今まで使っていた17インチモニタ</a>と置き換えて、設置完了。
+<a href="/blog/2009/04/post_116.html">今まで使っていた17インチモニタ</a>と置き換えて、設置完了。
 
 重量が5kgを切るぐらいでこれまでとたいして変わらないので、置き換え作業は筋力のない自分でも困りませんでした。
 
