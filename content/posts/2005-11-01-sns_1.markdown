@@ -7,7 +7,7 @@ tags:
 - チラシの裏
 status: publish
 type: post
-published: true
+published: false
 meta: {}
 ---
 <a title="FPN-ニュースコミュニティ- ブログとオンラインゲームと私" href="http://www.future-planning.net/x/modules/news/article.php?storyid=897#comment">FPN-ニュースコミュニティ- ブログとオンラインゲームと私</a>

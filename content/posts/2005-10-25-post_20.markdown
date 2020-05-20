@@ -1,13 +1,12 @@
 ---
 layout: post
+draft: true
 date: 2005-10-25T03:00:00+09:00
 title: コトノハ
 slug: post_20
 tags:
 - 日々
-status: publish
 type: post
-published: true
 meta: {}
 ---
 <a href="http://kotonoha.cc/">コトノハ</a>という○×つけサイトに、始まって以来ときどき足繁く通っている。

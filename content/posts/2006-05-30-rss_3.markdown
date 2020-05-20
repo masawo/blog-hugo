@@ -7,7 +7,7 @@ tags:
 - 日々
 status: publish
 type: post
-published: true
+published: false
 meta: {}
 ---
 数日前？に日本サッカー協会のサイトがリニューアルされたようですね。

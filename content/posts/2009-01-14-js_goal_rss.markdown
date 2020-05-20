@@ -7,7 +7,7 @@ tags:
 - 未分類
 status: publish
 type: post
-published: true
+published: false
 meta: {}
 ---
 <a href="http://www.jsgoal.jp/">J's GOAL - Ｊリーグ公認ファンサイト</a>のRSSを作って公開していたんですが、少し前にリニューアルされてデザインが変わったためにRSSが空になってしまっていたことに今日気づきました。。
