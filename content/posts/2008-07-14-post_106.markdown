@@ -10,9 +10,9 @@ type: post
 published: true
 meta: {}
 ---
-この週末は、<a href="http://wo.skr.jp/mt/2008/07/eee-pc.html">きのう届いた Eee PC 901</a> をいじるのはほどほどにしておいて、自宅サーバのリプレースを進めました。
+この週末は、<a href="/blog/2008/07/eee-pc.html">きのう届いた Eee PC 901</a> をいじるのはほどほどにしておいて、自宅サーバのリプレースを進めました。
 
-やったことは、<a href="http://wo.skr.jp/mt/2008/06/ubuntu-804-server-amd64.html">先日OSだけ導入しておいた新マシン</a>への、データおよび設定の移し替えです。
+やったことは、<a href="/blog/2008/06/ubuntu-804-server-amd64.html">先日OSだけ導入しておいた新マシン</a>への、データおよび設定の移し替えです。
 
 <!--more-->
 まずは、ファイルサーバやホームディレクトリ等の必要なデータを rsync でコピー。

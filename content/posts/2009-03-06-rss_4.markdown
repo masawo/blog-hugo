@@ -14,7 +14,7 @@ meta: {}
 
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/%E5%A4%A7%E5%AE%AE%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A3%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88.html" onclick="/images/uploads/%E5%A4%A7%E5%AE%AE%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A3%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88.html','popup','width=974,height=650,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/uploads/大宮アルディージャ公式サイト-thumb-480x320.png" width="480" height="320" alt="ardija_top.png" class="mt-image-none" style="" /></a></span>
 
-旧サイトにはヘッドラインのRSSがなかったので<a href="http://wo.skr.jp/mt/2006/03/rss-2.html">自前で作って提供</a>してきたんですが、<a href="http://www.ardija.co.jp/information/rss.xml">公式でRSS配信が始まった</a>のでこちらの自作RSSはお役ご免になります。（既に公式RSSへのリダイレクトに変更済み）
+旧サイトにはヘッドラインのRSSがなかったので<a href="/blog/2006/03/rss-2.html">自前で作って提供</a>してきたんですが、<a href="http://www.ardija.co.jp/information/rss.xml">公式でRSS配信が始まった</a>のでこちらの自作RSSはお役ご免になります。（既に公式RSSへのリダイレクトに変更済み）
 
 というわけで、これまで作ってきた野良RSSは全て終了となりました。
 

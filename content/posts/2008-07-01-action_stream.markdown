@@ -10,7 +10,7 @@ type: post
 published: true
 meta: {}
 ---
-ときどきブログで見かける Action Stream というものを、<a href="http://wo.skr.jp/mt/stream.html">ここでもやってみました</a>。
+ときどきブログで見かける Action Stream というものを、<a href="/blog/stream.html">ここでもやってみました</a>。
 以下を参考にしながら。
 
 <a href="http://memolog.org/2008/02/action_stream.html">Action Stream をなんとなく入れてみました - メモログ</a>

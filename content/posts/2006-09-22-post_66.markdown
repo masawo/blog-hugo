@@ -10,7 +10,7 @@ type: post
 published: false
 meta: {}
 ---
-<a href="http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html" onclick="window.open('http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html','popup','width=972,height=612,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://wo.skr.jp/mt/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa-thumb.png" width="486" height="306" alt="" /></a>
+<a href="/blog/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html" onclick="window.open('/blog/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa.html','popup','width=972,height=612,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/blog/J-League%20Tickets%20from%20Y%21%20Auctions%20urawa-thumb.png" width="486" height="306" alt="" /></a>
 Webサービスの勉強がてら、<a href="http://developer.yahoo.co.jp/auctions/" title="Yahoo!デベロッパーネットワーク - オークションWebサービス">Yahoo!デベロッパーネットワーク - オークションWebサービス</a> を利用して小物を作ろうとしています。
 
 内容は、「ヤフオクにあるJリーグチケットカテゴリの中から、Jリーグ各クラブごとのチケット出品一覧を出す」というものです。

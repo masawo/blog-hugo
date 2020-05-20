@@ -33,4 +33,4 @@ meta:
 (追記)
 以前からやってる、<a href="http://www.jfa.or.jp/">JFA</a>と<a href="http://www.jsgoal.jp/">J's GOAL</a>のRSSもあります。
 
-<a href="http://wo.skr.jp/mt/2005/09/rss.html" title="wolog: RSSフィード再開">wolog: RSSフィード再開</a>
+<a href="/blog/2005/09/rss.html" title="wolog: RSSフィード再開">wolog: RSSフィード再開</a>

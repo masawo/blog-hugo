@@ -10,7 +10,7 @@ type: post
 published: false
 meta: {}
 ---
-以前に<a href="http://wo.skr.jp/mt/2005/11/cpan.html" title="wolog: CPANで自分のホームディレクトリ内にモジュールをインストール">CPANで自分のホームディレクトリ内にモジュールをインストール</a>したのですが、最近になって Template-Toolkit を試してみたいと思いました。そのときのメモです。
+以前に<a href="/blog/2005/11/cpan.html" title="wolog: CPANで自分のホームディレクトリ内にモジュールをインストール">CPANで自分のホームディレクトリ内にモジュールをインストール</a>したのですが、最近になって Template-Toolkit を試してみたいと思いました。そのときのメモです。
 
 いつものように perl -MCPAN -e shell から test をやってみたけれど、なぜかうまくインストールできず。どうやらソースからやる必要がありそう。
 

@@ -10,7 +10,7 @@ type: post
 published: true
 meta: {}
 ---
-<a href="http://wo.skr.jp/mt/2009/06/timemachine.html">TimeMachineのバックアップ</a>にずいぶん時間がかかるので、こりゃ別のディスクで新しくやり直したほうが早いなぁと思っていたら、samba経由でネットワーク越しにやれる方法があるそうで。
+<a href="/blog/2009/06/timemachine.html">TimeMachineのバックアップ</a>にずいぶん時間がかかるので、こりゃ別のディスクで新しくやり直したほうが早いなぁと思っていたら、samba経由でネットワーク越しにやれる方法があるそうで。
 
 無線LANのままバックアップできて便利になるので、そっちに移行することにしました。
 
