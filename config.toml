@@ -1,6 +1,6 @@
 baseURL = "https://masawo.github.io"
-languageCode = "ja-jp"
-defaultContentLanguage = "ja"
+#languageCode = "ja"
+#defaultContentLanguage = "ja"
 title = "wolog"
 theme = "hermit"
 # enableGitInfo = true
