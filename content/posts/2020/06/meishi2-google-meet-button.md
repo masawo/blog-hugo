@@ -1,5 +1,6 @@
 ---
 title: "meishi2 に Google Meet のショートカットを設定する(macOS)"
+slug: meishi2-google-meet-shortcut
 date: 2020-06-28T21:06:10+09:00
 draft: false
 ---
