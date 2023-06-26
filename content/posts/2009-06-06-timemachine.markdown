@@ -28,4 +28,3 @@ meta: {}
 
 最初からHDD容量フルに領域切っておけば、この作業要らなかったな、というのはご愛敬。
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="/images/uploads/assets_c/2009/06/superduper-114.html" onclick="/images/uploads/assets_c/2009/06/superduper-114.html','popup','width=578,height=477,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/images/uploads/assets_c/2009/06/superduper-thumb-400x330-114.png" width="400" height="330" alt="superduper.png" class="mt-image-none" style="" /></a></span>
