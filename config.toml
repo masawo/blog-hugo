@@ -12,8 +12,6 @@ hasCJKLanguage = true
 
 # default amount of posts in each pages
 paginate = 12
-# google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = "G-9JK579P737"
 # copyright description used only for seo schema
 copyright = ""
 
@@ -183,6 +181,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Twitter = "masawo"
     Instagram = "masawo77"
 
+  # LoveIt NEW | 0.2.0 Analytics config
+  [params.analytics]
+    enable = true
+    [params.analytics.google]
+      id = "G-9JK579P737"
+
 # Menu config
 [menu]
   [[menu.main]]
@@ -213,7 +217,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # https://github.com/gohugoio/hugo/releases/tag/v0.60.0
 [markup.goldmark.renderer]
   unsafe = true
-
-  # LoveIt NEW | 0.2.0 Analytics config
-  [params.analytics]
-    enable = false
