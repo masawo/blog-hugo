@@ -5,7 +5,6 @@ title: "WordpressからOctopressに移行"
 slug: from-wordpress-to-octopress
 date: 2013-07-31T22:03:00+09:00
 comments: true
-categories: wordpress, octopress
 ---
 7月の始めごろに、このブログを Wordpress から Octopress に移行していました。
 

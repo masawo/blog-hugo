@@ -5,7 +5,6 @@ title: "自宅サーバがread-onlyになってた&修復"
 slug: ubuntu-server-hdd-read-only
 date: 2013-08-11T21:19:00+09:00
 comments: true
-categories: 
 ---
 自宅サーバのUbuntuにちょっと久しぶりにログインしたら、read-only file system などという文言が。  
 数日前からHDDの片方が怪しくなって、RAIDが解除されてこの状態になってたみたい。  
